@@ -1,10 +1,9 @@
 ## CSC435 Programming Assignment 1 (Winter 2024)
 **Jarvis College of Computing and Digital Media - DePaul University**
 
-**Student**: TO-DO write-student-name (TO-DO write-email-address)
+**Student**: Andy Chommany achomma2@depaul.edu
 
-**Solution programming language**: TO-DO write-solution-programming-language (C++ or Java)
-
+**Solution programming language**: Java
 ### Requirements
 
 If you are implementing your solution in C++ you will need to have GCC 12.x and CMake 3.22.x installed on your system. On Ubuntu 22.04 you can install GCC and set it as default compiler using the following commands:
