@@ -1,0 +1,5160 @@
+Project Gutenbergs The School For Scandal by Richard Brinsley Sheridan
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever You may copy it give it away or
+reuse it under the terms of the Project Gutenberg License included
+with this eBook or online at wwwgutenbergorg
+
+
+Title The School For Scandal
+
+Author Richard Brinsley Sheridan
+
+
+Release Date October 1999 Etext 1929
+Last Updated July 10 2013
+
+Language English
+
+Character set encoding ASCII
+
+ START OF THIS PROJECT GUTENBERG EBOOK THE SCHOOL FOR SCANDAL 
+
+
+
+
+Produced by Gary R Young
+
+
+
+
+
+
+
+
+THE SCHOOL FOR SCANDAL
+
+
+A COMEDY
+
+A PORTRAIT1
+
+BY R B SHERIDAN ESQ
+
+
+Transcribers Comments on the preparation of this EText
+
+SQUARE BRACKETS
+
+The square brackets ie   are copied from the printed book without
+change except that a closing bracket  has been added to the stage
+directions
+
+
+FOOTNOTES
+
+For this EText version of the book the footnotes have been
+consolidated at the end of the play
+
+Numbering of the footnotes has been changed and each footnote is given
+a unique identity in the form X
+
+
+CHANGES TO THE TEXT
+
+Character names have been expanded For Example SIR BENJAMIN was SIR
+BEN
+
+
+
+
+THE TEXT OF THE SCHOOL FOR SCANDAL
+
+The text of THE SCHOOL FOR SCANDAL in this edition is taken by Mr
+Fraser Raes generous permission from his SHERIDANS PLAYS NOW PRINTED
+AS HE WROTE THEM In his Prefatory Notes xxxvii Mr Rae writes The
+manuscript of it THE SCHOOL FOR SCANDAL in Sheridans own handwriting
+is preserved at Frampton Court and is now printed in this volume This
+version differs in many respects from that which is generally known
+and I think it is even better than that which has hitherto been read and
+acted As I have endeavoured to reproduce the works of Sheridan as he
+wrote them I may be told that he was a bad hand at punctuating and very
+bad at spelling    But Sheridans shortcomings as a speller have
+been exaggerated Lest Sheridans shortcomings either in spelling
+or in punctuation should obscure the text I have in this edition
+inserted in brackets some explanatory suggestions It has seemed best
+also to adopt a uniform method for indicating stagedirections and
+abbreviations of the names of characters There can be no gain to the
+reader in reproducing for example Sheridans different indications for
+the part of Lady SneerwellLADY SNEERWELL LADY SNEER LADY SN and
+LADY Sor his varying use of EXIT and EX or his inconsistencies in
+the use of italics in the stagedirections Since however Sheridans
+biographers from Moore to Fraser Rae have shown that no authorised or
+correct edition of THE SCHOOL FOR SCANDAL was published in Sheridans
+lifetime there seems unusual justification for reproducing the text of
+the play itself with absolute fidelity to the original manuscript Mr
+Ridgway who repeatedly sought to obtain a copy corrected by the author
+according to Moores account LIFE OF SHERIDAN I p 260 was told
+by Mr Sheridan as an excuse for keeping it back that he had been
+nineteen years endeavouring to satisfy himself with the style of The
+School for Scandal but had not yet succeeded Mr Rae SHERIDAN I p
+332 recorded his discovery of the manuscript of two acts of The School
+for Scandal prepared by Sheridan for publication and hoped before his
+death to publish this partial revision Numberless unauthorized changes
+in the play have been made for histrionic purposes from the first
+undated Dublin edition to that of Mr Augustin Daly Current texts may
+usually be traced directly or indirectly to the twovolume Murray
+edition of Sheridans plays in 1821 Some of the changes from the
+original manuscript such as the blending of the parts of Miss Verjuice
+and Snake are doubtless effective for reasons of dramatic economy but
+many of the cuts are to be regretted from the readers standpoint The
+student of English drama will prefer Sheridans own text to editorial
+emendations however clever or effective for dramatic ends
+
+
+
+
+
+THE SCHOOL FOR SCANDAL
+
+
+ADDRESSED TO MRS CREWE
+
+WITH THE COMEDY OF THE SCHOOL FOR SCANDAL
+
+ Tell me ye prim adepts in Scandals school
+ Who rail by precept and detract by rule
+ Lives there no character so tried so known
+ So deckd with grace and so unlike your own
+ That even you assist her fame to raise
+ Approve by envy and by silence praise
+ Attenda model shall attract your view
+ Daughters of calumny I summon you
+ You shall decide if this a portrait prove
+ Or fond creation of the Muse and Love
+ Attend ye virgin critics shrewd and sage
+ Ye matron censors of this childish age
+ Whose peering eye and wrinkled front declare
+ A fixt antipathy to young and fair
+ By cunning cautious or by nature cold
+ In maiden madness virulently bold
+ Attend ye skilled to coin the precious tale
+ Creating proof where innuendos fail
+ Whose practised memories cruelly exact
+ Omit no circumstance except the fact
+ Attend all ye who boastor old or young
+ The living libel of a slanderous tongue
+ So shall my theme as far contrasted be
+ As saints by fiends or hymns by calumny
+ Come gentle Amoret for neath that name
+ In worthier verse is sung thy beautys fame
+ Comefor but thee who seeks the Muse and while
+ Celestial blushes check thy conscious smile
+ With timid grace and hesitating eye
+ The perfect model which I boast supply
+ Vain Muse couldst thou the humblest sketch create
+ Of her or slightest charm couldst imitate
+ Could thy blest strain in kindred colours trace
+ The faintest wonder of her form and face
+ Poets would study the immortal line
+ And REYNOLDS own HIS art subdued by thine
+ That art which well might added lustre give
+ To Natures best and Heavens superlative
+ On GRANBYS cheek might bid new glories rise
+ Or point a purer beam from DEVONS eyes
+ Hard is the task to shape that beautys praise
+ Whose judgment scorns the homage flattery pays
+ But praising Amoret we cannot err
+ No tongue oervalues Heaven or flatters her
+ Yet she by Fates perversenessshe alone
+ Would doubt our truth nor deem such praise her own
+ Adorning Fashion unadornd by dress
+ Simple from taste and not from carelessness
+ Discreet in gesture in deportment mild
+ Not stiff with prudence nor uncouthly wild
+ No state has AMORET no studied mien
+ She frowns no GODDESS and she moves no QUEEN
+ The softer charm that in her manner lies
+ Is framed to captivate yet not surprise
+ It justly suits th expression of her face
+ Tis less than dignity and more than grace
+ On her pure cheek the native hue is such
+ That formd by Heavn to be admired so much
+ The hand divine with a less partial care
+ Might well have fixd a fainter crimson there
+ And bade the gentle inmate of her breast
+ Inshrined Modestysupply the rest
+ But who the peril of her lips shall paint
+ Strip them of smilesstill still all words are faint
+ But moving Love himself appears to teach
+ Their action though denied to rule her speech
+ And thou who seest her speak and dost not hear
+ Mourn not her distant accents scape thine ear
+ Viewing those lips thou still mayst make pretence
+ To judge of what she says and swear tis sense
+ Clothd with such grace with such expression fraught
+ They move in meaning and they pause in thought
+ But dost thou farther watch with charmd surprise
+ The mild irresolution of her eyes
+ Curious to mark how frequent they repose
+ In brief eclipse and momentary close
+ Ah seest thou not an ambushd Cupid there
+ Too timrous of his charge with jealous care
+ Veils and unveils those beams of heavnly light
+ Too full too fatal else for mortal sight
+ Nor yet such pleasing vengeance fond to meet
+ In pardning dimples hope a safe retreat
+ What though her peaceful breast should neer allow
+ Subduing frowns to arm her altered brow
+ By Love I swear and by his gentle wiles
+ More fatal still the mercy of her smiles
+ Thus lovely thus adornd possessing all
+ Of bright or fair that can to woman fall
+ The height of vanity might well be thought
+ Prerogative in her and Natures fault
+ Yet gentle AMORET in mind supreme
+ As well as charms rejects the vainer theme
+ And half mistrustful of her beautys store
+ She barbs with wit those darts too keen before
+ Read in all knowledge that her sex should reach
+ Though GREVILLE or the MUSE should deign to teach
+ Fond to improve nor timrous to discern
+ How far it is a womans grace to learn
+ In MILLARS dialect she would not prove
+ Apollos priestess but Apollos love
+ Graced by those signs which truth delights to own
+ The timid blush and mild submitted tone
+ Whateer she says though sense appear throughout
+ Displays the tender hue of female doubt
+ Deckd with that charm how lovely wit appears
+ How graceful SCIENCE when that robe she wears
+ Such too her talents and her bent of mind
+ As speak a sprightly heart by thought refined
+ A taste for mirth by contemplation schoold
+ A turn for ridicule by candour ruled
+ A scorn of folly which she tries to hide
+ An awe of talent which she owns with pride
+ Peace idle Muse no more thy strain prolong
+ But yield a theme thy warmest praises wrong
+ Just to her merit though thou canst not raise
+ Thy feeble verse behold th acknowledged praise
+ Has spread conviction through the envious train
+ And cast a fatal gloom oer Scandals reign
+ And lo each pallid hag with blisterd tongue
+ Mutters assent to all thy zeal has sung
+ Owns all the colours justthe outline true
+ Thee my inspirer and my MODELCREWE
+
+
+
+ DRAMATIS PERSONAE2
+
+ SIR PETER TEAZLE Mr King
+ SIR OLIVER SURFACE Mr Yates
+ YOUNG SURFACE Mr Palmer
+ CHARLES his Brother Mr Smith
+ CRABTREE Mr Parsons
+ SIR BENJAMIN BACKBITE Mr Dodd
+ ROWLEY Mr Aikin
+ SPUNGE
+ MOSES
+ SNAKE
+ CARELESSand other companions to CHARLES
+
+ LADY TEAZLE
+ MARIA
+ LADY SNEERWELL
+ MRS CANDOUR
+ MISS VERJUICE
+
+
+
+
+PROLOGUE WRITTEN BY MR GARRICK
+
+ A school for Scandal tell me I beseech you
+ Needs there a school this modish art to teach you
+ No need of lessons now the knowing think
+ We might as well be taught to eat and drink
+ Caused by a dearth of scandal should the vapours
+ Distress our fair oneslet them read the papers
+ Their powerful mixtures such disorders hit
+ Crave what you willtheres quantum sufficit
+ Lord cries my Lady Wormwood who loves tattle
+ And puts much salt and pepper in her prattle
+ Just risen at noon all night at cards when threshing
+ Strong tea and scandalBless me how refreshing
+ Give me the papers Lisphow bold and free Sips
+ LAST NIGHT LORD L Sips WAS CAUGHT WITH LADY D
+ For aching heads what charming sal volatile Sips
+ IF MRS B WILL STILL CONTINUE FLIRTING
+ WE HOPE SHELL draw OR WELL undraw THE CURTAIN
+ Fine satire pozin public all abuse it
+ But by ourselves Sips our praise we cant refuse it
+ Now Lisp read youthere at that dash and star
+ Yes maamA CERTAIN LORD HAD BEST BEWARE
+ WHO LIVES NOT TWENTY MILES FROM GROSVENOR SQUARE
+ FOR SHOULD HE LADY W FIND WILLING
+ WORMWOOD IS BITTEROh thats me the villain
+ Throw it behind the fire and never more
+ Let that vile paper come within my door
+ Thus at our friends we laugh who feel the dart
+ To reach our feelings we ourselves must smart
+ Is our young bard so young to think that he
+ Can stop the full springtide of calumny
+ Knows he the world so little and its trade
+ Alas the devils sooner raised than laid
+ So strong so swift the monster theres no gagging
+ Cut Scandals head off still the tongue is wagging
+ Proud of your smiles once lavishly bestowd
+ Again our young Don Quixote takes the road
+ To show his gratitude he draws his pen
+ And seeks his hydra Scandal in his den
+ For your applause all perils he would through
+ Hell fightthats writea cavalliero true
+ Till every drop of bloodthats inkis spilt for you
+
+
+
+
+ACT I
+
+
+SCENE ILADY SNEERWELLS House
+
+LADY SNEERWELL at her dressing table with LAPPET MISS VERJUICE drinking
+chocolate
+
+LADY SNEERWELL The Paragraphs you say were all inserted
+
+VERJUICE They were Madamand as I copied them myself in a feigned Hand
+there can be no suspicion whence they came
+
+LADY SNEERWELL Did you circulate the Report of Lady Brittles Intrigue
+with Captain Boastall
+
+VERJUICE Madam by this Time Lady Brittle is the Talk of half the
+Townand I doubt not in a week the Men will toast her as a Demirep
+
+LADY SNEERWELL What have you done as to the insinuation as to a certain
+Baronets Lady and a certain Cook
+
+VERJUICE That is in as fine a Train as your Ladyship could wish I told
+the story yesterday to my own maid with directions to communicate it
+directly to my Hairdresser He I am informed has a Brother who courts a
+Milliners Prentice in Pallmall whose mistress has a first cousin whose
+sister is Feme Femme de Chambre to Mrs Clackitso that in the
+common course of Things it must reach Mrs Clackits Ears within
+fourandtwenty hours and then you know the Business is as good as done
+
+LADY SNEERWELL Why truly Mrs Clackit has a very pretty Talenta great
+deal of industryyetyesbeen tolerably successful in her wayTo my
+knowledge she has been the cause of breaking off six matches of three
+sons being disinherited and four Daughters being turned out of Doors
+Of three several Elopements as many close confinementsnine separate
+maintenances and two Divorcesnay I have more than once traced her
+causing a TeteaTete in the Town and Country Magazinewhen the Parties
+perhaps had never seen each others Faces before in the course of their
+Lives
+
+VERJUICE She certainly has Talents
+
+LADY SNEERWELL But her manner is gross
+
+VERJUICE Tis very true She generally designs well has a free
+tongue and a bold inventionbut her colouring is too dark and her
+outline often extravagantShe wants that delicacy of Tintand
+mellowness of sneerwhich distinguish your Ladyships Scandal
+
+LADY SNEERWELL Ah you are Partial Verjuice
+
+VERJUICE Not in the leasteverybody allows that Lady Sneerwell can do
+more with a word or a Look than many can with the most laboured Detail
+even when they happen to have a little truth on their side to support
+it
+
+LADY SNEERWELL Yes my dear Verjuice I am no Hypocrite to deny the
+satisfaction I reap from the Success of my Efforts Wounded myself in
+the early part of my Life by the envenomed Tongue of Slander I confess
+I have since known no Pleasure equal to the reducing others to the Level
+of my own injured Reputation
+
+VERJUICE Nothing can be more naturalBut my dear Lady Sneerwell There
+is one affair in which you have lately employed me wherein I confess I
+am at a Loss to guess your motives
+
+LADY SNEERWELL I conceive you mean with respect to my neighbour Sir
+Peter Teazle and his FamilyLappetAnd has my conduct in this matter
+really appeared to you so mysterious
+
+ Exit MAID
+
+VERJUICE Entirely so
+
+LADY SNEERWELL VERJUICE An old Batchelor as Sir Peter was having
+taken a young wife from out of the Countryas Lady Teazle isare
+certainly fair subjects for a little mischievous raillerybut here are
+two young mento whom Sir Peter has acted as a kind of Guardian since
+their Fathers death the eldest possessing the most amiable Character
+and universally well spoken of the youngest the most dissipated
+and extravagant young Fellow in the Kingdom without Friends or
+caracterthe former one an avowed admirer of yours and apparently
+your Favourite the latter attached to Maria Sir Peters wardand
+confessedly beloved by her Now on the face of these circumstances it
+is utterly unaccountable to me why you a young Widow with no great
+jointureshould not close with the passion of a man of such character
+and expectations as Mr Surfaceand more so why you should be so
+uncommonly earnest to destroy the mutual Attachment subsisting between
+his Brother Charles and Maria
+
+LADY SNEERWELL Then at once to unravel this misteryI must inform you
+that Love has no share whatever in the intercourse between Mr Surface
+and me
+
+VERJUICE No
+
+LADY SNEERWELL His real attachment is to Maria or her Fortunebut
+finding in his Brother a favoured Rival He has been obliged to mask his
+Pretensionsand profit by my Assistance
+
+VERJUICE Yet still I am more puzzled why you should interest yourself
+in his success
+
+LADY SNEERWELL Heavens how dull you are cannot you surmise the
+weakness which I hitherto thro shame have concealed even from
+youmust I confess that Charlesthat Libertine that extravagant that
+Bankrupt in Fortune and Reputationthat He it is for whom I am thus
+anxious and malicious and to gain whom I would sacrificeeverything
+
+VERJUICE Now indeedyour conduct appears consistent and I no longer
+wonder at your enmity to Maria but how came you and Surface so
+confidential
+
+LADY SNEERWELL For our mutual interestbut I have found out him a long
+time since altho He has contrived to deceive everybody besideI
+know him to be artful selfish and maliciouswhile with Sir Peter and
+indeed with all his acquaintance He passes for a youthful Miracle of
+Prudencegood sense and Benevolence
+
+VERJUICE Yes yesI know Sir Peter vows He has not his equal in
+England and above all He praises him as a MAN OF SENTIMENT
+
+LADY SNEERWELL True and with the assistance of his sentiments and
+hypocrisy he has brought Sir Peter entirely in his interests with
+respect to Maria and is now I believe attempting to flatter Lady Teazle
+into the same good opinion towards himwhile poor Charles has no Friend
+in the Housethough I fear he has a powerful one in Marias Heart
+against whom we must direct our schemes
+
+SERVANT Mr Surface
+
+LADY SNEERWELL Shew him up He generally calls about this Time I dont
+wonder at Peoples giving him to me for a Lover
+
+ Enter SURFACE
+
+SURFACE My dear Lady Sneerwell how do you do todayyour most
+obedient
+
+LADY SNEERWELL Miss Verjuice has just been arraigning me on our mutual
+attachment now but I have informed her of our real views and the
+Purposes for which our Geniuses at present cooperate You know
+how useful she has been to usand believe me the confidence is not
+illplaced
+
+SURFACE Madam it is impossible for me to suspect that a Lady of Miss
+Verjuices sensibility and discernment
+
+LADY SNEERWELL Wellwellno compliments nowbut tell me when you saw
+your mistress or what is more material to me your Brother
+
+SURFACE I have not seen either since I saw youbut I can inform you
+that they are at present at Variancesome of your stories have taken
+good effect on Maria
+
+LADY SNEERWELL Ah my dear Verjuice the merit of this belongs to you
+But do your Brothers Distresses encrease
+
+SURFACE Every hour I am told He had another execution in his house
+yesterdayin short his Dissipation and extravagance exceed anything I
+have ever heard of
+
+LADY SNEERWELL Poor Charles
+
+SURFACE True Madamnotwithstanding his Vices one cant help feeling
+for himah poor Charles Im sure I wish it was in my Power to be of
+any essential Service to himfor the man who does not share in
+the Distresses of a Brothereven though merited by his own
+misconductdeserves
+
+LADY SNEERWELL O Lud you are going to be moral and forget that you are
+among Friends
+
+SURFACE Egad thats trueIll keep that sentiment till I see Sir
+Peter However it is certainly a charity to rescue Maria from such a
+Libertine whoif He is to be reclaimd can be so only by a Person of
+your Ladyships superior accomplishments and understanding
+
+VERJUICE Twould be a Hazardous experiment
+
+SURFACE ButMadamlet me caution you to place no more confidence in
+our Friend Snake the LibellerI have lately detected him in frequent
+conference with old Rowland Rowley who was formerly my Fathers
+Steward and has never been a friend of mine
+
+LADY SNEERWELL Im not disappointed in Snake I never suspected the
+fellow to have virtue enough to be faithful even to his own Villany
+
+ Enter MARIA
+
+Maria my dearhow do you dowhats the matter
+
+MARIA O here is that disagreeable lover of mine Sir Benjamin Backbite
+has just calld at my guardians with his odious Uncle Crabtreeso I
+slipt out and ran hither to avoid them
+
+LADY SNEERWELL Is that all
+
+VERJUICE Lady SneerwellIll go and write the Letter I mentiond to
+you
+
+SURFACE If my Brother Charles had been of the Party madam perhaps you
+would not have been so much alarmed
+
+LADY SNEERWELL Nay nowyou are severe for I dare swear the Truth
+of the matter is Maria heard YOU were herebut my dearwhat has Sir
+Benjamin done that you should avoid him so
+
+MARIA Oh He has done nothingbut his conversation is a perpetual Libel
+on all his Acquaintance
+
+SURFACE Aye and the worst of it is there is no advantage in not knowing
+Them for Hell abuse a stranger just as soon as his best Friendand
+Crabtree is as bad
+
+LADY SNEERWELL Nay but we should make allowanceSir Benjamin is a
+wit and a poet
+
+MARIA For my PartI own madamwit loses its respect with me when I
+see it in company with maliceWhat do you think Mr Surface
+
+SURFACE Certainly Madam to smile at the jest which plants a Thorn on
+anothers Breast is to become a principal in the mischief
+
+LADY SNEERWELL Pshawtheres no possibility of being witty without a
+little ill naturethe malice of a good thing is the Barb that makes
+it stickWhats your opinion Mr Surface
+
+SURFACE Certainly madamthat conversation where the Spirit of Raillery
+is suppressed will ever appear tedious and insipid
+
+MARIA Well Ill not debate how far Scandal may be allowablebut in a
+man I am sure it is always contemtableWe have Pride envy Rivalship
+and a Thousand motives to depreciate each otherbut the maleslanderer
+must have the cowardice of a woman before He can traduce one
+
+LADY SNEERWELL I wish my Cousin Verjuice hadnt left usshe should
+embrace you
+
+SURFACE Ah shes an old maid and is privileged of course
+
+ Enter SERVANT
+
+Madam Mrs Candour is below and if your Ladyships at leisure will leave
+her carriage
+
+LADY SNEERWELL Beg her to walk in Now Maria however here is a
+Character to your Taste for tho Mrs Candour is a little talkative
+everybody allows her to be the bestnatured and best sort of woman
+
+MARIA Yes with a very gross affectation of good Nature and
+Benevolenceshe does more mischief than the Direct malice of old
+Crabtree
+
+SURFACE Efaith tis very true Lady SneerwellWhenever I hear the
+current running again the characters of my Friends I never think them
+in such Danger as when Candour undertakes their Defence
+
+LADY SNEERWELL Hush here she is
+
+ Enter MRS CANDOUR
+
+MRS CANDOUR My dear Lady Sneerwell how have you been this Century
+I have never seen you tho I have heard of you very oftenMr
+Surfacethe World says scandalous things of youbut indeed it is
+no matter what the world says for I think one hears nothing else but
+scandal
+
+SURFACE Just so indeed Maam
+
+MRS CANDOUR Ah Maria Childwhat is the whole affair off between
+you and Charles His extravagance I presumeThe Town talks of nothing
+else
+
+MARIA I am very sorry Maam the Town has so little to do
+
+MRS CANDOUR True true Child but theres no stopping peoples
+Tongues I own I was hurt to hear itas I indeed was to learn from the
+same quarter that your guardian Sir Peter and Lady Teazle have not
+agreed lately so well as could be wishd
+
+MARIA Tis strangely impertinent for people to busy themselves so
+
+MRS CANDOUR Very true Child but whats to be done People will
+talktheres no preventing itwhy it was but yesterday I was told
+that Miss Gadabout had eloped with Sir Filagree Flirt But Lord there
+is no minding what one hears tho to be sure I had this from very good
+authority
+
+MARIA Such reports are highly scandalous
+
+MRS CANDOUR So they are Childshameful shameful but the world is
+so censorious no character escapes Lord now who would have suspected
+your friend Miss Prim of an indiscretion Yet such is the illnature
+of people that they say her unkle stopped her last week just as she was
+stepping into a Postchaise with her Dancingmaster
+
+MARIA Ill answer fort there are no grounds for the Report
+
+MRS CANDOUR Oh no foundation in the world I dare swear no more
+probably than for the story circulated last month of Mrs Festinos
+affair with Colonel Cassinotho to be sure that matter was never
+rightly cleard up
+
+SURFACE The license of invention some people take is monstrous indeed
+
+MARIA Tis so but in my opinion those who report such things are
+equally culpable
+
+MRS CANDOUR To be sure they are Tale Bearers are as bad as the Tale
+makerstis an old observation and a very true onebut whats to be
+done as I said beforehow will you prevent People from talkingtoday
+Mrs Clackitt assured me Mr and Mrs Honeymoon were at last become
+mere man and wifelike the rest of their acquaintanceshe likewise
+hinted that a certain widow in the next street had got rid of her Dropsy
+and recovered her shape in a most surprising mannerat the same time
+Miss Tattle who was by affirmd that Lord Boffalo had discoverd his
+Lady at a house of no extraordinary Fameand that Sir Harry Bouquet and
+Tom Saunter were to measure swords on a similar Provocation ButLord
+do you think I would report these ThingsNo no Tale Bearers as I
+said before are just as bad as the talemakers
+
+SURFACE Ah Mrs Candour if everybody had your Forbearance and good
+nature
+
+MRS CANDOUR I confess Mr Surface I cannot bear to hear People
+traduced behind their Backs and when ugly circumstances come out
+against our acquaintances I own I always love to think the bestby the
+bye I hope tis not true that your Brother is absolutely ruind
+
+SURFACE I am afraid his circumstances are very bad indeed Maam
+
+MRS CANDOUR Ah I heard sobut you must tell him to keep up his
+Spiritseverybody almost is in the same wayLord Spindle Sir Thomas
+Splint Captain Quinze and Mr Nickitall up I hear within this
+week so if Charles is undone Hell find half his Acquaintance ruind
+too and that you know is a consolation
+
+SURFACE Doubtless Maama very great one
+
+ Enter SERVANT
+
+SERVANT Mr Crabtree and Sir Benjamin Backbite
+
+LADY SNEERWELL Soh Maria you see your lover pursues youPositively
+you shant escape
+
+ Enter CRABTREE and SIR BENJAMIN BACKBITE
+
+CRABTREE Lady Sneerwell I kiss your hand Mrs Candour I dont believe
+you are acquainted with my Nephew Sir Benjamin BackbiteEgad Maam He
+has a pretty witand is a pretty Poet too isnt He Lady Sneerwell
+
+SIR BENJAMIN O fie Uncle
+
+CRABTREE Nay egad its trueI back him at a Rebus or a Charade against
+the best Rhymer in the Kingdomhas your Ladyship heard the Epigram he
+wrote last week on Lady Frizzles Feather catching FireDo Benjamin
+repeat itor the Charade you made last Night extempore at Mrs
+Drowzies conversazioneCome now your first is the Name of a Fish your
+second a great naval commanderand
+
+SIR BENJAMIN Dear Unclenowprithee
+
+CRABTREE Efaith Maamtwould surprise you to hear how ready he is at
+all these Things
+
+LADY SNEERWELL I wonder Sir Benjamin you never publish anything
+
+SIR BENJAMIN To say truth Maam tis very vulgar to Print and as my
+little Productions are mostly Satires and Lampoons I find they
+circulate more by giving copies in confidence to the Friends of the
+Partieshowever I have some loveElegies which when favoured with
+this ladys smile I mean to give to the Public
+
+Pointing to MARIA
+
+CRABTREE Fore Heaven maam theyll immortalize youyoull be handed
+down to Posterity like Petrarchs Laura or Wallers Sacharissa
+
+SIR BENJAMIN Yes Madam I think you will like themwhen you shall see
+in a beautiful Quarto Page how a neat rivulet of Text shall meander
+thro a meadow of marginfore Gad they will be the most elegant
+Things of their kind
+
+CRABTREE But Ladies have you heard the news
+
+MRS CANDOUR What Sir do you mean the Report of
+
+CRABTREE No maam thats not itMiss Nicely is going to be married to
+her own Footman
+
+MRS CANDOUR Impossible
+
+CRABTREE Ask Sir Benjamin
+
+SIR BENJAMIN Tis very true Maameverything is fixed and the wedding
+Livery bespoke
+
+CRABTREE Yes and they say there were pressing reasons fort
+
+MRS CANDOUR It cannot beand I wonder any one should believe such a
+story of so prudent a Lady as Miss Nicely
+
+SIR BENJAMIN O Lud maam thats the very reason twas believed at
+once She has always been so cautious and so reserved that everybody
+was sure there was some reason for it at bottom
+
+LADY SNEERWELL Yes a Tale of Scandal is as fatal to the Reputation of
+a prudent Lady of her stamp as a Fever is generally to those of the
+strongest Constitutions but there is a sort of puny sickly Reputation
+that is always ailing yet will outlive the robuster characters of a
+hundred Prudes
+
+SIR BENJAMIN True Madam there are Valetudinarians in Reputation as well
+as constitutionwho being conscious of their weak Part avoid the
+least breath of air and supply their want of Stamina by care and
+circumspection
+
+MRS CANDOUR Well but this may be all mistakeYou know Sir Benjamin
+very trifling circumstances often give rise to the most injurious Tales
+
+CRABTREE That they do Ill be sworn Maamdid you ever hear how
+Miss Shepherd came to lose her Lover and her Character last summer at
+TunbridgeSir Benjamin you remember it
+
+SIR BENJAMIN O to be sure the most whimsical circumstance
+
+LADY SNEERWELL How was it Pray
+
+CRABTREE Why one evening at Mrs Pontos Assemblythe conversation
+happened to turn on the difficulty of breeding NovaScotia Sheep in
+this countrysays a young Lady in company I have known instances
+of itfor Miss Letitia Shepherd a first cousin of mine had a
+NovaScotia Sheep that produced her TwinsWhat cries the old
+Dowager Lady Dundizzy who you know is as deaf as a Post has Miss
+Letitia Shepherd had twinsThis Mistakeas you may imagine threw
+the whole company into a fit of LaughingHowever twas the next morning
+everywhere reported and in a few Days believed by the whole Town that
+Miss Letitia Shepherd had actually been brought to Bed of a fine Boy
+and Girland in less than a week there were People who could name the
+Father and the Farm House where the Babies were put out to Nurse
+
+LADY SNEERWELL Strange indeed
+
+CRABTREE Matter of Fact I assure youO Lud Mr Surface pray is it
+true that your uncle Sir Oliver is coming home
+
+SURFACE Not that I know of indeed Sir
+
+CRABTREE He has been in the East Indies a long timeyou can scarcely
+remember himI believesad comfort on his arrival to hear how your
+Brother has gone on
+
+SURFACE Charles has been imprudent Sir to be sure but I hope no Busy
+people have already prejudiced Sir Oliver against himHe may reform
+
+SIR BENJAMIN To be sure He mayfor my Part I never believed him to be
+so utterly void of Principle as People sayand tho he has lost all his
+Friends I am told nobody is better spoken ofby the Jews
+
+CRABTREE Thats true egad nephewif the Old Jewry was a Ward I believe
+Charles would be an aldermanno man more popular there fore Gad I
+hear He pays as many annuities as the Irish Tontine and that whenever
+Hes sick they have Prayers for the recovery of his Health in the
+synagogue
+
+SIR BENJAMIN Yet no man lives in greater Splendourthey tell me when
+He entertains his FriendsHe can sit down to dinner with a dozen of his
+own Securities have a score Tradesmen waiting in the AntiChamber and
+an officer behind every guests Chair
+
+SURFACE This may be entertainment to you Gentlemen but you pay very
+little regard to the Feelings of a Brother
+
+MARIA Their malice is intolerableLady Sneerwell I must wish you a
+good morningIm not very well
+
+ Exit MARIA
+
+MRS CANDOUR O dear she changd colour very much
+
+LADY SNEERWELL Do Mrs Candour follow hershe may want assistance
+
+MRS CANDOUR That I will with all my soul maamPoor dear Girlwho
+knowswhat her situation may be
+
+ Exit MRS CANDOUR
+
+LADY SNEERWELL Twas nothing but that she could not bear to hear
+Charles reflected on notwithstanding their difference
+
+SIR BENJAMIN The young Ladys Penchant is obvious
+
+CRABTREE But Benjaminyou mustnt give up the Pursuit for thatfollow
+her and put her into good humourrepeat her some of your versescome
+Ill assist you
+
+SIR BENJAMIN Mr Surface I did not mean to hurt youbut depend ont
+your Brother is utterly undone
+
+ Going
+
+CRABTREE O Lud ayeundoneas ever man wascant raise a guinea
+
+SIR BENJAMIN And everything soldIm toldthat was movable
+
+ Going
+
+CRABTREE I was at his housenot a thing left but some empty Bottles
+that were overlooked and the Family Pictures which I believe are framed
+in the Wainscot
+
+ Going
+
+SIR BENJAMIN And Im very sorry to hear also some bad stories against
+him
+
+ Going
+
+CRABTREE O He has done many mean thingsthats certain
+
+SIR BENJAMIN But however as He is your Brother
+
+ Going
+
+CRABTREE Well tell you all another opportunity
+
+ Exeunt
+
+LADY SNEERWELL Ha ha ha tis very hard for them to leave a subject
+they have not quite run down
+
+SURFACE And I believe the Abuse was no more acceptable to your Ladyship
+than Maria
+
+LADY SNEERWELL I doubt her Affections are farther engaged than we
+imagind but the Family are to be here this Evening so you may as
+well dine where you are and we shall have an opportunity of observing
+fartherin the meantime Ill go and plot Mischief and you shall study
+Sentiments
+
+ Exeunt
+
+
+
+
+SCENE IISIR PETERS House
+
+ Enter SIR PETER
+
+SIR PETER When an old Bachelor takes a young Wifewhat is He to
+expectTis now six months since Lady Teazle made me the happiest
+of menand I have been the most miserable Dog ever since that ever
+committed wedlock We tift a little going to churchand came to a
+Quarrel before the Bells had done ringingI was more than once nearly
+chokd with gall during the Honeymoonand had lost all comfort in Life
+before my Friends had done wishing me Joyyet I chose with cautiona
+girl bred wholly in the countrywho never knew luxury beyond one silk
+gownnor dissipation above the annual Gala of a RaceBallYet she now
+plays her Part in all the extravagant Fopperies of the Fashion and the
+Town with as ready a Grace as if she had never seen a Bush nor a
+grass Plot out of GrosvenorSquare I am sneered at by my old
+acquaintanceparagraphedin the news PapersShe dissipates my
+Fortune and contradicts all my Humoursyet the worst of it is I doubt
+I love her or I should never bear all this However Ill never be weak
+enough to own it
+
+ Enter ROWLEY
+
+ROWLEY Sir Peter your servanthow is t with you Sir
+
+SIR PETER Very badMaster Rowleyvery bad I meet with nothing but
+crosses and vexations
+
+ROWLEY What can have happened to trouble you since yesterday
+
+SIR PETER A goodquestion to a married man
+
+ROWLEY Nay Im sure your Lady Sir Peter cant be the cause of your
+uneasiness
+
+SIR PETER Why has anybody told you she was dead
+
+ROWLEY Come come Sir Peter you love her notwithstanding your
+tempers do not exactly agree
+
+SIR PETER But the Fault is entirely hers Master RowleyI am myself
+the sweetest temperd man alive and hate a teasing temper and so I
+tell her a hundred Times a day
+
+ROWLEY Indeed
+
+SIR PETER Aye and what is very extraordinary in all our disputes she
+is always in the wrong But Lady Sneerwell and the Set she meets at her
+House encourage the perverseness of her Dispositionthen to complete
+my vexationsMariamy Wardwhom I ought to have the Power of a Father
+over is determined to turn Rebel too and absolutely refuses the man
+whom I have long resolved on for her husbandmeaning I suppose to
+bestow herself on his profligate Brother
+
+ROWLEY You know Sir Peter I have always taken the Liberty to differ
+with you on the subject of these two young GentlemenI only wish you
+may not be deceived in your opinion of the elder For Charles my life
+ont He will retrieve his errors yettheir worthy Father once my
+honourd master was at his years nearly as wild a spark
+
+SIR PETER You are wrong Master Rowleyon their Fathers Death you
+know I acted as a kind of Guardian to them bothtill their uncle Sir
+Olivers Eastern Bounty gave them an early independence Of course no
+person could have more opportunities of judging of their Heartsand I
+was never mistaken in my life Joseph is indeed a model for the young
+men of the AgeHe is a man of Sentimentand acts up to the Sentiments
+he professesbut for the other take my word fort if he had any
+grain of Virtue by descenthe has dissipated it with the rest of his
+inheritance Ah my old Friend Sir Oliver will be deeply mortified when
+he finds how Part of his Bounty has been misapplied
+
+ROWLEY I am sorry to find you so violent against the young man because
+this may be the most critical Period of his Fortune I came hither with
+news that will surprise you
+
+SIR PETER What let me hear
+
+ROWLEY Sir Oliver is arrived and at this moment in Town
+
+SIR PETER Howyou astonish meI thought you did not expect him this
+month
+
+ROWLEY I did notbut his Passage has been remarkably quick
+
+SIR PETER Egad I shall rejoice to see my old FriendTis sixteen years
+since we metWe have had many a Day togetherbut does he still enjoin
+us not to inform his Nephews of his Arrival
+
+ROWLEY Most strictlyHe means before He makes it known to make some
+trial of their Dispositions and we have already planned something for
+the purpose
+
+SIR PETER Ah there needs no art to discover their meritshowever he
+shall have his waybut pray does he know I am married
+
+ROWLEY Yes and will soon wish you joy
+
+SIR PETER You may tell him tis too lateah Oliver will laugh at
+mewe used to rail at matrimony togetherbut He has been steady to his
+Textwell He must be at my house thoIll instantly give orders for
+his Receptionbut Master Rowleydont drop a word that Lady Teazle and
+I ever disagree
+
+ROWLEY By no means
+
+SIR PETER For I should never be able to stand Nolls jokes so Id have
+him think that we are a very happy couple
+
+ROWLEY I understand youbut then you must be very careful not to
+differ while Hes in the House with you
+
+SIR PETER Egadand so we mustthats impossible Ah Master Rowley
+when an old Batchelor marries a young wifeHe deservesno the crime
+carries the Punishment along with it
+
+ Exeunt
+
+ END OF THE FIRST ACT
+
+
+
+
+ACT II
+
+
+
+
+SCENE ISIR PETER and LADY TEAZLE
+
+SIR PETER Lady TeazleLady Teazle Ill not bear it
+
+LADY TEAZLE Sir PeterSir Peter youmay scold or smile according to
+your Humour but I ought to have my own way in everything and whats
+more I will toowhat tho I was educated in the country I know very
+well that women of Fashion in London are accountable to nobody after
+they are married
+
+SIR PETER Very well maam very well so a husband is to have no
+influence no authority
+
+LADY TEAZLE Authority no to be sureif you wanted authority over me
+you should have adopted me and not married me I am sure you were old
+enough
+
+SIR PETER Old enoughaye there it iswellwellLady Teazle tho
+my life may be made unhappy by your TemperIll not be ruined by your
+extravagance
+
+LADY TEAZLE My extravagance Im sure Im not more extravagant than a
+woman of Fashion ought to be
+
+SIR PETER No no Madam you shall throw away no more sums on such
+unmeaning LuxurySlife to spend as much to furnish your Dressing Room
+with Flowers in winter as would suffice to turn the Pantheon into a
+Greenhouse and give a Fete Champetre at Christmas
+
+LADY TEAZLE Lord Sir Peter am I to blame because Flowers are dear in
+cold weather You should find fault with the Climate and not with me
+For my Part Im sure I wish it was spring all the year roundand that
+Roses grew under ones Feet
+
+SIR PETER Oons Madamif you had been born to those Fopperies I
+shouldnt wonder at your talking thusbut you forget what your
+situation was when I married you
+
+LADY TEAZLE No no I donttwas a very disagreeable one or I should
+never nave married you
+
+SIR PETER Yes yes madam you were then in somewhat a humbler
+Stylethe daughter of a plain country Squire Recollect Lady Teazle
+when I saw you firstsitting at your tambour in a pretty figured linen
+gownwith a Bunch of Keys at your side and your apartment hung round
+with Fruits in worsted of your own working
+
+LADY TEAZLE O horriblehorribledont put me in mind of it
+
+SIR PETER Yes yes Madam and your daily occupation to inspect
+the Dairy superintend the Poultry make extracts from the Family
+Receiptbook and comb your aunt Deborahs Lap Dog
+
+LADY TEAZLE Abominable
+
+SIR PETER Yes Madamand what were your evening amusements to draw
+Patterns for Ruffles which you hadnt the materials to makeplay Pope
+Joan with the Curateto read a sermon to your Auntor be stuck down to
+an old Spinet to strum your father to sleep after a Fox Chase
+
+LADY TEAZLE ScandalousSir Peter not a word of it true
+
+SIR PETER Yes MadamThese were the recreations I took you fromand
+nowno one more extravagantly in the FashionEvery Fopery adopteda
+headdress to oer top Lady Pagoda with feathers pendant horizontal and
+perpendicularyou forget Lady Teazlewhen a little wired gauze with
+a few Beads made you a fly Cap not much bigger than a blewbottle and
+your Hair was combd smooth over a Roll
+
+LADY TEAZLE Shocking horrible Roll
+
+SIR PETER But nowyou must have your coachVisavis and three
+powderd Footmen before your Chairand in the summer a pair of white
+cobs to draw you to Kensington Gardensno recollection when y ou were
+content to ride double behind the Butler on a docked CoachHorse
+
+LADY TEAZLE HorridI swear I never did
+
+SIR PETER This madam was your situationand what have I not done
+for you I have made you woman of Fashion of Fortune of Rankin short I
+have made you my wife
+
+LADY TEAZLE Well then and there is but one thing more you can make me
+to add to the obligation
+
+SIR PETER Whats that pray
+
+LADY TEAZLE Your widow
+
+SIR PETER Thank you Madambut dont flatter yourself for though your
+illconduct may disturb my Peace it shall never break my Heart I promise
+youhowever I am equally obliged to you for the Hint
+
+LADY TEAZLE Then why will you endeavour to make yourself so
+disagreeable to meand thwart me in every little elegant expense
+
+SIR PETER SlifeMadam I pray had you any of these elegant expenses
+when you married me
+
+LADY TEAZLE Lud Sir Peter would you have me be out of the Fashion
+
+SIR PETER The Fashion indeedwhat had you to do with the Fashion
+before you married me
+
+LADY TEAZLE For my PartI should think you would like to have your
+wife thought a woman of Taste
+
+SIR PETER Aye there againTaste Zounds Madam you had no Taste when
+you married me
+
+LADY TEAZLE Thats very true indeed Sir Peter after having married you
+I should never pretend to Taste again I allow
+
+SIR PETER Soso thenMadamif these are your Sentiments pray how
+came I to be honourd with your Hand
+
+LADY TEAZLE Shall I tell you the Truth
+
+SIR PETER If its not too great a Favour
+
+LADY TEAZLE Why the Fact is I was tired of all those agreeable
+Recreations which you have so good naturally naturedly Describedand
+having a Spirit to spend and enjoy a FortuneI determined to marry the
+first rich man that would have me
+
+SIR PETER A very honest confessiontrulybut pray madam was there no
+one else you might have tried to ensnare but me
+
+LADY TEAZLE O ludI drew my net at several but you were the only one I
+could catch
+
+SIR PETER This is plain dealing indeed
+
+LADY TEAZLE But now Sir Peter if we have finishd our daily Jangle I
+presume I may go to my engagement at Lady Sneerwells
+
+SIR PETER Ayetheres another Precious circumstancea charming set of
+acquaintanceyou have made there
+
+LADY TEAZLE Nay Sir Peter they are People of Rank and Fortuneand
+remarkably tenacious of reputation
+
+SIR PETER Yes egad they are tenacious of Reputation with a vengeance
+for they dont chuse anybody should have a Character but themselves
+Such a crew Ah many a wretch has rid on hurdles who has done less
+mischief than these utterers of forged Tales coiners of Scandal and
+clippers of Reputation
+
+LADY TEAZLE What would you restrain the freedom of speech
+
+SIR PETER Aye they have made you just as bad as any one of the
+Society
+
+LADY TEAZLE WhyI believe I do bear a Part with a tolerable GraceBut
+I vow I bear no malice against the People I abuse when I say an
+illnatured thing tis out of pure Good Humourand I take it for
+granted they deal exactly in the same manner with me but Sir Peter you
+know you promised to come to Lady Sneerwells too
+
+SIR PETER Well well Ill call in just to look after my own character
+
+LADY TEAZLE Then indeed you must make Haste after me or youll be
+too lateso good bye to ye
+
+SIR PETER SoI have gaind much by my intended expostulationyet
+with what a charming air she contradicts every thing I sayand how
+pleasingly she shows her contempt of my authorityWell tho I cant
+make her love me there is certainly a great satisfaction in quarrelling
+with her and I think she never appears to such advantage as when she is
+doing everything in her Power to plague me
+
+ Exit
+
+
+
+
+SCENE IIAt LADY SNEERWELLS
+
+ LADY SNEERWELL MRS CANDOUR CRABTREE SIR BENJAMIN BACKBITE
+ and SURFACE
+
+LADY SNEERWELL Nay positively we will hear it
+
+SURFACE Yesyes the Epigram by all means
+
+SiR BENJAMIN O plague ont unkletis mere nonsense
+
+CRABTREE No no fore gad very clever for an extempore
+
+SIR BENJAMIN But ladies you should be acquainted with the
+circumstances You must know that one day last week as Lady Betty
+Curricle was taking the Dust in High Park in a sort of duodecimo
+Phaetonshe desired me to write some verses on her Poniesupon which I
+took out my PocketBookand in one moment producedthe following
+
+ Sure never were seen two such beautiful Ponies
+ Other Horses are Clownsand these macaronies
+ Nay to give em this Title Im sure isnt wrong
+ Their Legs are so slimand their Tails are so long
+
+CRABTREE There Ladiesdone in the smack of a whip and on Horseback
+too
+
+SURFACE A very Phoebus mountedindeed Sir Benjamin
+
+SIR BENJAMIN Oh dear SirTriflesTrifles
+
+ Enter LADY TEAZLE and MARIA
+
+MRS CANDOUR I must have a Copy
+
+LADY SNEERWELL Lady TeazleI hope we shall see Sir Peter
+
+LADY TEAZLE I believe Hell wait on your Ladyship presently
+
+LADY SNEERWELL Maria my love you look grave Come you sit down to
+Piquet with Mr Surface
+
+MARIA I take very little Pleasure in cardshowever Ill do as you
+Please
+
+LADY TEAZLE I am surprised Mr Surface should sit down herI thought
+He would have embraced this opportunity of speaking to me before Sir
+Peter cameAside
+
+MRS CANDOUR Now Ill die but you are so scandalous Ill forswear your
+society
+
+LADY TEAZLE Whats the matter Mrs Candour
+
+MRS CANDOUR Theyll not allow our friend Miss Vermillion to be
+handsome
+
+LADY SNEERWELL Oh surely she is a pretty woman   
+
+CRABTREE I am very glad you think so maam
+
+MRS CANDOUR She has a charming fresh Colour
+
+CRABTREE Yes when it is fresh put on
+
+LADY TEAZLE O fie Ill swear her colour is naturalI have seen it
+come and go
+
+CRABTREE I dare swear you have maam it goes of a Night and comes
+again in the morning
+
+SIR BENJAMIN True uncle it not only comes and goes but whats more
+egad her maid can fetch and carry it
+
+MRS CANDOUR Ha ha ha how I hate to hear you talk so But surely
+now her Sister is or was very handsome
+
+CRABTREE Who Mrs Stucco O lud shes sixandfifty if shes an hour
+
+MRS CANDOUR Now positively you wrong her fiftytwo or fiftythree
+is the utmostand I dont think she looks more
+
+SIR BENJAMIN Ah theres no judging by her looks unless one was to see
+her Face
+
+LADY SNEERWELL Wellwellif she does take some pains to repair the
+ravages of Timeyou must allow she effects it with great ingenuityand
+surely thats better than the careless manner in which the widow Ocre
+chaulks her wrinkles
+
+SIR BENJAMIN Nay nowyou are severe upon the widowcomecome it
+isnt that she paints so illbut when she has finished her Face she
+joins it on so badly to her Neck that she looks like a mended Statue
+in which the Connoisseur sees at once that the Heads modern tho the
+Trunks antique
+
+CRABTREE Ha ha ha well said Nephew
+
+MRS CANDOUR Ha ha ha Well you make me laugh but I vow I hate you
+for itwhat do you think of Miss Simper
+
+SIR BENJAMIN Why she has very pretty Teeth
+
+LADY TEAZLE Yes and on that account when she is neither speaking nor
+laughing which very seldom happensshe never absolutely shuts her
+mouth but leaves it always on aJar as it were
+
+MRS CANDOUR How can you be so illnatured
+
+LADY TEAZLE Nay I allow even thats better than the Pains Mrs Prim
+takes to conceal her losses in Frontshe draws her mouth till it
+resembles the aperture of a PoorsBox and all her words appear to
+slide out edgewise
+
+LADY SNEERWELL Very well Lady Teazle I see you can be a little severe
+
+LADY TEAZLE In defence of a Friend it is but justice but here comes
+Sir Peter to spoil our Pleasantry
+
+ Enter SIR PETER
+
+SIR PETER Ladies your obedientMercy on mehere is the whole set a
+characters dead at every word I suppose
+
+MRS CANDOUR I am rejoiced you are come Sir Peterthey have been so
+censorious and Lady Teazle as bad as any one
+
+SIR PETER That must be very distressing to you Mrs Candour I dare
+swear
+
+MRS CANDOUR O they will allow good Qualities to nobodynot even good
+nature to our Friend Mrs Pursy
+
+LADY TEAZLE What the fat dowager who was at Mrs Codrilles
+Quadrilles last Night
+
+LADY SNEERWELL Nayher bulk is her misfortune and when she takes such
+Pains to get rid of it you ought not to reflect on her
+
+MRS CANDOUR Tis very true indeed
+
+LADY TEAZLE Yes I know she almost lives on acids and small wheylaces
+herself by pulleys and often in the hottest noon of summer you may
+see her on a little squat Pony with her hair plaited up behind like a
+Drummers and puffing round the Ring on a full trot
+
+MRS CANDOUR I thank you Lady Teazle for defending her
+
+SIR PETER Yes a good Defence truly
+
+MRS CANDOUR But for Sir Benjamin He is as censorious as Miss Sallow
+
+CRABTREE Yes and she is a curious Being to pretend to be censoriousan
+awkward Gawky without any one good Point under Heaven
+
+LADY SNEERWELL Positively you shall not be so very severe Miss
+Sallow is a Relation of mine by marriage and as for her Person great
+allowance is to be madefor let me tell you a woman labours under many
+disadvantages who tries to pass for a girl at sixandthirty
+
+MRS CANDOUR Tho surely she is handsome stilland for the weakness
+in her eyes considering how much she reads by candlelight it is not to
+be wonderd at
+
+LADY SNEERWELL True and then as to her mannerupon my word I think
+it is particularly graceful considering she never had the least
+Education for you know her Mother was a Welch milliner and her
+Father a sugarBaker at Bristow
+
+SIR BENJAMIN Ah you are both of you too goodnatured
+
+SIR PETER Yes damned goodnatured Her own relation mercy on me
+Aside
+
+MRS CANDOUR For my Part I own I cannot bear to hear a friend
+illspoken of
+
+SIR PETER No to be sure
+
+SIR BENJAMIN Ah you are of a moral turn Mrs Candour and can sit for an
+hour to hear Lady Stucco talk sentiments
+
+LADY SNEERWELL Nay I vow Lady Stucco is very well with the Dessert
+after Dinner for shes just like the Spanish Fruit one cracks for
+mottoesmade up of Paint and Proverb
+
+MRS CANDOUR Well I never will join in ridiculing a Friendand so I
+constantly tell my cousin Ogleand you all know what pretensions she
+has to be critical in Beauty
+
+LADY TEAZLE O to be sure she has herself the oddest countenance that
+ever was seentis a collection of Features from all the different
+Countries of the globe
+
+SIR BENJAMIN So she has indeedan Irish Front
+
+CRABTREE Caledonian Locks
+
+SIR BENJAMIN Dutch Nose
+
+CRABTREE Austrian Lips
+
+SIR BENJAMIN Complexion of a Spaniard
+
+CRABTREE And Teeth a la Chinoise
+
+SIR BENJAMIN In short her Face resembles a table dhote at Spawhere
+no two guests are of a nation
+
+CRABTREE Or a Congress at the close of a general Warwherein all the
+members even to her eyes appear to have a different interest and her
+Nose and Chin are the only Parties likely to join issue
+
+MRS CANDOUR Ha ha ha
+
+SIR PETER Mercy on my Life a Person they dine with twice a week
+Aside
+
+LADY SNEERWELL Gogoyou are a couple of provoking Toads
+
+MRS CANDOUR Nay but I vow you shall not carry the Laugh off sofor
+give me leave to say that Mrs Ogle
+
+SIR PETER MadammadamI beg your Pardontheres no stopping these
+good Gentlemens Tonguesbut when I tell you Mrs Candour that the Lady
+they are abusing is a particular Friend of mine I hope youll not take
+her Part
+
+LADY SNEERWELL Ha ha ha well said Sir Peterbut you are a cruel
+creaturetoo Phlegmatic yourself for a jest and too peevish to allow
+wit in others
+
+SIR PETER Ah Madam true wit is more nearly allowd allied to good
+Nature than your Ladyship is aware of
+
+LADY SNEERWELL True Sir PeterI believe they are so near akin that
+they can never be united
+
+SIR BENJAMIN O rather Madam suppose them man and wife because one
+seldom sees them together
+
+LADY TEAZLE But Sir Peter is such an Enemy to Scandal I believe He
+would have it put down by Parliament
+
+SIR PETER Fore heaven Madam if they were to consider the Sporting
+with Reputation of as much importance as poaching on manorsand pass
+an Act for the Preservation of Famethere are many would thank them for
+the Bill
+
+LADY SNEERWELL O Lud Sir Peter would you deprive us of our
+Privileges
+
+SIR PETER Aye Madamand then no person should be permitted to
+kill characters or run down reputations but qualified old Maids and
+disappointed Widows
+
+LADY SNEERWELL Go you monster
+
+MRS CANDOUR But sure you would not be quite so severe on those who
+only report what they hear
+
+SIR PETER Yes Madam I would have Law Merchant for that tooand in all
+cases of slander currency whenever the Drawer of the Lie was not to
+be found the injured Party should have a right to come on any of the
+indorsers
+
+CRABTREE Well for my Part I believe there never was a Scandalous Tale
+without some foundation3
+
+LADY SNEERWELL Come Ladies shall we sit down to Cards in the next Room
+
+ Enter SERVANT whispers SIR PETER
+
+SIR PETER Ill be with them directly
+
+ Exit SERVANT
+Ill get away unperceived
+
+LADY SNEERWELL Sir Peter you are not leaving us
+
+SIR PETER Your Ladyship must excuse meIm called away by particular
+Businessbut I leave my Character behind me
+
+ Exit
+
+SIR BENJAMIN Well certainly Lady Teazle that lord of yours is a
+strange beingI could tell you some stories of him would make you laugh
+heartily if He wernt your Husband
+
+LADY TEAZLE O pray dont mind thatcome do lets hear em
+
+ join the rest of the Company going into the Next Room
+
+SURFACE Maria I see you have no satisfaction in this society
+
+MARIA How is it possible I should If to raise malicious smiles at the
+infirmities or misfortunes of those who have never injured us be
+the province of wit or Humour Heaven grant me a double Portion of
+Dullness
+
+SURFACE Yet they appear more illnatured than they arethey have no
+malice at heart
+
+MARIA Then is their conduct still more contemptible for in my
+opinionnothing could excuse the intemperance of their tongues but a
+natural and ungovernable bitterness of Mind
+
+SURFACE Undoubtedly Madamand it has always been a sentiment of
+minethat to propagate a malicious Truth wantonlyis more despicable
+than to falsify from Revenge but can you Maria feel thus for others
+and be unkind to me alonenay is hope to be denied the tenderest
+Passion
+
+MARIA Why will you distress me by renewing this subject
+
+SURFACE Ah Maria you would not treat me thus and oppose your
+guardians Sir Peters wishesbut that I see that my Profligate Brother
+is still a favourd Rival
+
+MARIA Ungenerously urgedbut whatever my sentiments of that
+unfortunate young man are be assured I shall not feel more bound to
+give him up because his Distresses have sunk him so low as to deprive
+him of the regard even of a Brother
+
+SURFACE Nay but Maria do not leave me with a Frownby all thats
+honest I swearGads Life heres Lady Teazleyou must notno you
+shallfor tho I have the greatest Regard for Lady Teazle
+
+MARIA Lady Teazle
+
+SURFACE Yet were Sir Peter to suspect
+
+ Enter LADY TEAZLE and comes forward
+
+LADY TEAZLE Whats this Praydo you take her for meChild you are
+wanted in the next RoomWhats all this pray
+
+SURFACE O the most unlucky circumstance in Nature Maria has somehow
+suspected the tender concern I have for your happiness and threatend
+to acquaint Sir Peter with her suspicionsand I was just endeavouring
+to reason with her when you came
+
+LADY TEAZLE Indeed but you seemd to adopta very tender mode of
+reasoningdo you usually argue on your knees
+
+SURFACE O shes a Childand I thought a little Bombastbut Lady
+Teazle when are you to give me your judgment on my Library as you
+promised
+
+LADY TEAZLE Nono I begin to think it would be imprudentand you know
+I admit you as a Lover no farther than Fashion requires
+
+SURFACE Truea mere Platonic Cicisbeo what every London wife is
+entitled to
+
+LADY TEAZLE Certainly one must not be out of the Fashionhowever I
+have so much of my country Prejudices leftthatthough Sir Peters ill
+humour may vex me ever so it never shall provoke me to
+
+SURFACE The only revenge in your Powerwell I applaud your moderation
+
+LADY TEAZLE Goyou are an insinuating Hypocritebut we shall be
+missdlet us join the company
+
+SURFACE True but we had best not return together
+
+LADY TEAZLE Well dont stayfor Maria shant come to hear any more of
+your Reasoning I promise you
+
+ Exit
+
+SURFACE A curious Dilemma truly my Politics have run me into I wanted
+at first only to ingratiate myself with Lady Teazle that she might not
+be my enemy with Mariaand I have I dont know howbecome her
+serious Lover so that I stand a chance of Committing a Crime I never
+meditatedand probably of losing Maria by the PursuitSincerely I
+begin to wish I had never made such a Point of gaining so very good a
+character for it has led me into so many curst Rogueries that I doubt I
+shall be exposed at last
+
+ Exit
+
+
+
+
+SCENE IIIAt SIR PETERS
+
+ ROWLEY and SIR OLIVER
+
+SIR OLIVER Ha ha ha and so my old Friend is married heya young
+wife out of the countryha ha that he should have stood Bluff to old
+Bachelor so long and sink into a Husband at last
+
+ROWLEY But you must not rally him on the subject Sir Olivertis a
+tender Point I assure you though He has been married only seven months
+
+SIR OLIVER Ah then he has been just half a year on the stool
+of RepentancePoor Peter But you say he has entirely given up
+Charlesnever sees him hey
+
+ROWLEY His Prejudice against him is astonishingand I am sure greatly
+increased by a jealousy of him with Lady Teazlewhich he has
+been industriously led into by a scandalous Societyin the
+neighbourhoodwho have contributed not a little to Charless ill name
+Whereas the truth is I believe if the lady is partial to either of
+them his Brother is the Favourite
+
+SIR OLIVER AyeI knowthere are a set of malicious prating prudent
+Gossips both male and Female who murder characters to kill time and
+will rob a young Fellow of his good name before He has years to know the
+value of it   but I am not to be prejudiced against my nephew by
+such I promise you No noif Charles has done nothing false or mean I
+shall compound for his extravagance
+
+ROWLEY Then my life ont you will reclaim him Ah Sir it gives me
+new vigour to find that your heart is not turned against himand that
+the son of my good old master has one friend however left
+
+SIR OLIVER What shall I forget Master Rowleywhen I was at his
+house myselfegad my Brother and I were neither of us very prudent
+youthsand yet I believe you have not seen many better men than your
+old master was
+
+ROWLEY Tis this Reflection gives me assurance that Charles may yet be
+a credit to his Familybut here comes Sir Peter
+
+SIR OLIVER Egad so He doesmercy on meHes greatly alteredand
+seems to have a settled married lookone may read Husband in his Face
+at this Distance
+
+ Enter SIR PETER
+
+SIR PETER Ha Sir Olivermy old Friendwelcome to Englanda thousand
+Times
+
+SIR OLIVER Thank youthank youSir Peterand Efaith I am as glad to
+find you well believe me
+
+SIR PETER Ah tis a long time since we metsixteen year I doubt Sir
+Oliverand many a cross accident in the Time
+
+SIR OLIVER Aye I have had my sharebut what I find you are
+marriedhey my old Boywellwell it cant be helpdand so I wish
+you joy with all my heart
+
+SIR PETER Thank youthanks Sir OliverYes I have entered into the
+happy state but well not talk of that now
+
+SIR OLIVER True true Sir Peter old Friends shouldnt begin on
+grievances at first meeting No no
+
+ROWLEY Take care pray Sir
+
+SIR OLIVER Wellso one of my nephews I find is a wild Roguehey
+
+SIR PETER Wildoh my old FriendI grieve for your disappointment
+thereHes a lost young man indeedhowever his Brother will make you
+amends Joseph is indeed what a youth should beeverybody in the world
+speaks well of him
+
+SIR OLIVER I am sorry to hear ithe has too good a character to be an
+honest Fellow Everybody speaks well of him Psha then He has bowd as
+low to Knaves and Fools as to the honest dignity of Virtue
+
+SIR PETER What Sir Oliver do you blame him for not making Enemies
+
+SIR OLIVER Yesif He has merit enough to deserve them
+
+SIR PETER Wellwellyoull be convinced when you know himtis
+edification to hear him conversehe professes the noblest Sentiments
+
+SIR OLIVER Ah plague on his Sentimentsif he salutes me with a scrap
+sentence of morality in his mouth I shall be sick directlybut however
+dont mistake me Sir Peter I dont mean to defend Charless Errorsbut
+before I form my judgment of either of them I intend to make a trial of
+their Heartsand my Friend Rowley and I have planned something for the
+Purpose
+
+ROWLEY And Sir Peter shall own he has been for once mistaken
+
+SIR PETER My life on Josephs Honour
+
+SIR OLIVER Well come give us a bottle of good wineand well drink the
+Lads Healths and tell you our scheme
+
+SIR PETER Alons Allons then
+
+SIR OLIVER But dont Sir Peter be so severe against your old Friends
+son
+
+SIR PETER Tis his Vices and Follies have made me his Enemy
+
+ROWLEY ComecomeSir Peter consider how early He was left to his own
+guidance
+
+SIR OLIVER Odds my LifeI am not sorry that He has run out of the
+course a littlefor my Part I hate to see dry Prudence clinging to
+the green juices of youthtis like ivy round a sapling and spoils the
+growth of the Tree
+
+ END OF THE SECOND ACT
+
+
+
+
+ACT III
+
+
+
+
+SCENE IAt SIR PETERS
+
+ SIR PETER SIR OLIVER and ROWLEY
+
+SIR PETER Well then we will see the Fellows first and have our wine
+afterwardsbut how is this Master RowleyI dont see the Jet of your
+scheme
+
+ROWLEY Why Sirthis Mr Stanley whom I was speaking of is nearly
+related to them by their mother He was once a merchant in Dublinbut
+has been ruined by a series of undeserved misfortunesand now lately
+coming over to solicit the assistance of his friends herehas been
+flyng flung into prison by some of his Creditorswhere he is now with
+two helpless Boys
+
+SIR OLIVER Aye and a worthy Fellow too I remember him But what is this
+to lead to
+
+ROWLEY You shall hearHe has applied by letter both to Mr Surface and
+Charlesfrom the former he has received nothing but evasive promises
+of future service while Charles has done all that his extravagance has
+left him power to doand He is at this time endeavouring to raise a sum
+of moneypart of which in the midst of his own distresses I know He
+intends for the service of poor Stanley
+
+SIR OLIVER Ah he is my Brothers Son
+
+SIR PETER Well but how is Sir Oliver personally to
+
+ROWLEY Why Sir I will inform Charles and his Brother that Stanley has
+obtaind permission to apply in person to his Friendsand as they
+have neither of them ever seen him let Sir Oliver assume his
+characterand he will have a fair opportunity of judging at least of
+the Benevolence of their Dispositions
+
+SIR PETER Pshaw this will prove nothingI make no doubt Charles is
+Coxcomb and thoughtless enough to give money to poor relations if he had
+it
+
+SIR OLIVER Then He shall never want it I have brought a few Rupees
+home with me Sir Peterand I only want to be sure of bestowing them
+rightly
+
+ROWLEY Then Sir believe me you will find in the youngest Brother one
+who in the midst of Folly and dissipationhas still as our immortal
+Bard expresses it
+
+ a Tear for Pity and a Hand open as the day for melting Charity
+
+SIR PETER Pish What signifies his having an open Hand or Purse
+either when He has nothing left to givebut if you talk of humane
+SentimentsJoseph is the manWell well make the trial if you
+please But where is the fellow whom you brought for Sir Oliver to
+examine relative to Charless affairs
+
+ROWLEY Below waiting his commands and no one can give him better
+intelligenceThis Sir Oliver is a friendly Jew who to do him
+justice has done everything in his power to bring your nephew to a
+proper sense of his extravagance
+
+SIR PETER Pray let us have him in
+
+ROWLEY Desire Mr Moses to walk upstairs
+
+ Calls to SERVANT
+
+SIR PETER But Pray why should you suppose he will speak the truth
+
+ROWLEY Oh I have convinced him that he has no chance of recovering
+certain Sums advanced to Charles but through the bounty of Sir Oliver
+who He knows is arrived so that you may depend on his Fidelity to his
+interest I have also another evidence in my Power one Snake whom I
+shall shortly produce to remove some of YOUR Prejudices Sir Peter
+relative to Charles and Lady Teazle
+
+SIR PETER I have heard too much on that subject
+
+ROWLEY Here comes the honest Israelite
+
+ Enter MOSES
+This is Sir Oliver
+
+SIR OLIVER SirI understand you have lately had great dealings with my
+Nephew Charles
+
+MOSES Yes Sir OliverI have done all I could for him but He was
+ruined before He came to me for Assistance
+
+SIR OLIVER That was unlucky trulyfor you have had no opportunity of
+showing your Talents
+
+MOSES None at allI hadnt the Pleasure of knowing his Distresses till
+he was some thousands worse than nothing till it was impossible to add
+to them
+
+SIR OLIVER Unfortunate indeed but I suppose you have done all in your
+Power for him honest Moses
+
+MOSES Yes he knows thatThis very evening I was to have brought him a
+gentleman from the city who does not know him and will I believe advance
+some money
+
+SIR PETER What one Charles has never had money from before
+
+MOSES YesMr Premium of Crutched Friars
+
+SIR PETER Egad Sir Oliver a Thought strikes meCharles you say
+doesnt know Mr Premium
+
+MOSES Not at all
+
+SIR PETER Now then Sir Oliver you may have a better opportunity of
+satisfying yourself than by an old romancing tale of a poor Relationgo
+with my friend Moses and represent Mr Premium and then Ill answer
+fort youll see your Nephew in all his glory
+
+SIR OLIVER Egad I like this Idea better than the other and I may visit
+Joseph afterwards as old Stanley
+
+SIR PETER True so you may
+
+ROWLEY Well this is taking Charles rather at a disadvantage to be
+surehowever Mosesyou understand Sir Peter and will be faithful
+
+MOSES You may depend upon meand this is near the Time I was to have
+gone
+
+SIR OLIVER Ill accompany you as soon as you please Mosesbut
+holdI have forgot one thinghow the plague shall I be able to pass
+for a Jew
+
+MOSES Theres no needthe Principal is Christian
+
+SIR OLIVER Is HeIm very sorry to hear itbut then againant I
+rather too smartly dressed to look like a moneyLender
+
+SIR PETER Not at all twould not be out of character if you went in
+your own carriagewould it Moses
+
+MOSES Not in the least
+
+SIR OLIVER Wellbuthow must I talk theres certainly some cant of
+usury and mode of treating that I ought to know
+
+SIR PETER Oh theres not much to learnthe great point as I take it
+is to be exorbitant enough in your Demands hey Moses
+
+MOSES Yes thats very great Point
+
+SIR OLIVER Ill answer fort Ill not be wanting in thatIll ask him
+eight or ten per cent on the loanat least
+
+MOSES Youll be found out directlyif you ask him no more than that
+youll be discovered immediately
+
+SIR OLIVER Heywhat the Plaguehow much then
+
+MOSES That depends upon the Circumstancesif he appears not very
+anxious for the supply you should require only forty or fifty per
+centbut if you find him in great Distress and want the monies very
+badyou may ask double
+
+SIR PETER A goodhonest Trade youre learning Sir Oliver
+
+SIR OLIVER Truly I think soand not unprofitable
+
+MOSES Then you knowyou havent the monies yourself but are forced to
+borrow them for him of a Friend
+
+SIR OLIVER O I borrow it of a Friend do I
+
+MOSES And your friend is an unconsciond Dogbut you cant help it
+
+SIR OLIVER My Friends an unconscionable Dog is he
+
+MOSES Yesand He himself hasnt the monies by himbut is forced to
+sell stockat a great loss
+
+SIR OLIVER He is forced to sell stock is heat a great loss is
+hewell thats very kind of him
+
+SIR PETER Efaith Sir OliverMr Premium I meanyoull soon be master
+of the Tradebut Moses would have him inquire if the borrower is a
+minor
+
+MOSES O yes
+
+SIR PETER And in that case his Conscience will direct him
+
+MOSES To have the Bond in another Name to be sure
+
+SIR OLIVER Wellwell I shall be perfect
+
+SIR PETER But hearkee wouldnt you have him also run out a little
+against the annuity Billthat would be in character I should think
+
+MOSES Very much
+
+ROWLEY And lament that a young man now must be at years of discretion
+before He is suffered to ruin himself
+
+MOSES Aye great Pity
+
+SIR PETER And abuse the Public for allowing merit to an act whose only
+object is to snatch misfortune and imprudence from the rapacious Relief
+of usury and give the minor a chance of inheriting his estate without
+being undone by coming into Possession
+
+SIR OLIVER SosoMoses shall give me further instructions as we go
+together
+
+SIR PETER You will not have much time for your Nephew lives hard
+bye
+
+SIR OLIVER Oh Neverfear my Tutor appears so able that tho Charles
+lived in the next street it must be my own Fault if I am not a compleat
+Rogue before I turn the Corner
+
+ Exeunt SIR OLIVER and MOSES
+
+SIR PETER Sonow I think Sir Oliver will be convincedyou shant
+follow them Rowley You are partial and would have prepared Charles for
+tother plot
+
+ROWLEY No upon my word Sir Peter
+
+SIR PETER Well go bring me this Snake and Ill hear what he has to
+say presently I see Maria and want to speak with her
+
+ Exit ROWLEY
+I should be glad to be convinced my suspicions of Lady Teazle and
+Charles were unjustI have never yet opened my mind on this subject to
+my Friend Joseph    I am determined I will do itHe will give me
+his opinion sincerely
+
+ Enter MARIA
+
+So Childhas Mr Surface returned with you
+
+MARIA No SirHe was engaged
+
+SIR PETER WellMariado you not reflect the more you converse with
+that amiable young man what return his Partiality for you deserves
+
+MARIA Indeed Sir Peteryour frequent importunity on this subject
+distresses me extremelyyou compell me to Declare that I know no man
+who has ever paid me a particular Attention whom I would not prefer to
+Mr Surface
+
+SIR PETER Soh Heres PerversenessnonoMaria tis Charles only
+whom you would prefertis evident his Vices and Follies have won your
+Heart
+
+MARIA This is unkind SirYou know I have obeyd you in neither seeing
+nor corresponding with himI have heard enough to convince me that
+He is unworthy my regardYet I cannot think it culpableif while my
+understanding severely condemns his Vices my Heart suggests some Pity
+for his Distresses
+
+SIR PETER Well well pity him as much as you please but give your Heart
+and Hand to a worthier object
+
+MARIA Never to his Brother
+
+SIR PETER Goperverse and obstinate but take care Madamyou have
+never yet known what the authority of a Guardian isdont compel me to
+inform you of it
+
+MARIA I can only say you shall not have just Reasontis true by
+my Fathers will I am for a short period bound to regard you as his
+substitute but I must cease to think you so when you would compel me to
+be miserable
+
+ Exit
+
+SIR PETER Was ever man so crossed as I am everything conspiring to
+fret me I had not been involved in matrimony a fortnight before
+her Fathera hale and hearty man died on purpose I believefor the
+Pleasure of plaguing me with the care of his Daughter    but here
+comes my HelpmateShe appears in great good humourhow happy I
+should be if I could teaze her into loving me tho but a little
+
+ Enter LADY TEAZLE
+
+LADY TEAZLE Lud Sir Peter I hope you havent been quarrelling with
+Maria It isnt using me well to be ill humourd when I am not bye
+
+SIR PETER Ah Lady Teazle you might have the Power to make me good
+humourd at all times
+
+LADY TEAZLE I am sureI wish I hadfor I want you to be in a charming
+sweet temper at this momentdo be good humourd nowand let me have
+two hundred Pounds will you
+
+SIR PETER Two hundred Pounds what ant I to be in a good humour
+without paying for itbut speak to me thusand Efaith theres nothing
+I could refuse you You shall have itbut seal me a bond for the
+repayment
+
+LADY TEAZLE O notheremy Note of Hand will do as well
+
+SIR PETER And you shall no longer reproach me with not giving you an
+independent settlementI shall shortly surprise youand youll not
+call me ungenerousbut shall we always live thushey
+
+LADY TEAZLE If youpleaseIm sure I dont care how soon we leave off
+quarrelling provided youll own you were tired first
+
+SIR PETER Wellthen let our future contest be who shall be most
+obliging
+
+LADY TEAZLE I assure you Sir Peter Good Nature becomes youyou look
+now as you did before we were marriedwhen you used to walk with me
+under the Elms and tell me stories of what a Gallant you were in your
+youthand chuck me under the chin you wouldand ask me if I thought I
+could love an old Fellow who would deny me nothingdidnt you
+
+SIR PETER Yesyesand you were as kind and attentive
+
+LADY TEAZLE Aye so I wasand would always take your Part when my
+acquaintance used to abuse you and turn you into ridicule
+
+SIR PETER Indeed
+
+LADY TEAZLE Ayeand when my cousin Sophy has called you a stiff
+peevish old batchelor and laughd at me for thinking of marrying one who
+might be my FatherI have always defended youand said I didnt think
+you so ugly by any means and that youd make a very good sort of a
+husband
+
+SIR PETER And you prophesied rightand we shall certainly now be the
+happiest couple
+
+LADY TEAZLE And never differ again
+
+SIR PETER No nevertho at the same time indeedmy dear Lady
+Teazleyou must watch your Temper very narrowlyfor in all our little
+Quarrelsmy dearif you recollect my Love you always began first
+
+LADY TEAZLE I beg your Pardonmy dear Sir Peterindeedyou always
+gave the provocation
+
+SIR PETER Nowsee my Love take carecontradicting isnt the way to
+keep Friends
+
+LADY TEAZLE Then dont you begin it my Love
+
+SIR PETER There nowyou are going onyou dont perceive my Life
+that you are just doing the very thing my Love which you know always
+makes me angry
+
+LADY TEAZLE Nayyou know if you will be angry without any reasonmy
+Dear
+
+SIR PETER There now you want to quarrel again
+
+LADY TEAZLE NoI am sure I dontbut if you will be so peevish
+
+SIR PETER Therenow who begins first
+
+LADY TEAZLE Why you to be sureI said nothingbut theres no
+bearing your Temper
+
+SIR PETER Nonomy dearthe faults in your own temper
+
+LADY TEAZLE Aye you are just what my Cousin Sophy said you would be
+
+SIR PETER Your Cousin Sophyis a forward impertinent Gipsey
+
+LADY TEAZLE Go you great Bearhow dare you abuse my Relations
+
+SIR PETER Now may all the Plagues of marriage be doubled on me if ever
+I try to be Friends with you any more
+
+LADY TEAZLE So much the Better
+
+SIR PETER Nono Madam tis evident you never cared a pin for meI was
+a madman to marry you
+
+LADY TEAZLE And I am sure I was a Fooll to marry youan old dangling
+Batchelor who was single of at fiftyonly because He never could
+meet with any one who would have him
+
+SIR PETER AyeayeMadambut you were pleased enough to listen to
+meyou never had such an offer before
+
+LADY TEAZLE Nodidnt I refuse Sir Jeremy Terrierwho everybody
+said would have been a better Matchfor his estate is just as good as
+yoursand he has broke his Neck since we have been married
+
+SIR PETER I have done with you Madam You are an
+unfeelingungratefulbut theres an end of everythingI believe you
+capable of anything thats badYes MadamI now believe the Reports
+relative to you and CharlesMadamyesMadamyou and Charles arenot
+without grounds
+
+LADY TEAZLE Takecare Sir Peteryou had better not insinuate any such
+thing Ill not be suspected without cause I promise you
+
+SIR PETER VerywellMadamvery well a separate maintenanceas soon
+as you Please Yes Madam or a DivorceIll make an example of myself
+for the Benefit of all old BatchelorsLet us separate Madam
+
+LADY TEAZLE Agreedagreedand nowmy dear Sir Peter we are of a
+mind again we may be the happiest coupleand never differ again you
+knowha haWell you are going to be in a Passion I seeand I shall
+only interrupt youso bye bye heyyoung Jockey tryd and countered
+
+ Exit
+
+SIR PETER Plagues and tortures She pretends to keep her temper cant
+I make her angry neither O I am the miserable fellow But Ill not
+bear her presuming to keep her TemperNo she may break my Heartbut
+she shant keep her Temper
+
+ Exit
+
+
+
+
+SCENE IIAt CHARLESs House
+
+ Enter TRIP MOSES and SIR OLIVER
+
+TRIP Here Master Mosesif youll stay a momentIll try whether
+Mrwhats the Gentlemans Name
+
+SIR OLIVER MrMoseswhat IS my name
+
+MOSES Mr Premium
+
+TRIP Premiumvery well
+
+ Exit TRIPtaking snuff
+
+SIR OLIVER To judge by the Servantsone wouldnt believe the master
+was ruindbut whatsure this was my Brothers House
+
+MOSES Yes Sir Mr Charles bought it of Mr Joseph with the Furniture
+Pictures cjust as the old Gentleman left itSir Peter thought it a
+great piece of extravagance in him
+
+SIR OLIVER In my mind the others economy in selling it to him was more
+reprehensible by half
+
+ Enter TRIP
+
+TRIP My Master Gentlemen says you must wait he has company and
+cant speak with you yet
+
+SIR OLIVER If he knew who it was wanted to see him perhaps he wouldnt
+have sent such a Message
+
+TRIP YesyesSirHe knows you are hereI didnt forget little
+Premiumnono
+
+SIR OLIVER Very welland pray Sir what may be your Name
+
+TRIP Trip Sirmy Name is Trip at your Service
+
+SIR OLIVER Well then Mr TripI presume your master is seldom without
+company
+
+TRIP Very seldom Sirthe world says illnatured things of him but tis
+all maliceno man was ever better belovedSir he seldom sits down to
+dinner without a dozen particular Friends
+
+SIR OLIVER Hes very happy indeedyou have a pleasant sort of Place
+here I guess
+
+TRIP Why yeshere are three or four of us pass our time agreeably
+enoughbut then our wages are sometimes a little in arrearand not
+very great eitherbut fifty Pounds a year and find our own Bags and
+Bouquets
+
+SIR OLIVER Bags and BouquetsHalters and Bastinadoes Aside
+
+TRIP But a propos Moseshave you been able to get me that little Bill
+discounted
+
+SIR OLIVER Wants to raise money toomercy on me has his distresses
+I warrant like a Lordand affects Creditors and Duns Aside
+
+MOSES Twas not be done indeed
+
+TRIP Good lackyou surprise meMy Friend Brush has indorsed it and
+I thought when he put his name at the Back of a Bill twas as good as
+cash
+
+MOSES No twouldnt do
+
+TRIP A small sumbut twenty Poundharkee Moses do you think you
+could get it me by way of annuity
+
+SIR OLIVER An annuity ha ha a Footman raise money by annuityWell
+done Luxury egad Aside
+
+MOSES Who would you get to join with you
+
+TRIP You know my Lord Appliceyou have seen him however
+
+MOSES Yes
+
+TRIP You must have observed what an appearance he makesnobody dresses
+better nobody throws off fastervery well this Gentleman will stand my
+security
+
+MOSES Wellbut you must insure your Place
+
+TRIP O with all my HeartIll insure my Place and my Life too if you
+please
+
+SIR OLIVER Its more than I would your neck
+
+MOSES But is there nothing you could deposit
+
+TRIP Why nothing capital of my masters wardrobe has dropd latelybut
+I could give you a mortgage on some of his winter Cloaths with equity
+of redemption before November oryou shall have the reversionof the
+French velvet or a post obit on the Blue and Silverthese I
+should think Moseswith a few Pair of Point Ruffles as a collateral
+securityhey my little Fellow
+
+MOSES Well wellwell talk presentlywe detain the Gentlemen
+
+SIR OLIVER O pray dont let me interrupt Mr Trips Negotiation
+
+TRIP HarkeeI heard the BellI believe Gentlemen I can now introduce
+youdont forget the annuity little Moses
+
+SIR OLIVER If the man be a shadow of his Master this is the Temple of
+Dissipation indeed
+
+ Exeunt
+
+
+
+
+SCENE IIICHARLES CARELESS etc etc
+
+ At Table with Wine
+
+CHARLES Fore Heaven tis truethere is the great Degeneracy of the
+agemany of our acquaintance have TasteSpirit and Politenessbut
+plague ont they wont drink
+
+CARELESS It is so indeedCharlesthey give into all the substantial
+Luxuries of the Tableand abstain from nothing but wine and witOh
+certainly society suffers by it intolerablyfor now instead of the
+social spirit of Raillery that used to mantle over a glass of bright
+Burgundy their conversation is become just like the Spa water they
+drink which has all the Pertness and flatulence of champaine without its
+spirit or Flavour
+
+FIRST GENTLEMAN But what are they to do who love Play better than
+wine
+
+CARELESS Truetheres Harry diets himselffor gaming and is now under
+a hazard Regimen
+
+CHARLES Then Hell have the worst of itwhat you wouldnt train a
+horse for the course by keeping him from cornFor my Part egad I am
+never so successful as when Im a littlemerrylet me throw on a
+Bottle of Champaine and I never loseat least I never feel my losses
+which is exactly the same thing
+
+SECOND GENTLEMAN Aye that may bebut it is as impossible to follow
+wine and play as to unite Love and Politics
+
+CHARLES Pshawyou may do bothCaesar made Love and Laws in a
+Breathand was liked by the Senate as well as the Ladiesbut no man
+can pretend to be a Believer in Love who is an abjurer of winetis
+the Test by which a Lover knows his own Heartfill a dozen Bumpers to a
+dozen Beauties and she that floats atop is the maid that has bewitched
+you
+
+CARELESS Now then Charlesbe honest and give us yours
+
+CHARLES Why I have withheld her only in compassion to youif I toast
+her you should give a round of her Peers which is impossible on earth
+
+CARELESS O then well find some canonized Vestals or heathen Goddesses
+that will do I warrant
+
+CHARLES Here thenBumpersyou RoguesBumpers MariaMaria
+
+FIRST GENTLEMAN Maria who
+
+CHARLES Oh damn the Surname tis too formal to be registerd in
+Loves calendarbut now Careless bewarebewarewe must have Beautys
+superlative
+
+FIRST GENTLEMAN Nay Never study Carelesswell stand to the
+Toasttho your mistress should want an eyeand you know you have a
+song will excuse you
+
+CARELESS Egad so I haveand Ill give him the song instead of the
+Lady
+
+ SONGAND CHORUS4
+
+ Heres to the maiden of bashful fifteen
+ Heres to the widow of fifty
+ Heres to the flaunting extravagant quean
+ And heres to the housewife thats thrifty
+ Chorus Let the toast pass
+ Drink to the lass
+ Ill warrant shell prove an excuse for a glass
+
+ Heres to the charmer whose dimples we prize
+ Now to the maid who has none sir
+ Heres to the girl with a pair of blue eyes
+ And heres to the nymph with but one sir
+ Chorus Let the toast pass c
+
+ Heres to the maid with a bosom of snow
+ Now to her thats as brown as a berry
+ Heres to the wife with a face full of woe
+ And now to the damsel thats merry
+ Chorus Let the toast pass c
+
+ For let em be clumsy or let em be slim
+ Young or ancient I care not a feather
+ So fill a pint bumper quite up to the brim
+ So fill up your glasses nay fill to the brim
+ And let us een toast them together
+ Chorus Let the toast pass c
+
+ Enter TRIP whispers CHARLES
+
+SECOND GENTLEMAN Bravo CarelessThers Toast and Sentiment too
+
+FIRST GENTLEMAN E faith theres infinite charity in that song
+
+CHARLES Gentlemen you must excuse me a littleCareless take the
+Chair will you
+
+CARELESS Nay prithee Charleswhat nowthis is one of your Peerless
+Beauties I supposehas dropped in by chance
+
+CHARLES NoFaithto tell you the Truth tis a Jew and a Broker who
+are come by appointment
+
+CARELESS O dam it lets have the Jew in
+
+FIRST GENTLEMAN Aye and the Broker too by all means
+
+SECOND GENTLEMAN Yes yes the Jew and the Broker
+
+CHARLES Egad with all my HeartTripbid the Gentlemen walk intho
+theres one of them a Stranger I can tell you
+
+TRIP What Sirwould you chuse Mr Premium to come up with
+
+FIRST GENTLEMAN Yesyes Mr Premium certainly
+
+CARELESS To be sureMr Premiumby all means Charles let us give
+them some generous Burgundy and perhaps theyll grow conscientious
+
+CHARLES O Hang emnowine does but draw forth a mans natural
+qualities and to make them drink would only be to whet their Knavery
+
+ Enter TRIP SIR OLIVER and MOSES
+
+CHARLES Sohonest Moseswalk inwalk in pray Mr Premiumthats the
+Gentlemans name isnt it Moses
+
+MOSES Yes Sir
+
+CHARLES Set chairsTrimSit down Mr PremiumGlasses Trimsit
+down MosesCome Mr Premium Ill give you a sentimentHeres Success
+to UsuryMoses fill the Gentleman a bumper
+
+MOSES Success to Usury
+
+CARELESS Right MosesUsury is Prudence and industry and deserves to
+succeed
+
+SIR OLIVER Then Here isall the success it deserves Drinks
+
+CHARLES Mr Premium you and I are but strangers yetbut I hope we
+shall be better acquainted by and bye
+
+SIR OLIVER Yes Sir hope we shallmore intimately perhaps than youll
+wish Aside5
+
+CARELESS No no that wont do Mr Premium you have demurred at the
+toast and must drink it in a pint bumper
+
+FIRST GENTLEMAN A pint bumper at least
+
+MOSES Oh pray sir considerMr Premiums a gentleman
+
+CARELESS And therefore loves good wine
+
+SECOND GENTLEMAN Give Moses a quart glassthis is mutiny and a high
+contempt for the chair
+
+CARELESS Here now fort Ill see justice done to the last drop of my
+bottle
+
+SIR OLIVER Nay pray gentlemenI did not expect this usage
+
+CHARLES No hang it you shant Mr Premiums a stranger
+
+SIR OLIVER Odd I wish I was well out of their company Aside
+
+CARELESS Plague on em then if they wont drink well not sit down
+with them Come Harry the dice are in the next roomCharles youll
+join us when you have finished your business with the gentlemen
+
+CHARLES I will I will
+
+ Exeunt SIR HARRY BUMPER and GENTLEMEN CARELESS following
+Careless
+
+CARELESS Returning Well
+
+CHARLES Perhaps I may want you
+
+CARELESS Oh you know I am always ready word note or bond tis all
+the same to me
+
+ Exit
+
+MOSES Sir this is Mr Premium a gentleman of the strictest honour
+and secrecy and always performs what he undertakes Mr Premium this
+is
+
+CHARLES Psha have done Sir my friend Moses is a very honest fellow
+but a little slow at expression hell be an hour giving us our titles
+Mr Premium the plain state of the matter is this I am an extravagant
+young fellow who wants to borrow money you I take to be a prudent old
+fellow who have got money to lend I am blockhead enough to give fifty
+per cent sooner than not have it and you I presume are rogue enough
+to take a hundred if you can get it Now sir you see we are acquainted
+at once and may proceed to business without further ceremony
+
+SIR OLIVER Exceeding frank upon my word I see sir you are not a man
+of many compliments
+
+CHARLES Oh no sir plain dealing in business I always think best
+
+SIR OLIVER Sir I like you the better for it However You are mistaken
+in one thing I have no money to lend but I believe I could procure
+some of a friend but then hes an unconscionable dog Isnt he Moses
+And must sell stock to accommodate you Mustnt he Moses
+
+MOSES Yes indeed You know I always speak the truth and scorn to tell
+a lie
+
+CHARLES Right People that speak truth generally do But these are
+trifles Mr Premium What I know money isnt to be bought without
+paying fort
+
+SIR OLIVER Well but what security could you give You have no land I
+suppose
+
+CHARLES Not a molehill nor a twig but whats in the bough pots out
+of the window
+
+SIR OLIVER Nor any stock I presume
+
+CHARLES Nothing but live stockand thats only a few pointers and
+ponies But pray Mr Premium are you acquainted at all with any of my
+connections
+
+SIR OLIVER Why to say the truth I am
+
+CHARLES Then you must know that I have a devilish rich uncle in
+the East Indies Sir Oliver Surface from whom I have the greatest
+expectations
+
+SIR OLIVER That you have a wealthy uncle I have heard but how your
+expectations will turn out is more I believe than you can tell
+
+CHARLES Oh nothere can be no doubt They tell me Im a prodigious
+favourite and that he talks of leaving me everything
+
+SIR OLIVER Indeed this is the first Ive heard of it
+
+CHARLES Yes yes tis just so Moses knows tis true dont you
+Moses
+
+MOSES Oh yes Ill swear tot
+
+SIR OLIVER Egad theyll persuade me presently Im at Bengal Aside
+
+CHARLES Now I propose Mr Premium if its agreeable to you a
+postobit on Sir Olivers life though at the same time the old fellow
+has been so liberal to me that I give you my word I should be very
+sorry to hear that anything had happened to him
+
+SIR OLIVER Not more than I should I assure you But the bond you
+mention happens to be just the worst security you could offer mefor I
+might live to a hundred and never see the principal
+
+CHARLES Oh yes you would the moment Sir Oliver dies you know you
+would come on me for the money
+
+SIR OLIVER Then I believe I should be the most unwelcome dun you ever
+had in your life
+
+CHARLES What I suppose youre afraid that Sir Oliver is too good a
+life
+
+SIR OLIVER No indeed I am not though I have heard he is as hale and
+healthy as any man of his years in Christendom
+
+CHARLES There again now you are misinformed No no the climate has
+hurt him considerably poor uncle Oliver Yes yes he breaks apace Im
+toldand is so much altered lately that his nearest relations would not
+know him
+
+SIR OLIVER No Ha ha ha so much altered lately that his nearest
+relations would not know him Ha ha ha egadha ha ha
+
+CHARLES Ha hayoure glad to hear that little Premium
+
+SIR OLIVER No no Im not
+
+CHARLES Yes yes you areha ha hayou know that mends your
+chance
+
+SIR OLIVER But Im told Sir Oliver is coming over nay some say he is
+actually arrived
+
+CHARLES Psha sure I must know better than you whether hes come or
+not No no rely ont hes at this moment at Calcutta Isnt he Moses
+
+MOSES Oh yes certainly
+
+SIR OLIVER Very true as you say you must know better than I though I
+have it from pretty good authority Havent I Moses
+
+MOSES Yes most undoubted
+
+SIR OLIVER But Sir as I understand you want a few hundreds
+immediately is there nothing you could dispose of
+
+CHARLES How do you mean
+
+SIR OLIVER For instance now I have heard that your father left behind
+him a great quantity of massy old plate
+
+CHARLES O Lud thats gone long ago Moses can tell you how better than
+I can
+
+SIR OLIVER Aside Good lack all the family racecups and
+corporationbowlsAloud Then it was also supposed that his library
+was one of the most valuable and compact
+
+CHARLES Yes yes so it wasvastly too much so for a private
+gentleman For my part I was always of a communicative disposition so
+I thought it a shame to keep so much knowledge to myself
+
+SIR OLIVER Aside Mercy upon me learning that had run in the family
+like an heirloomAloud Pray what has become of the books
+
+CHARLES You must inquire of the auctioneer Master Premium for I dont
+believe even Moses can direct you
+
+MOSES I know nothing of books
+
+SIR OLIVER So so nothing of the family property left I suppose
+
+CHARLES Not much indeed unless you have a mind to the family
+pictures I have got a room full of ancestors above and if you have a
+taste for old paintings egad you shall have em a bargain
+
+SIR OLIVER Hey what the devil sure you wouldnt sell your
+forefathers would you
+
+CHARLES Every man of them to the best bidder
+
+SIR OLIVER What your greatuncles and aunts
+
+CHARLES Ay and my greatgrandfathers and grandmothers too
+
+SIR OLIVER Aside Now I give him upAloud What the plague
+have you no bowels for your own kindred Odds life do you take me for
+Shylock in the play that you would raise money of me on your own flesh
+and blood
+
+CHARLES Nay my little broker dont be angry what need you care if
+you have your moneys worth
+
+SIR OLIVER Well Ill be the purchaser I think I can dispose of the
+family canvasAside Oh Ill never forgive him this never
+
+ Reenter CARELESS
+
+CARELESS Come Charles what keeps you
+
+CHARLES I cant come yet Ifaith we are going to have a sale above
+stairs heres little Premium will buy all my ancestors
+
+CARELESS Oh burn your ancestors
+
+CHARLES No he may do that afterwards if he pleases Stay Careless
+we want you egad you shall be auctioneerso come along with us
+
+CARELESS Oh have with you if thats the case I can handle a hammer
+as well as a dice box Going going
+
+SIR OLIVER Oh the profligates Aside
+
+CHARLES Come Moses you shall be appraiser if we want one Gads
+life little Premium you dont seem to like the business
+
+SIR OLIVER Oh yes I do vastly Ha ha ha yes yes I think it a
+rare joke to sell ones family by auctionha haAside Oh the
+prodigal
+
+CHARLES To be sure when a man wants money where the plague should he
+get assistance if he cant make free with his own relations
+
+ Exeunt
+
+SIR OLIVER Ill never forgive him never never
+
+ END OF THE THIRD ACT
+
+
+
+
+ACT IV
+
+
+
+
+SCENE IA Picture Room in CHARLES SURFACES House
+
+ Enter CHARLES SIR OLIVER MOSES and CARELESS
+
+CHARLES Walk in gentlemen pray walk inhere they are the family of
+the Surfaces up to the Conquest
+
+SIR OLIVER And in my opinion a goodly collection
+
+CHARLES Ay ay these are done in the true spirit of portraitpainting
+no volontiere grace or expression Not like the works of your modern
+Raphaels who give you the strongest resemblance yet contrive to make
+your portrait independent of you so that you may sink the original
+and not hurt the picture No no the merit of these is the inveterate
+likenessall stiff and awkward as the originals and like nothing in
+human nature besides
+
+SIR OLIVER Ah we shall never see such figures of men again
+
+CHARLES I hope not Well you see Master Premium what a domestic
+character I am here I sit of an evening surrounded by my family But
+come get to your pulpit Mr Auctioneer heres an old gouty chair of
+my grandfathers will answer the purpose
+
+CARELESS Ay ay this will do But Charles I havent a hammer and
+whats an auctioneer without his hammer
+
+CHARLES Egad thats true What parchment have we here Oh our
+genealogy in full Taking pedigree down Here Careless you shall
+have no common bit of mahogany heres the family tree for you
+you rogue This shall be your hammer and now you may knock down my
+ancestors with their own pedigree
+
+SIR OLIVER What an unnatural roguean ex post facto parricide
+Aside
+
+CARELESS Yes yes heres a list of your generation indeedfaith
+Charles this is the most convenient thing you could have found for the
+business for twill not only serve as a hammer but a catalogue into
+the bargain Come beginAgoing agoing agoing
+
+CHARLES Bravo Careless Well heres my great uncle Sir Richard
+Ravelin a marvellous good general in his day I assure you He served
+in all the Duke of Marlboroughs wars and got that cut over his eye
+at the battle of Malplaquet What say you Mr Premium look at
+himtheres a hero not cut out of his feathers as your modern clipped
+captains are but enveloped in wig and regimentals as a general should
+be What do you bid
+
+SIR OLIVER Aside to Moses Bid him speak
+
+MOSES Mr Premium would have you speak
+
+CHARLES Why then he shall have him for ten pounds and Im sure
+thats not dear for a staffofficer
+
+SIR OLIVER Aside Heaven deliver me his famous uncle Richard for ten
+poundsAloud Very well sir I take him at that
+
+CHARLES Careless knock down my uncle RichardHere now is a maiden
+sister of his my greataunt Deborah done by Kneller in his best
+manner and esteemed a very formidable likeness There she is you see
+a shepherdess feeding her flock You shall have her for five pounds
+tenthe sheep are worth the money
+
+SIR OLIVER Aside Ah poor Deborah a woman who set such a value on
+herselfAloud Five pounds tenshes mine
+
+CHARLES Knock down my aunt Deborah Here now are two that were a sort
+of cousins of theirsYou see Moses these pictures were done some
+time ago when beaux wore wigs and the ladies their own hair
+
+SIR OLIVER Yes truly headdresses appear to have been a little lower
+in those days
+
+CHARLES Well take that couple for the same
+
+MOSES Tis a good bargain
+
+CHARLES CarelessThis now is a grandfather of my mothers a
+learned judge well known on the western circuitWhat do you rate him
+at Moses
+
+MOSES Four guineas
+
+CHARLES Four guineas Gads life you dont bid me the price of his
+wigMr Premium you have more respect for the woolsack do let us
+knock his lordship down at fifteen
+
+SIR OLIVER By all means
+
+CARELESS Gone
+
+CHARLES And there are two brothers of his William and Walter Blunt
+Esquires both members of Parliament and noted speakers and whats
+very extraordinary I believe this is the first time they were ever
+bought or sold
+
+SIR OLIVER That is very extraordinary indeed Ill take them at your
+own price for the honour of Parliament
+
+CARELESS Well said little Premium Ill knock them down at forty
+
+CHARLES Heres a jolly fellowI dont know what relation but he was
+mayor of Norwich take him at eight pounds
+
+SIR OLIVER No no six will do for the mayor
+
+CHARLES Come make it guineas and Ill throw you the two aldermen here
+into the bargain
+
+SIR OLIVER Theyre mine
+
+CHARLES Careless knock down the mayor and aldermen But plague ont
+we shall be all day retailing in this manner do let us deal wholesale
+what say you little Premium Give me three hundred pounds for the rest
+of the family in the lump
+
+CARELESS Ay ay that will be the best way
+
+SIR OLIVER Well well anything to accommodate you they are mine But
+there is one portrait which you have always passed over
+
+CARELESS What that illlooking little fellow over the settee
+
+SIR OLIVER Yes sir I mean that though I dont think him so
+illlooking a little fellow by any means
+
+CHARLES What that Oh thats my uncle Oliver Twas done before he
+went to India
+
+CARELESS Your uncle Oliver Gad then youll never be friends
+Charles That now to me is as stern a looking rogue as ever I saw an
+unforgiving eye and a damned disinheriting countenance an inveterate
+knave depend ont Dont you think so little Premium
+
+SIR OLIVER Upon my soul Sir I do not I think it is as honest a
+looking face as any in the room dead or alive But I suppose uncle
+Oliver goes with the rest of the lumber
+
+CHARLES No hang it Ill not part with poor Noll The old fellow has
+been very good to me and egad Ill keep his picture while Ive a room
+to put it in
+
+SIR OLIVER Aside The rogues my nephew after allAloud But
+sir I have somehow taken a fancy to that picture
+
+CHARLES Im sorry fort for you certainly will not have it Oons
+havent you got enough of them
+
+SIR OLIVER Aside I forgive him everythingAloud But Sir when
+I take a whim in my head I dont value money Ill give you as much for
+that as for all the rest
+
+CHARLES Dont tease me master broker I tell you Ill not part with
+it and theres an end of it
+
+SIR OLIVER Aside How like his father the dog isAloud Well
+well I have doneAside I did not perceive it before but I think
+I never saw such a striking resemblanceAloud Here is a draught for
+your sum
+
+CHARLES Why tis for eight hundred pounds
+
+SIR OLIVER You will not let Sir Oliver go
+
+CHARLES Zounds no I tell you once more
+
+SIR OLIVER Then never mind the difference well balance that another
+time But give me your hand on the bargain you are an honest fellow
+CharlesI beg pardon sir for being so freeCome Moses
+
+CHARLES Egad this is a whimsical old fellowBut harkee Premium
+youll prepare lodgings for these gentlemen
+
+SIR OLIVER Yes yes Ill send for them in a day or two
+
+CHARLES But hold do now send a genteel conveyance for them for I
+assure you they were most of them used to ride in their own carriages
+
+SIR OLIVER I will I willfor all but Oliver
+
+CHARLES Ay all but the little nabob
+
+SIR OLIVER Youre fixed on that
+
+CHARLES Peremptorily
+
+SIR OLIVER Aside A dear extravagant rogueAloud Good day Come
+MosesAside Let me hear now who dares call him profligate
+
+ Exit with MOSES
+
+CARELESS Why this is the oddest genius of the sort I ever met with
+
+CHARLES Egad hes the prince of brokers I think I wonder how
+the devil Moses got acquainted with so honest a fellowHa heres
+RowleyDo Careless say Ill join the company in a few moments
+
+CARELESS I willbut dont let that old blockhead persuade you to
+squander any of that money on old musty debts or any such nonsense for
+tradesmen Charles are the most exorbitant fellows
+
+CHARLES Very true and paying them is only encouraging them
+
+CARELESS Nothing else
+
+CHARLES Ay ay never fear
+
+ Exit CARELESS
+So this was an odd old fellow indeed Let me see twothirds of these
+five hundred and thirty odd pounds are mine by right Fore Heaven
+I find ones ancestors are more valuable relations than I took them
+forLadies and gentlemen your most obedient and very grateful
+servant Bows ceremoniously to the pictures
+
+ Enter ROWLEY
+
+Ha old Rowley egad you are just come in time to take leave of your
+old acquaintance
+
+ROWLEY Yes I heard they were agoing But I wonder you can have such
+spirits under so many distresses
+
+CHARLES Why theres the point my distresses are so many that I cant
+affort to part with my spirits but I shall be rich and splenetic all
+in good time However I suppose you are surprised that I am not more
+sorrowful at parting with so many near relations to be sure tis very
+affecting but you see they never move a muscle so why should I
+
+ROWLEY Theres no making you serious a moment
+
+CHARLES Yes faith I am so now Here my honest Rowley here get me
+this changed directly and take a hundred pounds of it immediately to
+old Stanley
+
+ROWLEY A hundred pounds Consider only
+
+CHARLES Gads life dont talk about it poor Stanleys wants are
+pressing and if you dont make haste we shall have some one call that
+has a better right to the money
+
+ROWLEY Ah theres the point I never will cease dunning you with the
+old proverb
+
+CHARLES BE JUST BEFORE YOURE GENEROUSWhy so I would if I could
+but Justice is an old hobbling beldame and I cant get her to keep pace
+with Generosity for the soul of me
+
+ROWLEY Yet Charles believe me one hours reflection
+
+CHARLES Ay ay its very true but harkee Rowley while I have by
+Heaven Ill give so damn your economy and now for hazard
+
+ Exeunt
+
+
+
+
+SCENE IIThe Parlour
+
+ Enter SIR OLIVER and MOSES
+
+MOSES Well sir I think as Sir Peter said you have seen Mr Charles in
+high Glorytis great Pity Hes so extravagant
+
+SIR OLIVER Truebut he would not sell my Picture
+
+MOSES And loves wine and women so much
+
+SIR OLIVER But He wouldnt sell my Picture
+
+MOSES And game so deep
+
+SIR OLIVER But He wouldnt sell my Picture Oheres Rowley
+
+ Enter ROWLEY
+
+ROWLEY SoSir OliverI find you have made a Purchase
+
+SIR OLIVER Yesyesour young Rake has parted with his Ancestors like
+old Tapestrysold Judges and Generals by the footand maiden Aunts as
+cheap as broken China
+
+ROWLEY And here has he commissioned me to redeliver you Part of
+the purchasemoneyI mean tho in your necessitous character of old
+Stanley
+
+MOSES Ah there is the Pity of all He is so damned charitable
+
+ROWLEY And I left a Hosier and two Tailors in the Hallwho Im sure
+wont be paid and this hundred would satisfy em
+
+SIR OLIVER WellwellIll pay his debts and his Benevolences
+tooIll take care of old StanleymyselfBut now I am no more
+a Broker and you shall introduce me to the elder Brother as Stanley
+
+ROWLEY Not yet a whileSir Peter I know means to call there about this
+time
+
+ Enter TRIP
+
+TRIP O GentlemenI beg Pardon for not showing you outthis
+wayMoses a word
+
+ Exit TRIP with MOSES
+
+SIR OLIVER Theres a Fellow for youWould you believe it that Puppy
+intercepted the Jew on our coming and wanted to raise money before he
+got to his master
+
+ROWLEY Indeed
+
+SIR OLIVER Yesthey are now planning an annuity BusinessAh Master
+Rowley in my Day Servants were content with the Follies of their
+Masters when they were worn a little Thread Bare but now they have their
+Vices like their Birth Day cloaths with the gloss on
+
+ Exeunt
+
+
+
+
+SCENE IIIA Library
+
+ SURFACE and SERVANT
+
+SURFACE No letter from Lady Teazle
+
+SERVANT No Sir
+
+SURFACE I am surprised she hasnt sent if she is prevented from
+coming Sir Peter certainly does not suspect meyet I wish I may
+not lose the Heiress thro the scrape I have drawn myself in with the
+wifeHowever Charless imprudence and bad character are great Points
+in my Favour
+
+SERVANT SirI believe that must be Lady Teazle
+
+SURFACE Hold seewhether it is or not before you go to the DoorI
+have a particular Message for you if it should be my Brother
+
+SERVANT Tis her ladyship SirShe always leaves her Chair at the
+milliners in the next Street
+
+SURFACE Staystaydraw that Screen before the Windowthat will
+domy opposite Neighbour is a maiden Lady of so curious a temper
+
+ SERVANT draws the screen and exit
+
+I have a difficult Hand to play in this AffairLady Teazle as lately
+suspected my Views on Mariabut She must by no means be let into that
+secret at least till I have her more in my Power
+
+ Enter LADY TEAZLE
+
+LADY TEAZLE What Sentiment in soliloquyhave you been very
+impatient nowO Lud dont pretend to look graveI vow I couldnt
+come before
+
+SURFACE O Madam Punctuality is a species of Constancy a very
+unfashionable quality in a Lady
+
+LADY TEAZLE Upon my word you ought to pity me do you now Sir Peter
+is grown so illtempered to me of Late and so jealous of Charles too
+thats the best of the story isnt it
+
+SURFACE I am glad my scandalous Friends keep that up Aside
+
+LADY TEAZLE I am sure I wish He would let Maria marry himand then
+perhaps He would be convinceddont youMr Surface
+
+SURFACE Indeed I do notAside O certainly I dofor then my dear
+Lady Teazle would also be convinced how wrong her suspicions were of my
+having any design on the silly Girl
+
+LADY TEAZLE Wellwell Im inclined to believe youbesides I really
+never could perceive why she should have so any admirers
+
+SURFACE O for her Fortunenothing else
+
+LADY TEAZLE I believe so for tho she is certainly very prettyyet she
+has no conversation in the worldand is so grave and reservedthat I
+declare I think shed have made an excellent wife for Sir Peter
+
+SURFACE So she would
+
+LADY TEAZLE Thenone never hears her speak ill of anybodywhich you
+know is mighty dull
+
+SURFACE Yet she doesnt want understanding
+
+LADY TEAZLE No more she doesyet one is always disapointed when
+one hears her speakFor though her Eyes have no kind of meaning in
+themshe very seldom talks Nonsense
+
+SURFACE Naynay surelyshe has very fine eyes
+
+LADY TEAZLE Why so she hastho sometimes one fancies theres a little
+sort of a squint
+
+SURFACE A squintO fieLady Teazle
+
+LADY TEAZLE Yes yesI vow nowcome there is a lefthanded Cupid in
+one eyethats the Truth ont
+
+SURFACE Wellhis aim is very direct howeverbut Lady Sneerwell has
+quite corrupted you
+
+LADY TEAZLE No indeedI have not opinion enough of her to be taught
+by her and I know that she has lately raisd many scandalous hints of
+mewhich you know one always hears from one common Friend or other
+
+SURFACE Why to say truth I believe you are not more obliged to her than
+others of her acquaintance
+
+LADY TEAZLE But isnt it provoking to hear the most illnatured
+Things said to one and theres my friend Lady Sneerwell has circulated
+I dont know how many scandalous tales of me and all without any
+foundation too thats what vexes me
+
+SURFACE Aye Madam to be sure that is the Provoking
+circumstancewithout Foundationyes yestheres the mortification
+indeedfor when a slanderous story is believed against onethere
+certainly is no comfort like the consciousness of having deserved it
+
+LADY TEAZLE No to be surethen Id forgive their malicebut to attack
+me who am really so innocentand who never say an illnatured thing of
+anybodythat is of any Friend and then Sir Peter tooto have
+him so peevishand so suspiciouswhen I know the integrity of my own
+Heartindeed tis monstrous
+
+SURFACE But my dear Lady Teazle tis your own fault if you suffer
+itwhen a Husband entertains a groundless suspicion of his Wife and
+withdraws his confidence from herthe original compact is broke and she
+owes it to the Honour of her sex to endeavour to outwit him
+
+LADY TEAZLE IndeedSo that if He suspects me without cause it follows
+that the best way of curing his jealousy is to give him reason fort
+
+SURFACE Undoubtedlyfor your Husband should never be deceived in
+youand in that case it becomes you to be frail in compliment to his
+discernment
+
+LADY TEAZLE To be sure what you say is very reasonableand when the
+consciousness of my own Innocence
+
+SURFACE Ah my dearMadam there is the great mistaketis this very
+conscious Innocence that is of the greatest Prejudice to youwhat is
+it makes you negligent of Forms and careless of the worlds opinionwhy
+the consciousness of your Innocencewhat makes you thoughtless in
+your Conduct and apt to run into a thousand little imprudenceswhy the
+consciousness of your Innocencewhat makes you impatient of Sir Peters
+temper and outrageous at his suspicionswhy the consciousness of your
+own Innocence
+
+LADY TEAZLE Tis very true
+
+SURFACE Now my dear Lady Teazle if you but once make a trifling Faux
+Pas you cant conceive how cautious you would grow and how ready to
+humour and agree with your Husband
+
+LADY TEAZLE Do you think so
+
+SURFACE O Im sure ont and then youd find all scandal would cease
+at oncefor in short your Character at Present is like a Person in a
+Plethora absolutely dying of too much Health
+
+LADY TEAZLE Sosothen I perceive your Prescription is that I
+must sin in my own Defenceand part with my virtue to preserve my
+Reputation
+
+SURFACE Exactly so upon my credit Maam
+
+LADY TEAZLE Well certainly this is the oddest Doctrineand the newest
+Receipt for avoiding calumny
+
+SURFACE An infallible one believe mePrudence like experience must be
+paid for
+
+LADY TEAZLE Why if my understanding were once convinced
+
+SURFACE Oh certainly Madam your understanding SHOULD be
+convincedyesyesHeaven forbid I should persuade you to do anything
+you THOUGHT wrongnonoI have too much honor to desire it
+
+LADY TEAZLE Dontyou think we may as well leave Honor out of the
+Argument Rises
+
+SURFACE Ahthe ill effects of your country education I see still
+remain with you
+
+LADY TEAZLE I doubt they do indeedand I will fairly own to you
+that If I could be persuaded to do wrong it would be by Sir Peters
+illusagesooner than your honourable Logic after all
+
+SURFACE Then by this Hand which He is unworthy of
+
+ Enter SERVANT
+
+Sdeath you Blockheadwhat do you want
+
+SERVANT I beg your Pardon Sir but I thought you wouldnt chuse Sir
+Peter to come up without announcing him
+
+SURFACE Sir PeterOonsthe Devil
+
+LADY TEAZLE Sir Peter O Lud Im ruined Im ruind
+
+SERVANT Sir twasnt I let him in
+
+LADY TEAZLE O Im undonewhat will become of me now Mr LogickOh
+mercy Hes on the StairsIll get behind hereand if ever Im so
+imprudent again
+
+ Goes behind the screen
+
+SURFACE Give me thatBook
+
+ Sits downSERVANT pretends to adjust his Hair
+
+ Enter SIR PETER
+
+SIR PETER Ayeever improving himselfMr Surface
+
+SURFACE Oh my dear Sir PeterI beg your PardonGaping and throws
+away the Book I have been dosing dozing over a stupid Book wellI
+am much obliged to you for this CallYou havent been here I believe
+since I fitted up this RoomBooks you know are the only Things I am a
+Coxcomb in
+
+SIR PETER Tis very neat indeedwell well thats properand you make
+even your Screen a source of knowledgehung I perceive with Maps
+
+SURFACE O yesI find great use in that Screen
+
+SIR PETER I dare say you mustcertainlywhen you want to find out
+anything in a Hurry
+
+SURFACE Aye or to hide anything in a Hurry either
+
+SIR PETER Well I have a little private Businessif we were alone
+
+SURFACE You neednt stay
+
+SERVANT NoSir
+
+ Exit SERVANT
+
+SURFACE Heres a ChairSir PeterI beg
+
+SIR PETER Wellnow we are alonethere IS a subjectmy dear
+Friendon which I wish to unburthen my Mind to youa Point of the
+greatest moment to my Peacein short my good FriendLady Teazles
+conduct of late has made me very unhappy
+
+SURFACE Indeed Im very sorry to hear it
+
+SIR PETER Yes tis but too plain she has not the least regard for
+mebut whats worse I have pretty good Authority to suspect that she
+must have formed an attachment to another
+
+SURFACE Indeed you astonish me
+
+SIR PETER Yesand between ourselvesI think I have discoverd the
+Person
+
+SURFACE Howyou alarm me exceedingly
+
+SIR PETER Ah my dear Friend I knew you would sympathize with me
+
+SURFACE Yesbelieve me Sir Petersuch a discovery would hurt me just
+as much as it would you
+
+SIR PETER I am convinced of itahit is a happiness to have a Friend
+whom one can trust even with ones Family secretsbut have you no guess
+who I mean
+
+SURFACE I havent the most distant Ideait cant be Sir Benjamin
+Backbite
+
+SIR PETER ONo What say you to Charles
+
+SURFACE My BrotherimpossibleO no Sir Peter you mustnt credit the
+scandalous insinuations you hearno noCharles to be sure has been
+charged with many things but go I can never think He would meditate so
+gross an injury
+
+SIR PETER Ah my dear Friendthe goodness of your own Heart misleads
+youyou judge of others by yourself
+
+SURFACE Certainly Sir Peterthe Heart that is conscious of its own
+integrity is ever slowest to credit anothers Treachery
+
+SIR PETER Truebut your Brother has no sentimentyou never hear him
+talk so
+
+SURFACE Well there certainly is no knowing what men are capable
+ofnothere is no knowingyet I cant but think Lady Teazle herself
+has too much Principle
+
+SIR PETER Aye but whats Principle against the Flattery of a
+handsomelively young Fellow
+
+SURFACE Thats very true
+
+SIR PETER And then you know the difference of our ages makes it very
+improbable that she should have any great affection for meand if she
+were to be frail and I were to make it Publicwhy the Town would only
+laugh at the foolish old Batchelor who had married a girl
+
+SURFACE Thats trueto be sure People would laugh
+
+SIR PETER Laughaye and make Balladsand Paragraphs and the Devil
+knows what of me
+
+SURFACE Noyou must never make it public
+
+SIR PETER But then again that the Nephew of my old Friend Sir
+Oliver should be the Person to attempt such an injuryhurts me more
+nearly
+
+SURFACE Undoubtedlywhen Ingratitude barbs the Dart of Injurythe
+wound has double danger in it
+
+SIR PETER AyeI that was in a manner left his Guardianin his House
+he had been so often entertaindwho never in my Life denied him my
+advice
+
+SURFACE O tis not to be creditedThere may be a man capable of such
+Baseness to be surebut for my Part till you can give me positive
+Proofs you must excuse me withholding my Belief However if this should
+be proved on him He is no longer a brother of mine I disclaim kindred
+with himfor the man who can break thro the Laws of Hospitalityand
+attempt the wife of his Friend deserves to be branded as the Pest of
+Society
+
+SIR PETER What a difference there is between youwhat noble
+sentiments
+
+SURFACE But I cannot suspect Lady Teazles honor
+
+SIR PETER Im sure I wish to think well of herand to remove all
+ground of Quarrel between usShe has lately reproachd me more than
+once with having made no settlement on herand in our last Quarrel
+she almost hinted that she should not break her Heart if I was
+deadnow as we seem to differ in our Ideas of Expense I have resolved
+she shall be her own Mistress in that Respect for the futureand if
+I were to dieshe shall find that I have not been inattentive to her
+Interests while livingHere my Friend are the Draughts of two Deeds
+which I wish to have your opinion onby one she will enjoy eight
+hundred a year independent while I liveand by the other the bulk of my
+Fortune after my Death
+
+SURFACE This conduct Sir Peter is indeed truly Generous I wish it may
+not corrupt my pupilAside
+
+SIR PETER Yes I am determined she shall have no cause to complaintho
+I would not have her acquainted with the latter instance of my affection
+yet awhile
+
+SURFACE Nor Iif I could help it
+
+SIR PETER And now my dear Friend if you please we will talk over the
+situation of your Hopes with Maria
+
+SURFACE NonoSir Peteranother Time if you Pleasesoftly
+
+SIR PETER I am sensibly chagrined at the little Progress you seem to
+make in her affection
+
+SURFACE I beg you will not mention itWhat are my Disappointments when
+your Happiness is in Debate softly Sdeath I shall be ruined every
+way
+
+SIR PETER And tho you are so averse to my acquainting Lady Teazle with
+YOUR passion I am sure shes not your Enemy in the Affair
+
+SURFACE Pray Sir Peter now oblige meI am really too much affected
+by the subject we have been speaking of to bestow a thought on my own
+concernsThe Man who is entrusted with his Friends Distresses can
+never
+
+ Enter SERVANT
+
+Well Sir
+
+SERVANT Your Brother Sir isspeaking to a Gentleman in the Street
+and says He knows youre within
+
+SURFACE Sdeath BlockheadIm NOT withinIm out for the Day
+
+SIR PETER Stayholda thought has struck meyou shall be at home
+
+SURFACE Wellwelllet him up
+
+ Exit SERVANT
+
+Hell interrupt Sir Peter however Aside
+
+SIR PETER Now my good Friendoblige me I Intreat youbefore Charles
+comeslet me conceal myself somewhereThen do you tax him on the Point
+we have been talking onand his answers may satisfy me at once
+
+SURFACE O FieSir Peterwould you have ME join in so mean a Trick to
+trepan my Brother too
+
+SIR PETER Nay you tell me you are SURE He is innocentif so you do
+him the greatest service in giving him an opportunity to clear
+himselfandyou will set my Heart at restcome you shall not refuse
+mehere behind this Screen will behey what the Devilthere seems to
+be one listener here alreadyIll swear I saw a Petticoat
+
+SURFACE Ha ha ha Well this is ridiculous enoughIll tell you
+Sir Petertho I hold a man of Intrigue to be a most despicable
+Characteryet you know it doesnt follow that a man is to be an
+absolute Joseph eitherharkeetis a little French Millinera silly
+Rogue that plagues meand having some character on your coming she ran
+behind the Screen
+
+SIR PETER Ah a Roguebut egad she has overheard all I have been
+saying of my Wife
+
+SURFACE O twill never go any farther you may depend ont
+
+SIR PETER Nothen efaith let her hear it outHeres a Closet will
+do as well
+
+SURFACE Well go in there
+
+SIR PETER Sly roguesly Rogue
+
+SURFACE Gads my Life what an Escape and a curious situation Im
+into part man and wife in this manner
+
+LADY TEAZLE peeps out Couldnt I steal off
+
+SURFACE Keep close my Angel
+
+SIR PETER Peeping out Josephtax him home
+
+SURFACE Backmy dear Friend
+
+LADY TEAZLE Peeping out Couldnt you lock Sir Peter in
+
+SURFACE Be stillmy Life
+
+SIR PETER Peeping Youre sure the little Milliner wont blab
+
+SURFACE In in my good Sir PeterFore Gad I wish I had a key to the
+Door
+
+ Enter CHARLES
+
+CHARLES Hollo Brotherwhat has been the matter your Fellow wouldnt
+let me up at firstWhat have you had a Jew or a wench with you
+
+SURFACE Neither Brother I assure you
+
+CHARLES Butwhat has made Sir Peter steal offI thought He had been
+with you
+
+SURFACE He WAS Brotherbut hearing you were coming He didnt chuse to
+stay
+
+CHARLES What was the old Gentleman afraid I wanted to borrow money
+of him
+
+SURFACE No Sirbut I am sorry to find Charlesyou have lately
+given that worthy man grounds for great Uneasiness
+
+CHARLES Yes they tell me I do that to a great many worthy menbut how
+so Pray
+
+SURFACE To be plain with you Brother He thinks you are endeavouring to
+gain Lady Teazles Affections from him
+
+CHARLES Who IO Lud not I upon my wordHa ha ha so the old
+Fellow has found out that He has got a young wife has He or whats
+worse she has discoverd that she has an old Husband
+
+SURFACE This is no subject to jest on BrotherHe who can laugh
+
+CHARLES True true as you were going to saythen seriously I never had
+the least idea of what you charge me with upon my honour
+
+SURFACE Well it will give Sir Peter great satisfaction to hear this
+
+CHARLES Aloud To be sure I once thought the lady seemed to
+have taken a fancybut upon my soul I never gave her the least
+encouragementBeside you know my Attachment to Maria
+
+SURFACE But sure Brother even if Lady Teazle had betrayd the fondest
+Partiality for you
+
+CHARLES Whylookee JosephI hope I shall never deliberately do
+a dishonourable Actionbut if a pretty woman was purposely to throw
+herself in my wayand that pretty woman married to a man old enough to
+be her Father
+
+SURFACE Well
+
+CHARLES Why I believe I should be obliged to borrow a little of your
+Morality thats allbut Brother do you know now that you surprize me
+exceedingly by naming me with Lady Teazlefor faith I always understood
+YOU were her Favourite
+
+SURFACE O for shameCharlesThis retort is Foolish
+
+CHARLES Nay I swear I have seen you exchange such significant
+Glances
+
+SURFACE NaynaySirthis is no jest
+
+CHARLES EgadIm seriousDont you rememberone Day when I called
+here
+
+SURFACE NaypritheeCharles
+
+CHARLES And found you together
+
+SURFACE Zounds SirI insist
+
+CHARLES And another time when your Servant
+
+SURFACE Brotherbrother a word with youGad I must stop himAside
+
+CHARLES Informedme that
+
+SURFACE HushI beg your Pardon but Sir Peter has overheard all we
+have been sayingI knew you would clear yourself or I shouldnt have
+consented
+
+CHARLES How Sir PeterWhere is He
+
+SURFACE Softly there Points to the closet
+
+CHARLES In the Closet O fore Heaven Ill have him outSir Peter
+come forth
+
+SURFACE Nono
+
+CHARLES I say Sir Petercome into court
+
+ Pulls in SIR PETER
+
+Whatmy old Guardianwhat turn inquisitor and take evidence
+incog
+
+SIR PETER Give me your handCharlesI believe I have suspected you
+wrongfully but you mustnt be angry with Josephtwas my Plan
+
+CHARLES Indeed
+
+SIR PETER But I acquit youI promise you I dont think near so ill of
+you as I didwhat I have heard has given me great satisfaction
+
+CHARLES Egad then twas lucky you didnt hear any more Wasnt it
+Joseph
+
+SIR PETER Ah you would have retorted on him
+
+CHARLES Ayeayethat was a Joke
+
+SIR PETER Yes yes I know his honor too well
+
+CHARLES Yet you might as well have suspected him as me in this matter
+for all thatmightnt He Joseph
+
+SIR PETER Well well I believe you
+
+SURFACE Would they were both out of the Room
+
+ Enter SERVANT whispers SURFACE
+
+SIR PETER And in future perhaps we may not be such Strangers
+
+SURFACE GentlemenI beg PardonI must wait on you downstairsHere is
+a Person come on particular Business
+
+CHARLES Well you can see him in another RoomSir Peter and I havent
+met a long time and I have something to say to him
+
+SURFACE They must not be left togetherIll send this man away and
+return directly
+
+ SURFACE goes out
+
+SIR PETER AhCharles if you associated more with your Brother one
+might indeed hope for your reformationHe is a man of SentimentWell
+there is nothing in the world so noble as a man of Sentiment
+
+CHARLES Pshaw He is too moral by halfand so apprehensive of his good
+Name as he calls it that I suppose He would as soon let a Priest in
+his House as a Girl
+
+SIR PETER Nonocome comeyou wrong him No no Joseph is no Rake
+but he is no such Saint in that respect either I have a great mind to
+tell himwe should have such a Laugh
+
+CHARLES Oh hang him Hes a very Anchoritea young Hermit
+
+SIR PETER Harkeeyou must not abuse him he may chance to hear of it
+again I promise you
+
+CHARLES Why you wont tell him
+
+SIR PETER Nobutthis way Egad Ill tell himHarkee have you a
+mind to have a good laugh against Joseph
+
+CHARLES I should like it of all things
+
+SIR PETER Then Efaith we willIll be quit with him for discovering
+meHe had a girl with him when I called Whispers
+
+CHARLES What Joseph you jest
+
+SIR PETER Husha little French Millinerand the best of the jest
+isshes in the room now
+
+CHARLES The devil she is
+
+SIR PETER Hush I tell you Points
+
+CHARLES Behind the screen Odds Life lets unveil her
+
+SIR PETER Nono Hes comingyou shant indeed
+
+CHARLES Oh egad well have a peep at the little milliner
+
+SIR PETER Not for the worldJoseph will never forgive me
+
+CHARLES Ill stand by you
+
+SIR PETER Odds Life Here Hes coming
+
+ SURFACE enters just as CHARLES throws down the Screen
+
+ Reenter JOSEPH SURFACE
+
+CHARLES Lady Teazle by all thats wonderful
+
+SIR PETER Lady Teazle by all thats Horrible
+
+CHARLES Sir PeterThis is one of the smartest French Milliners I ever
+sawEgad you seem all to have been diverting yourselves here at Hide
+and Seekand I dont see who is out of the SecretShall I beg your
+Ladyship to inform meNot a wordBrotherwill you please to
+explain this matter What is Honesty Dumb tooSir Peter though I
+found you in the Darkperhaps you are not so nowall mute Well tho
+I can make nothing of the Affair I make no doubt but you perfectly
+understand one anotherso Ill leave you to yourselvesGoing
+Brother Im sorry to find you have given that worthy man grounds for so
+much uneasinessSir Petertheres nothing in the world so noble as a
+man of Sentiment
+
+ Stand for some time looking at one another Exit CHARLES
+
+SURFACE Sir Peternotwithstanding I confess that appearances are
+against me If you will afford me your Patience I make no doubt but I
+shall explain everything to your satisfaction
+
+SIR PETER If you pleaseSir
+
+SURFACE The Fact is Sirthat Lady Teazle knowing my Pretensions
+to your ward MariaI say Sir Lady Teazlebeing apprehensive of the
+Jealousy of your Temperand knowing my Friendship to the Family S
+he SirI say calld herein order that I might explain those
+Pretensionsbut on your coming being apprehensiveas I said of your
+Jealousyshe withdrewand this you may depend ont is the whole truth
+of the Matter
+
+SIR PETER A very clear account upon the my word and I dare swear the
+Lady will vouch for every article of it
+
+LADY TEAZLE For not one word of it Sir Peter
+
+SIR PETER How dont you think it worthwhile to agree in the lie
+
+LADY TEAZLE There is not one Syllable of Truth in what that Gentleman
+has told you
+
+SIR PETER I believe you upon my soul Maam
+
+SURFACE Sdeath madam will you betray me Aside
+
+LADY TEAZLE Good Mr Hypocrite by your leave I will speak for myself
+
+SIR PETER Aye let her alone Siryoull find shell make out a better
+story than you without Prompting
+
+LADY TEAZLE Hear me Sir PeterI came hither on no matter relating to
+your ward and even ignorant of this Gentlemans pretensions to herbut
+I cameseduced by his insidious argumentsand pretended Passionat
+least to listen to his dishonourable Love if not to sacrifice your
+Honour to his Baseness
+
+SIR PETER Now I believe the Truth is coming indeed
+
+SURFACE The Womans mad
+
+LADY TEAZLE No Sirshe has recovered her Senses Your own Arts have
+furnished her with the means Sir PeterI do not expect you to credit
+mebut the Tenderness you expressd for me when I am sure you could
+not think I was a witness to it has penetrated so to my Heart that had
+I left the Place without the Shame of this discoverymy future
+life should have spoken the sincerity of my Gratitudeas for that
+smoothtongued Hypocritewho would have seduced the wife of his too
+credulous Friend while he pretended honourable addresses to his wardI
+behold him now in a light so truly despicable that I shall never again
+Respect myself for having Listened to him
+
+ Exit
+
+SURFACE Notwithstanding all this Sir PeterHeaven knows
+
+SIR PETER That you are a Villainand so I leave you to your
+conscience
+
+SURFACE You are too Rash Sir Peteryou SHALL hear meThe man who
+shuts out conviction by refusing to
+
+ Exeunt SURFACE following and speaking
+
+ END OF THE FOURTH
+
+
+
+
+ACT V
+
+
+
+
+SCENE IThe Library
+
+ Enter SURFACE and SERVANT
+
+SURFACE Mr Stanley and why should you think I would see himyou
+must know he came to ask something
+
+SERVANT SirI shouldnt have let him in but that Mr Rowley came to
+the Door with him
+
+SURFACE PshawBlockhead to suppose that I should now be in a Temper
+to receive visits from poor Relationswell why dont you show the
+Fellow up
+
+SERVANT I willSirWhy Sirit was not my Fault that Sir Peter
+discoverd my Lady
+
+SURFACE Go fool
+
+ Exit SERVANT
+
+Sure Fortune never playd a man of my policy such a Trick beforemy
+character with Sir Petermy Hopes with Mariadestroyd in a
+momentIm in a rare Humour to listen to other Peoples DistressesI
+shant be able to bestow even a benevolent sentiment on StanleySo
+hereHe comes and Rowley with himI MUST try to recover myself and
+put a little Charity into my Face however
+
+ Exit
+
+ Enter SIR OLIVER and ROWLEY
+
+SIR OLIVER What does He avoid us that was Hewas it not
+
+ROWLEY It was Sirbut I doubt you are come a little too abruptlyhis
+Nerves are so weak that the sight of a poor Relation may be too much for
+himI should have gone first to break you to him
+
+SIR OLIVER A Plague of his Nervesyet this is He whom Sir Peter
+extolls as a Man of the most Benevolent way of thinking
+
+ROWLEY As to his way of thinkingI cant pretend to decide for to
+do him justice He appears to have as much speculative Benevolence as any
+private Gentleman in the Kingdomthough he is seldom so sensual as to
+indulge himself in the exercise of it
+
+SIR OLIVER Yet he has a string of charitable Sentiments I suppose at
+his Fingers ends
+
+ROWLEY Or rather at his Tongues end Sir Oliver for I believe there
+is no sentiment he has more faith in than that Charity begins at Home
+
+SIR OLIVER And his I presume is of that domestic sort which never stirs
+abroad at all
+
+ROWLEY I doubt youll find it sobut Hes comingI mustnt seem to
+interrupt youand you know immediatelyas you leave himI come in to
+announceyour arrival in your real Character
+
+SIR OLIVER Trueand afterwards youll meet me at Sir Peters
+
+ROWLEY Without losing a moment
+
+ Exit
+
+SIR OLIVER SoI see he has premeditated a Denial by the Complaisance
+of his Features
+
+ Enter SURFACE
+
+SURFACE SirI beg you ten thousand Pardons for keepingyou a moment
+waitingMr StanleyI presume
+
+SIR OLIVER At your Service
+
+SURFACE SirI beg you will do me the honour to sit downI entreat you
+Sir
+
+SIR OLIVER Dear Sir theres no occasiontoo civil by half
+
+SURFACE I have not the Pleasure of knowing you Mr Stanleybut I am
+extremely happy to see you look so wellyou were nearly related to my
+motherI think Mr Stanley
+
+SIR OLIVER I was Sirso nearly that my present Poverty I fear may do
+discredit to her Wealthy Childrenelse I should not have presumed to
+trouble you
+
+SURFACE Dear Sirthere needs no apologyHe that is in Distress tho a
+stranger has a right to claim kindred with the wealthyI am sure I wish
+I was of that class and had it in my power to offer you even a small
+relief
+
+SIR OLIVER If your Unkle Sir Oliver were hereI should have a
+Friend
+
+SURFACE I wish He was Sir with all my Heartyou should not want an
+advocate with himbelieve me Sir
+
+SIR OLIVER I should not need onemy Distresses would recommend
+mebut I imaginedhis Bounty had enabled you to become the agent of
+his Charity
+
+SURFACE My dear Siryou are strangely misinformedSir Oliver is a
+worthy Man a worthy mana very worthy sort of Manbut avarice
+Mr Stanley is the vice of ageI will tell you my good Sir in
+confidencewhat he has done for me has been a merenothing tho
+People I know have thought otherwise and for my Part I never chose to
+contradict the Report
+
+SIR OLIVER Whathas he never
+transmittedyouBullionRupeesPagodas
+
+SURFACE O Dear SirNothing of the kindnonoa few Presents now and
+thenchina shawls congo Tea Avadavatsand indian Crackerslittle
+more believe me
+
+SIR OLIVER Heres Gratitude for twelve thousand poundsAvadavats and
+indian Crackers
+
+SURFACE Then my dearSiryou have heard I doubt not of the
+extravagance of my BrotherSirthere are very few would credit what I
+have done for that unfortunate young man
+
+SIR OLIVER Not I for one
+
+SURFACE The sums I have lent him indeedI have been exceedingly to
+blameit was an amiable weakness however I dont pretend to defend
+itand now I feel it doubly culpablesince it has deprived me of the
+power of serving YOU Mr Stanley as my Heart directs
+
+SIR OLIVER Dissembler Then Siryou cannot assist me
+
+SURFACE At Present it grieves me to say I cannotbut whenever I have
+the ability you may depend upon hearing from me
+
+SIR OLIVER I am extremely sorry
+
+SURFACE Not more than I am believe meto pity without the Power to
+relieve is still more painful than to ask and be denied
+
+SIR OLIVER Kind Siryour most obedient humble servant
+
+SURFACE You leave me deeply affected Mr StanleyWilliambe ready to
+open the door
+
+SIR OLIVER O Dear Sir no ceremony
+
+SURFACE Your very obedient
+
+SIR OLIVER Your most obsequious
+
+SURFACE You may depend on hearing from me whenever I can be of
+service
+
+SIR OLIVER Sweet Siryou are too good
+
+SURFACE In the mean time I wish you Health and Spirits
+
+SIR OLIVER Your ever grateful and perpetual humble Servant
+
+SURFACE Siryours as sincerely
+
+SIR OLIVER Charlesyou are my Heir
+
+ Exit
+
+SURFACE solus SohThis is one bad effect of a good Characterit
+invites applications from the unfortunate and there needs no small
+degree of address to gain the reputation of Benevolence without
+incurring the expenceThe silver ore of pure Charity is an expensive
+article in the catalogue of a mans good Qualitieswhereas the
+sentimental French Plate I use instead of it makes just as good a
+shewand pays no tax
+
+ Enter ROWLEY
+
+ROWLEY Mr Surfaceyour Servant I was apprehensive of interrupting
+you tho my Business demands immediate attentionas this Note will
+inform you
+
+SURFACE Always Happy to see Mr RowleyhowOliverSurfaceMy Unkle
+arrived
+
+ROWLEY He is indeedwe have just partedquite wellafter a speedy
+voyageand impatient to embrace his worthy Nephew
+
+SURFACE I am astonishedWilliam stop Mr Stanley if Hes not
+gone
+
+ROWLEY OHes out of reachI believe
+
+SURFACE Why didnt you let me know this when you came in together
+
+ROWLEY I thought you had particularBusinessbut must be gone to
+inform your Brother and appoint him here to meet his Uncle He will be
+with you in a quarter of an hour
+
+SURFACE So he says WellI am strangely overjoyd at his comingnever
+to be sure was anything so damnd unlucky
+
+ROWLEY You will be delighted to see how well He looks
+
+SURFACE OIm rejoiced to hear itjust at this time
+
+ROWLEY Ill tell him how impatiently you expect him
+
+SURFACE Dodopraygive my best duty and affectionindeed I cannot
+express the sensations I feel at the thought of seeing himcertainly
+his coming just at this Time is the cruellest piece of ill Fortune
+
+ Exeunt
+
+
+
+
+SCENE IIAt SIR PETERS House
+
+ Enter MRS CANDOUR and SERVANT
+
+SERVANT Indeed Maam my Lady will see nobody at Present
+
+MRS CANDOUR Did you tell her it was her Friend Mrs Candour
+
+SERVANT Yes Maam but she begs you will excuse her
+
+MRS CANDOUR Do go againI shall be glad to see her if it be only for
+a momentfor I am sure she must be in great Distress
+
+ exit MAID
+
+Dear Hearthow provokingIm not mistress of half the
+circumstancesWe shall have the whole affair in the newspapers with
+the Names of the Parties at length before I have dropt the story at a
+dozen houses
+
+ Enter SIR BENJAMIN
+
+Sir Benjamin you have heard I suppose
+
+SIR BENJAMIN Of Lady Teazle and Mr Surface
+
+MRS CANDOUR And Sir Peters Discovery
+
+SIR BENJAMIN O the strangest Piece of Business to be sure
+
+MRS CANDOUR Well I never was so surprised in my lifeI am so sorry
+for all Partiesindeed
+
+SIR BENJAMIN Now I dont Pity Sir Peter at allhe was so
+extravagantpartial to Mr Surface
+
+MRS CANDOUR Mr Surfacewhy twas with Charles Lady Teazle was
+detected
+
+SIR BENJAMIN No such thing Mr Surface is the gallant
+
+MRS CANDOUR NonoCharles is the mantwas Mr Surface brought Sir
+Peter on purpose to discover them
+
+SIR BENJAMIN I tell you I have it from one
+
+MRS CANDOUR And I have it from one
+
+SIR BENJAMIN Who had it from one who had it
+
+MRS CANDOUR From one immediatelybut here comes Lady
+Sneerwellperhaps she knows the whole affair
+
+ Enter LADY SNEERWELL
+
+LADY SNEERWELL Somy dear Mrs Candour Heres a sad affair of our
+Friend Teazle
+
+MRS CANDOUR Aye my dear Friend who could have thought it
+
+LADY SNEERWELL Well there is no trusting to appearances thoindeed
+she was always too lively for me
+
+MRS CANDOUR To be sure her manners were a little toofreebut she
+was very young
+
+LADY SNEERWELL And had indeed some good Qualities
+
+MRS CANDOUR So she had indeedbut have you heard the Particulars
+
+LADY SNEERWELL Nobut everybody says that Mr Surface
+
+SIR BENJAMIN Aye there I told youMr Surface was the Man
+
+MRS CANDOUR Nonoindeed the assignation was with Charles
+
+LADY SNEERWELL With CharlesYou alarm me Mrs Candour
+
+MRS CANDOUR Yesyes He was the LoverMr Surfacedo him
+justicewas only the Informer
+
+SIR BENJAMIN Well Ill not dispute with you Mrs Candourbut be it
+which it mayI hope that Sir Peters wound will not
+
+MRS CANDOUR Sir Peters wound O mercy I didnt hear a word of their
+Fighting
+
+LADY SNEERWELL Nor I a syllable
+
+SIR BENJAMIN Nowhat no mention of the Duel
+
+MRS CANDOUR Not a word
+
+SIR BENJAMIN O Lordyesyesthey fought before they left the Room
+
+LADY SNEERWELL Pray let us hear
+
+MRS CANDOUR Ayedo obligeus with the Duel
+
+SIR BENJAMIN Sirsays Sir Peterimmediately after the Discovery
+you are a most ungrateful Fellow
+
+MRS CANDOUR Aye to Charles
+
+SIR BENJAMIN No noto Mr Surfacea most ungrateful Fellow and old
+as I am Sir says He I insist on immediate satisfaction
+
+MRS CANDOUR Aye that must have been to Charles for tis very unlikely
+Mr Surface should go to fight in his own House
+
+SIR BENJAMIN Gads Life Maam not at allgiving me immediate
+satisfactionon this MadamLady Teazle seeing Sir Peter in such
+Dangerran out of the Room in strong Hystericsand Charles after her
+calling out for Hartshorn and Water Then Madamthey began to fight
+with Swords
+
+ Enter CRABTREE
+
+CRABTREE With PistolsNephewI have it from undoubted authority
+
+MRS CANDOUR Oh Mr Crabtree then it is all true
+
+CRABTREE Too true indeed Maam and Sir Peter Dangerously wounded
+
+SIR BENJAMIN By a thrust in secondquite thro his left side
+
+CRABTREE By a Bullet lodged in the Thorax
+
+MRS CANDOUR Mercyon me Poor Sir Peter
+
+CRABTREE Yes maam tho Charles would have avoided the matter if he
+could
+
+MRS CANDOUR I knew Charles was the Person
+
+SIR BENJAMIN O my Unkle I see knows nothing of the matter
+
+CRABTREE But Sir Peter taxd him with the basest ingratitude
+
+SIR BENJAMIN That I told you you know
+
+CRABTREE Do Nephew let me speakand insisted on immediate
+
+SIR BENJAMIN Just as I said
+
+CRABTREE Odds life Nephew allow others to know something tooA Pair
+of Pistols lay on the Bureaufor Mr Surfaceit seems had come home
+the Night before late from SaltHill where He had been to see the Montem
+with a Friend who has a Son at Etonso unluckily the Pistols were left
+Charged
+
+SIR BENJAMIN I heard nothing of this
+
+CRABTREE Sir Peter forced Charles to take one and they firedit seems
+pretty nearly togetherCharless shot took Place as I tell youand Sir
+Peters missdbut what is very extraordinary the Ball struck against
+a little Bronze Pliny that stood over the Fire Placegrazed out of the
+window at a right angleand wounded the Postman who was just coming to
+the Door with a double letter from Northamptonshire
+
+SIR BENJAMIN My Unkles account is more circumstantial I must
+confessbut I believe mine is the true one for all that
+
+LADY SNEERWELL I am more interested in this Affair than they
+imagineand must have better information
+
+ Exit
+
+SIR BENJAMIN Ah Lady Sneerwells alarm is very easily accounted for
+
+CRABTREE Yes yes they certainly DO saybut thats neither here nor
+there
+
+MRS CANDOUR But pray where is Sir Peter at present
+
+CRABTREE Oh theybrought him home and He is now in the House tho
+the Servants are orderd to deny it
+
+MRS CANDOUR I believe soand Lady TeazleI suppose attending him
+
+CRABTREE Yes yesand I saw one of the Faculty enter just before me
+
+SIR BENJAMIN Heywho comes here
+
+CRABTREE Oh this is Hethe Physician depend ont
+
+MRS CANDOUR O certainly it must be the Physician and now we shall
+know
+
+ Enter SIR OLIVER
+
+CRABTREE Well Doctorwhat Hopes
+
+MRS CANDOUR Aye Doctor hows your Patient
+
+SIR BENJAMIN Now Doctor isnt it a wound with a small sword
+
+CRABTREE A bullet lodged in the Thoraxfor a hundred
+
+SIR OLIVER Doctora wound with a small sword and a Bullet in the
+Thoraxoons are you mad good People
+
+SIR BENJAMIN Perhaps Sir you are not a Doctor
+
+SIR OLIVER Truly Sir I am to thank you for my degree If I am
+
+CRABTREE Only a Friend of Sir Peters then I presumebut sir you
+must have heard of this accident
+
+SIR OLIVER Not a word
+
+CRABTREE Not of his being dangerously wounded
+
+SIR OLIVER The Devil he is
+
+SIR BENJAMIN Run thro the Body
+
+CRABTREE Shot in the breast
+
+SIR BENJAMIN By one Mr Surface
+
+CRABTREE Aye the younger
+
+SIR OLIVER Hey what the plague you seem to differ strangely in your
+accountshowever you agree that Sir Peter is dangerously wounded
+
+SIR BENJAMIN Oh yes we agree in that
+
+CRABTREE Yes yes I believe there can be no doubt in that
+
+SIR OLIVER Then upon my word for a person in that Situation he is
+the most imprudent man aliveFor here he comes walking as if nothing at
+all was the matter
+
+ Enter SIR PETER
+
+Odds heart sir Peter you are come in good time I promise you for we
+had just given you over
+
+SIR BENJAMIN Egad Uncle this is the most sudden Recovery
+
+SIR OLIVER Why man what do you do out of Bed with a Small Sword
+through your Body and a Bullet lodgd in your Thorax
+
+SIR PETER A Small Sword and a Bullet
+
+SIR OLIVER Aye these Gentlemen would have killd you without Law or
+Physic and wanted to dub me a Doctor to make me an accomplice
+
+SIR PETER Why what is all this
+
+SIR BENJAMIN We rejoice Sir Peter that the Story of the Duel is not
+trueand are sincerely sorry for your other Misfortune
+
+SIR PETER Sosoall over the Town already Aside
+
+CRABTREE Tho Sir Peter you were certainly vastly to blame to marry
+at all at your years
+
+SIR PETER Sir what Business is that of yours
+
+MRS CANDOUR Tho Indeed as Sir Peter made so good a Husband hes
+very much to be pitied
+
+SIR PETER Plague on your pity Maam I desire none of it
+
+SIR BENJAMIN However Sir Peter you must not mind the Laughing and
+jests you will meet with on the occasion
+
+SIR PETER Sir I desire to be master in my own house
+
+CRABTREE Tis no Uncommon Case thats one comfort
+
+SIR PETER I insist on being left to myself without ceremonyI insist
+on your leaving my house directly
+
+MRS CANDOUR Well well we are going and depend ont well make the
+best report of you we can
+
+SIR PETER Leave my house
+
+CRABTREE And tell how hardly you have been treated
+
+SIR PETER Leave my House
+
+SIR BENJAMIN And how patiently you bear it
+
+SIR PETER Friends Vipers Furies Oh that their own Venom would choke
+them
+
+SIR OLIVER They are very provoking indeed Sir Peter
+
+ Enter ROWLEY
+
+ROWLEY I heard high words what has ruffled you Sir Peter
+
+SIR PETER Pshaw what signifies askingdo I ever pass a Day without my
+Vexations
+
+SIR OLIVER Well Im not InquisitiveI come only to tell you that I
+have seen both my Nephews in the manner we proposed
+
+SIR PETER A Precious Couple they are
+
+ROWLEY Yes and Sir Oliveris convinced that your judgment was right
+Sir Peter
+
+SIR OLIVER Yes I find Joseph is Indeed the Man after all
+
+ROWLEY Aye as Sir Peter says Hes a man of Sentiment
+
+SIR OLIVER And acts up to the Sentiments he professes
+
+ROWLEY It certainly is Edification to hear him talk
+
+SIR OLIVER Oh Hes a model for the young men of the age But hows
+this Sir Peter you dont Join us in your Friend Josephs Praise as I
+expected
+
+SIR PETER Sir Oliver we live in a damned wicked world and the fewer
+we praise the better
+
+ROWLEY What do YOU say so Sir Peterwho were never mistaken in your
+Life
+
+SIR PETER PshawPlague on you bothI see by your sneering you have
+heardthe whole affairI shall go mad among you
+
+ROWLEY Then to fret you no longer Sir Peterwe are indeed acquainted
+with it allI met Lady Teazle coming from Mr Surfaces so humbled
+that she deigned to request ME to be her advocate with you
+
+SIR PETER And does Sir Oliver know all too
+
+SIR OLIVER Every circumstance
+
+SIR PETER What of the closet and the screenhey
+
+SIR OLIVER Yes yesand the little French Milliner Oh I have been
+vastly diverted with the story ha ha ha
+
+SIR PETER Twas very pleasant
+
+SIR OLIVER I never laughd more in my life I assure you ha ha
+
+SIR PETER O vastly diverting ha ha
+
+ROWLEY To be sure Joseph with his Sentiments ha ha
+
+SIR PETER Yes his sentiments ha ha a hypocritical Villain
+
+SIR OLIVER Aye and that Rogue Charlesto pull Sir Peter out of the
+closet ha ha
+
+SIR PETER Ha ha twas devilish entertaining to be sure
+
+SIR OLIVER Ha ha Egad Sir Peter I should like to have seen your Face
+when the screen was thrown downha ha
+
+SIR PETER Yes my face when the Screen was thrown down ha ha ha O I
+must never show my head again
+
+SIR OLIVER But comecome it isnt fair to laugh at you neither my old
+Friendtho upon my soul I cant help it
+
+SIR PETER O pray dont restrain your mirth on my account it does not
+hurt me at allI laugh at the whole affair myselfYesyesI
+think being a standing Jest for all ones acquaintance a very happy
+situationO yesand then of a morning to read the Paragraphs about
+Mr S Lady T and Sir P will be so entertainingI shall
+certainly leave town tomorrow and never look mankind in the Face again
+
+ROWLEY Without affectation Sir Peter you may despise the ridicule of
+Foolsbut I see Lady Teazle going towards the next RoomI am sure you
+must desire a Reconciliation as earnestly as she does
+
+SIR OLIVER Perhaps MY being here prevents her coming to youwell Ill
+leave honest Rowley to mediate between you but he must bring you all
+presently to Mr Surfaceswhere I am now returningif not to reclaim
+a Libertine at least to expose Hypocrisy
+
+SIR PETER Ah Ill be present at your discovering yourself there with
+all my heart though tis a vile unlucky Place for discoveries
+
+SIR OLIVER However it is very convenient to the carrying on of my Plot
+that you all live so near one another
+
+ Exit SIR OLIVER
+
+ROWLEY Well follow
+
+SIR PETER She is not coming here you see Rowley
+
+ROWLEY No but she has left the Door of that Room open you
+perceivesee she is in Tears
+
+SIR PETER She seems indeed to wish I should go to herhow dejected
+she appears
+
+ROWLEY And will you refrain from comforting her
+
+SIR PETER Certainly a little mortification appears very becoming in a
+wifedont you think it will do her good to let her Pine a little
+
+ROWLEY O this is ungenerous in you
+
+SIR PETER Well I know not what to thinkyou remember Rowley the Letter
+I found of hersevidently intended for Charles
+
+ROWLEY A mere forgery Sir Peterlaid in your way on Purposethis is
+one of the Points which I intend Snake shall give you conviction on
+
+SIR PETER I wish I were once satisfied of thatShe looks this
+waywhat a remarkably elegant Turn of the Head she has Rowley Ill
+go to her
+
+ROWLEY Certainly
+
+SIR PETER Tho when it is known that we are reconciled People will
+laugh at me ten times more
+
+ROWLEY Letthem laughand retort their malice only by showing them
+you are happy in spite of it
+
+SIR PETER Efaith so I willand if Im not mistaken we may yet be the
+happiest couple in the country
+
+ROWLEY Nay Sir PeterHe who once lays aside suspicion
+
+SIR PETER Hold Master Rowleyif you have any Regard for menever let
+me hear you utter anything like a Sentiment I have had enough of THEM
+to serve me the rest of my Life
+
+ Exeunt
+
+
+
+
+SCENE THE LASTThe Library
+
+ SURFACE and LADY SNEERWELL
+
+LADY SNEERWELL Impossible will not Sir Peter immediately be reconciled
+to CHARLES and of consequence no longer oppose his union with MARIA
+the thought is Distraction to me
+
+SURFACE Can Passionfurnish a Remedy
+
+LADY SNEERWELL Nonor cunning either O I was a Fool an Ideotto
+league with such a Blunderer
+
+SURFACE Surely Lady Sneerwell I am the greatest Suffereryet you see I
+bear the accident with Calmness
+
+LADY SNEERWELL Because the Disappointment hasnt reached your
+HEARTyour interest only attached you to Mariahad you felt for
+herwhat I have for that ungrateful Libertineneither your Temper nor
+Hypocrisy could prevent your showing the sharpness of your Vexation
+
+SURFACE But why should your Reproaches fall on me for this
+Disappointment
+
+LADY SNEERWELL Are not you the cause of it what had you to bate in
+your Pursuit of Maria to pervert Lady Teazle by the wayhad you not a
+sufficient field for your Roguery in blinding Sir Peter and supplanting
+your BrotherI hate such an avarice of crimestis an unfair monopoly
+and never prospers
+
+SURFACE Well I admit I have been to blameI confess I deviated from
+the direct Road of wrong but I dont think were so totally defeated
+neither
+
+LADY SNEERWELL No
+
+SURFACE You tell me you have made a trial of Snake since we metand
+that you still believe him faithful to us
+
+LADY SNEERWELL I do believe so
+
+SURFACE And that he has undertaken should it be necessaryto swear and
+prove that Charles is at this Time contracted by vows and Honour to
+your Ladyshipwhich some of his former letters to you will serve to
+support
+
+LADY SNEERWELL This indeed might have assisted
+
+SURFACE Comecome it is not too late yetbut hark this is probably
+my Unkle Sir Oliverretire to that Roomwell consult further when
+Hes gone
+
+LADY SNEERWELL Well but if HE should find you out to
+
+SURFACE O I have no fear of thatSir Peter will hold his tongue for
+his own credit sakeand you may depend ont I shall soon Discover Sir
+Olivers weak side
+
+LADY SNEERWELL I have no diffidence of your abilitiesonly be constant
+to one roguery at a time
+
+ Exit
+
+SURFACE I willI willSo tis confounded hard after such bad Fortune
+to be baited by ones confederate in evilwell at all events
+my character is so much better than Charless that I
+certainlyheywhatthis is not Sir Oliverbut old Stanley
+againPlague ont that He should return to teaze me just nowI shall
+have Sir Oliver come and find him hereand
+
+ Enter SIR OLIVER
+
+Gads life Mr Stanleywhy have you come back to plague me at this
+time you must not stay now upon my word
+
+SIR OLIVER SirI hear your Unkle Oliver is expected hereand tho He
+has been so penurious to you Ill try what Hell do for me
+
+SURFACE Sir tis impossible for you to stay nowso I must begcome
+any other time and I promise you you shall be assisted
+
+SIR OLIVER NoSir Oliver and I must be acquainted
+
+SURFACE Zounds Sir then I insist on your quitting theRoom
+directly
+
+SIR OLIVER Nay Sir
+
+SURFACE SirI insist onthere William show this Gentleman out Since
+you compel me Sirnot one momentthis is such insolence
+
+ Going to push him out
+
+ Enter CHARLES
+
+CHARLES Heyday whats the matter nowwhat the Devil have you got
+hold of my little Broker here ZoundsBrother dont hurt little
+Premium Whats the mattermy little Fellow
+
+SURFACE So He has been with you too has He
+
+CHARLES To be sure He has Why tis as honest a littleBut sure
+Joseph you have not been borrowing money too have you
+
+SURFACE BorrowingnoBut Brotheryou know sure we expect Sir
+Oliver every
+
+CHARLES O Gad thats trueNoll mustnt find the little Broker here to
+be sure
+
+SURFACE Yet Mr Stanley insists
+
+CHARLES Stanleywhy his names Premium
+
+SURFACE No no Stanley
+
+CHARLES No noPremium
+
+SURFACE Well no matter whichbut
+
+CHARLES Aye aye Stanley or Premium tis the same thing as you sayfor
+I suppose He goes by half a hundred Names besides A Bs at the
+CoffeeHouse Knock
+
+SURFACE Sdeathheres Sir Oliver at the DoorNow I begMr
+Stanley
+
+CHARLES Aye aye and I beg Mr Premium
+
+SIR OLIVER Gentlemen
+
+SURFACE Sir by Heaven you shall go
+
+CHARLES Aye out with him certainly
+
+SIR OLIVER This violence
+
+SURFACE Tis your own Fault
+
+CHARLES Out with him to be sure Both forcing SIR OLIVER out
+
+ Enter SIR PETER TEAZLE LADY TEAZLE MARIA and ROWLEY
+
+SIR PETER My old Friend Sir Oliverhey what in the name of
+wonderHere are dutiful Nephewsassault their Unkle at his first
+Visit
+
+LADY TEAZLE Indeed Sir Oliver twas well we came in to rescue you
+
+ROWLEY Truly it wasfor I perceive Sir Oliver the character of old
+Stanley was no Protection to you
+
+SIR OLIVER Nor of Premium eitherthe necessities of the former could
+not extort a shilling from that benevolent Gentleman and with the other
+I stood a chance of faring worse than my Ancestors and being knocked
+down without being bid for
+
+SURFACE Charles
+
+CHARLES Joseph
+
+SURFACE Tis compleat
+
+CHARLES Very
+
+SIR OLIVER Sir Petermy Friend and Rowley toolook on that elder
+Nephew of mineYou know what He has already received from my Bounty and
+you know also how gladly I would have lookd on half my Fortune as held
+in trust for himjudge then my Disappointment in discovering him to be
+destitute of TruthCharityand Gratitude
+
+SIR PETER Sir OliverI should be more surprized at this Declaration
+if I had not myself found him to be selfishtreacherous and
+Hypocritical
+
+LADY TEAZLE And if the Gentleman pleads not guilty to these pray let
+him call ME to his Character
+
+SIR PETER Then I believe we need add no moreif He knows himself He
+will consider it as the most perfect Punishment that He is known to the
+world
+
+CHARLES If they talk this way to Honestywhat will they say to ME by
+and bye
+
+SIR OLIVER As for that Prodigalhis Brother there
+
+CHARLES Aye now comes my Turnthe damnd Family Pictures will ruin
+me
+
+SURFACE Sir OliverUnklewill you honour me with a hearing
+
+CHARLES I wish Joseph now would make one of his long speeches and I
+might recollect myself a little
+
+SIR OLIVER And I suppose you would undertake to vindicate yourself
+entirely
+
+SURFACE I trust I could
+
+SIR OLIVER Nayif you desert your Roguery in its Distress and try to
+be justifiedyou have even less principle than I thought you hadTo
+CHARLES SURFACE Well Sirand YOU could JUSTIFY yourself too I
+suppose
+
+CHARLES Not that I know of Sir Oliver
+
+SIR OLIVER What little Premium has been let too much into the secret
+I presume
+
+CHARLES TrueSirbut they were Family Secrets and should not be
+mentioned again you know
+
+ROWLEY Come Sir Oliver I know you cannot speak of Charless Follies
+with anger
+
+SIR OLIVER Odds heart no more I cannor with gravity eitherSir
+Peter do you know the Rogue bargaind with me for all his
+Ancestorssold me judges and Generals by the Foot and Maiden Aunts as
+cheap as broken China
+
+CHARLES To be sure Sir Oliver I did make a little free with the
+Family Canvas thats the truth ontmy Ancestors may certainly rise in
+judgment against me theres no denying itbut believe me sincere when I
+tell you and upon my soul I would not say so if I was notthat if I do
+not appear mortified at the exposure of my Follies it is because I
+feel at this moment the warmest satisfaction in seeing you my liberal
+benefactor
+
+SIR OLIVER CharlesI believe yougive me your hand again the
+illlooking little fellow over the Couch has made your Peace
+
+CHARLES Then Sirmy Gratitude to the original is still encreased
+
+LADY TEAZLE Advancing Yet I believe Sir Oliver here is one whom
+Charles is still more anxious to be reconciled to
+
+SIR OLIVER O I have heard of his Attachment thereand with the young
+Ladys Pardon if I construe right that Blush
+
+SIR PETER WellChildspeak your sentimentsyou knowwe are going to
+be reconciled to Charles
+
+MARIA SirI have little to saybut that I shall rejoice to hear that
+He is happyFor mewhatever claim I had to his AffectionI willing
+resign to one who has a better title
+
+CHARLES How Maria
+
+SIR PETER Heydaywhats the mystery now while he appeared an
+incorrigible Rake you would give your hand to no one else and now that
+Hes likely to reform Ill warrant You wont have him
+
+MARIA His own Heartand Lady Sneerwell know the cause
+
+CHARLES Lady Sneerwell
+
+SURFACE Brother it is with great concernI am obliged to speak on
+this Point but my Regard to justice obliges meand Lady Sneerwells
+injuries can no longerbe concealedGoes to the Door
+
+ Enter LADY SNEERWELL
+
+SIR PETER Soh another French milliner egad He has one in every Room
+in the House I suppose
+
+LADY SNEERWELL Ungrateful Charles Well may you be surprised and feel
+for the indelicate situation which your Perfidy has forced me into
+
+CHARLES Pray Unkle is this another Plot of yours for as I have Life I
+dont understand it
+
+SURFACE I believe Sir there is but the evidence of one Person more
+necessary to make it extremely clear
+
+SIR PETER And that PersonI imagine is Mr SnakeRowleyyou were
+perfectly right to bring him with usand pray let him appear
+
+ROWLEY Walk in Mr Snake
+
+ Enter SNAKE
+
+I thought his Testimony might be wantedhowever it happens unluckily
+that He comes to confront Lady Sneerwell and not to support her
+
+LADY SNEERWELL A VillainTreacherous to me at last Speak Fellow
+have you too conspired against me
+
+SNAKE I beg your Ladyshipten thousand Pardonsyou paid me extremely
+Liberally for the Lie in questionbut I unfortunately have been offerd
+double to speak the Truth
+
+LADY SNEERWELL The Torments of Shame and Disappointment on you all
+
+LADY TEAZLE HoldLady Sneerwellbefore you go let me thank you for
+the trouble you and that Gentleman have taken in writing Letters from me
+to Charles and answering them yourselfand let me also request you
+to make my Respects to the Scandalous Collegeof which you are
+Presidentand inform them that Lady Teazle Licentiate begs leave to
+return the diploma they granted heras she leaves off Practice and
+kills Characters no longer
+
+LADY SNEERWELL Provokinginsolentmay your Husband live these fifty
+years
+
+ Exit
+
+SIR PETER Oons what a Fury
+
+LADY TEAZLE A malicious Creature indeed
+
+SIR PETER Heynot for her last wish
+
+LADY TEAZLE O No
+
+SIR OLIVER Well Sir and what have you to say now
+
+SURFACE Sir I am so confounded to find that Lady Sneerwell could be
+guilty of suborning Mr Snake in this manner to impose on us all that
+I know not what to sayhowever lest her Revengeful Spirit should
+prompt her to injure my Brother I had certainly better follow her
+directly
+
+ Exit
+
+SIR PETER Moral to the last drop
+
+SIR OLIVER Aye and marry her Joseph if you canOil and Vinegar
+egadyoull do very well together
+
+ROWLEY I believe we have no more occasion for Mr Snake at Present
+
+SNAKE Before I goI beg Pardon once for all for whatever uneasiness I
+have been the humble instrument of causing to the Parties present
+
+SIR PETER Wellwell you have made atonement by a good Deed at last
+
+SNAKE But I must Request of the Company that it shall never be known
+
+SIR PETER Heywhat the Plagueare you ashamed of having done a right
+thing once in your life
+
+SNAKE Ah Sirconsider I live by the Badness of my CharacterI have
+nothing but my Infamy to depend onand if it were once known that I
+had been betrayd into an honest Action I should lose every Friend I
+have in the world
+
+SIR OLIVER Wellwell well not traduce you by saying anything to your
+Praise never fear
+
+ Exit SNAKE
+
+SIR PETER Theres a precious RogueYet that fellow is a Writer and a
+Critic
+
+LADY TEAZLE See Sir Oliver there needs no persuasion now to
+reconcile your Nephew and Maria
+
+SIR OLIVER Ayeayethats as it should be and egad well have the
+wedding tomorrow morning
+
+CHARLES Thank you dear Unkle
+
+SIR PETER What you rogue dont you ask the Girls consent first
+
+CHARLES Oh I have done that a long timeabove a minute agoand She
+has lookd yes
+
+MARIA For ShameCharlesI protest Sir Peter there has not been a
+word
+
+SIR OLIVER Well then the fewer the Bettermay your love for each other
+never knowabatement
+
+SIR PETER And may you live as happily together as Lady Teazle and
+Iintend to do
+
+CHARLES Rowley my old FriendI am sure you congratulate me and I
+suspect too that I owe you much
+
+SIR OLIVER You do indeed Charles
+
+ROWLEY If my Efforts to serve you had not succeeded you would have been
+in my debt for the attemptbut deserve to be happyand you overrepay
+me
+
+SIR PETER Aye honest Rowley always said you would reform
+
+CHARLES Why as to reforming Sir Peter Ill make no promisesand that
+I take to be a proof that I intend to set about itBut here shall be my
+Monitormy gentle Guideah can I leave the Virtuous path those Eyes
+illumine
+
+ Tho thou dear Maid shouldst wave waive thy Beautys Sway
+ Thou still must Rulebecause I will obey
+ An humbled fugitive from Folly View
+ No sanctuary near but Love and YOU
+ You can indeed each anxious Fear remove
+ For even Scandal dies if you approve To the audience
+
+ EPILOGUE
+
+ BY MR COLMAN
+
+ SPOKEN BY LADY TEAZLE
+
+ I who was late so volatile and gay
+ Like a tradewind must now blow all one way
+ Bend all my cares my studies and my vows
+ To one dull rusty weathercockmy spouse
+ So wills our virtuous bardthe motley Bayes
+ Of crying epilogues and laughing plays
+ Old bachelors who marry smart young wives
+ Learn from our play to regulate your lives
+ Each bring his dear to town all faults upon her
+ London will prove the very source of honour
+ Plunged fairly in like a cold bath it serves
+ When principles relax to brace the nerves
+ Such is my case and yet I must deplore
+ That the gay dream of dissipations oer
+ And say ye fair was ever lively wife
+ Born with a genius for the highest life
+ Like me untimely blasted in her bloom
+ Like me condemnd to such a dismal doom
+ Save moneywhen I just knew how to waste it
+ Leave Londonjust as I began to taste it
+ Must I then watch the early crowing cock
+ The melancholy ticking of a clock
+ In a lone rustic hall for ever pounded
+ With dogs cats rats and squalling brats surrounded
+ With humble curate can I now retire
+ While good Sir Peter boozes with the squire
+ And at backgammon mortify my soul
+ That pants for loo or flutters at a vole
+ Sevens the main Dear sound that must expire
+ Lost at hot cockles round a Christmas fire
+ The transient hour of fashion too soon spent
+ Farewell the tranquil mind farewell content
+ Farewell the plumed head the cushiond tete
+ That takes the cushion from its proper seat
+ That spiritstirring drumcard drums I mean
+ Spadilleodd trickpambastoking and queen
+ And you ye knockers that with brazen throat
+ The welcome visitors approach denote
+ Farewell all quality of high renown
+ Pride pomp and circumstance of glorious town
+ Farewell your revels I partake no more
+ And Lady Teazles occupations oer
+ All this I told our bard he smiled and said twas clear
+ I ought to play deep tragedy next year
+ Meanwhile he drew wise morals from his play
+ And in these solemn periods stalkd away
+ Blessd were the fair like you her faults who stoppd
+ And closed her follies when the curtain droppd
+ No more in vice or error to engage
+ Or play the fool at large on lifes great stage
+
+
+END OF PLAY
+
+
+
+
+1 This PORTRAIT and Garricks PROLOGUE are not included in Fraser
+Raes text
+
+2 From Sheridans manuscript
+
+3 The story in Act I Scene I told by Crabtree about Miss Letitia
+Piper is repeated here the speaker being Sir Peter
+
+ SIR PETER O nine out of ten malicious inventions are founded
+ on some ridiculous misrepresentationMrs Candour you remember
+ how poor Miss Shepherd lost her Lover and her Character one
+ Summer at Tunbridge
+
+ MRS C To be sure that was a very ridiculous affair
+
+ CRABTREE Pray tell us Sir Peter how it was
+
+ SIR P Why madamThe story follows
+
+ MRS C Ha ha strange indeed
+
+ SIR P Matter of Fact I assure you
+
+ LADY T As sure as can beSir Peter will grow scandalous
+ himselfif you encourage him to tell stories
+ Fraser Raes footnoteEd
+
+4 The words which follow this title are not inserted in the manuscript
+of the play Fraser Raes footnoteEd
+
+5 From this place to Scene ii Act IV several sheets are missing
+Fraser Raes footnoteEd
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The School For Scandal by
+Richard Brinsley Sheridan
+
+ END OF THIS PROJECT GUTENBERG EBOOK THE SCHOOL FOR SCANDAL 
+
+ This file should be named 1929txt or 1929zip 
+This and all associated files of various formats will be found in
+ httpwwwgutenbergorg1921929
+
+Produced by Gary R Young
+
+Updated editions will replace the previous onethe old editions
+will be renamed
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works so the Foundation
+and you can copy and distribute it in the United States without
+permission and without paying copyright royalties Special rules
+set forth in the General Terms of Use part of this license apply to
+copying and distributing Project Gutenbergtm electronic works to
+protect the PROJECT GUTENBERGtm concept and trademark Project
+Gutenberg is a registered trademark and may not be used if you
+charge for the eBooks unless you receive specific permission If you
+do not charge anything for copies of this eBook complying with the
+rules is very easy You may use this eBook for nearly any purpose
+such as creation of derivative works reports performances and
+research They may be modified and printed and given awayyou may do
+practically ANYTHING with public domain eBooks Redistribution is
+subject to the trademark license especially commercial
+redistribution
+
+
+
+ START FULL LICENSE 
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenbergtm mission of promoting the free
+distribution of electronic works by using or distributing this work
+or any other work associated in any way with the phrase Project
+Gutenberg you agree to comply with all the terms of the Full Project
+Gutenbergtm License available with this file or online at
+ wwwgutenbergorglicense
+
+
+Section 1 General Terms of Use and Redistributing Project Gutenbergtm
+electronic works
+
+1A By reading or using any part of this Project Gutenbergtm
+electronic work you indicate that you have read understand agree to
+and accept all the terms of this license and intellectual property
+trademarkcopyright agreement If you do not agree to abide by all
+the terms of this agreement you must cease using and return or destroy
+all copies of Project Gutenbergtm electronic works in your possession
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenbergtm electronic work and you do not agree to be bound by the
+terms of this agreement you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1E8
+
+1B Project Gutenberg is a registered trademark It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement There are a few
+things that you can do with most Project Gutenbergtm electronic works
+even without complying with the full terms of this agreement See
+paragraph 1C below There are a lot of things you can do with Project
+Gutenbergtm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenbergtm electronic
+works See paragraph 1E below
+
+1C The Project Gutenberg Literary Archive Foundation the Foundation
+or PGLAF owns a compilation copyright in the collection of Project
+Gutenbergtm electronic works Nearly all the individual works in the
+collection are in the public domain in the United States If an
+individual work is in the public domain in the United States and you are
+located in the United States we do not claim a right to prevent you from
+copying distributing performing displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed Of course we hope that you will support the Project
+Gutenbergtm mission of promoting free access to electronic works by
+freely sharing Project Gutenbergtm works in compliance with the terms of
+this agreement for keeping the Project Gutenbergtm name associated with
+the work You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenbergtm License when you share it without charge with others
+
+1D The copyright laws of the place where you are located also govern
+what you can do with this work Copyright laws in most countries are in
+a constant state of change If you are outside the United States check
+the laws of your country in addition to the terms of this agreement
+before downloading copying displaying performing distributing or
+creating derivative works based on this work or any other Project
+Gutenbergtm work The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States
+
+1E Unless you have removed all references to Project Gutenberg
+
+1E1 The following sentence with active links to or other immediate
+access to the full Project Gutenbergtm License must appear prominently
+whenever any copy of a Project Gutenbergtm work any work on which the
+phrase Project Gutenberg appears or with which the phrase Project
+Gutenberg is associated is accessed displayed performed viewed
+copied or distributed
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever You may copy it give it away or
+reuse it under the terms of the Project Gutenberg License included
+with this eBook or online at wwwgutenbergorg
+
+1E2 If an individual Project Gutenbergtm electronic work is derived
+from the public domain does not contain a notice indicating that it is
+posted with permission of the copyright holder the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges If you are redistributing or providing access to a work
+with the phrase Project Gutenberg associated with or appearing on the
+work you must comply either with the requirements of paragraphs 1E1
+through 1E7 or obtain permission for the use of the work and the
+Project Gutenbergtm trademark as set forth in paragraphs 1E8 or
+1E9
+
+1E3 If an individual Project Gutenbergtm electronic work is posted
+with the permission of the copyright holder your use and distribution
+must comply with both paragraphs 1E1 through 1E7 and any additional
+terms imposed by the copyright holder Additional terms will be linked
+to the Project Gutenbergtm License for all works posted with the
+permission of the copyright holder found at the beginning of this work
+
+1E4 Do not unlink or detach or remove the full Project Gutenbergtm
+License terms from this work or any files containing a part of this
+work or any other work associated with Project Gutenbergtm
+
+1E5 Do not copy display perform distribute or redistribute this
+electronic work or any part of this electronic work without
+prominently displaying the sentence set forth in paragraph 1E1 with
+active links or immediate access to the full terms of the Project
+Gutenbergtm License
+
+1E6 You may convert to and distribute this work in any binary
+compressed marked up nonproprietary or proprietary form including any
+word processing or hypertext form However if you provide access to or
+distribute copies of a Project Gutenbergtm work in a format other than
+Plain Vanilla ASCII or other format used in the official version
+posted on the official Project Gutenbergtm web site wwwgutenbergorg
+you must at no additional cost fee or expense to the user provide a
+copy a means of exporting a copy or a means of obtaining a copy upon
+request of the work in its original Plain Vanilla ASCII or other
+form Any alternate format must include the full Project Gutenbergtm
+License as specified in paragraph 1E1
+
+1E7 Do not charge a fee for access to viewing displaying
+performing copying or distributing any Project Gutenbergtm works
+unless you comply with paragraph 1E8 or 1E9
+
+1E8 You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenbergtm electronic works provided
+that
+
+ You pay a royalty fee of 20 of the gross profits you derive from
+ the use of Project Gutenbergtm works calculated using the method
+ you already use to calculate your applicable taxes The fee is
+ owed to the owner of the Project Gutenbergtm trademark but he
+ has agreed to donate royalties under this paragraph to the
+ Project Gutenberg Literary Archive Foundation Royalty payments
+ must be paid within 60 days following each date on which you
+ prepare or are legally required to prepare your periodic tax
+ returns Royalty payments should be clearly marked as such and
+ sent to the Project Gutenberg Literary Archive Foundation at the
+ address specified in Section 4 Information about donations to
+ the Project Gutenberg Literary Archive Foundation
+
+ You provide a full refund of any money paid by a user who notifies
+ you in writing or by email within 30 days of receipt that she
+ does not agree to the terms of the full Project Gutenbergtm
+ License You must require such a user to return or
+ destroy all copies of the works possessed in a physical medium
+ and discontinue all use of and all access to other copies of
+ Project Gutenbergtm works
+
+ You provide in accordance with paragraph 1F3 a full refund of any
+ money paid for a work or a replacement copy if a defect in the
+ electronic work is discovered and reported to you within 90 days
+ of receipt of the work
+
+ You comply with all other terms of this agreement for free
+ distribution of Project Gutenbergtm works
+
+1E9 If you wish to charge a fee or distribute a Project Gutenbergtm
+electronic work or group of works on different terms than are set
+forth in this agreement you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart the owner of the Project Gutenbergtm trademark Contact the
+Foundation as set forth in Section 3 below
+
+1F
+
+1F1 Project Gutenberg volunteers and employees expend considerable
+effort to identify do copyright research on transcribe and proofread
+public domain works in creating the Project Gutenbergtm
+collection Despite these efforts Project Gutenbergtm electronic
+works and the medium on which they may be stored may contain
+Defects such as but not limited to incomplete inaccurate or
+corrupt data transcription errors a copyright or other intellectual
+property infringement a defective or damaged disk or other medium a
+computer virus or computer codes that damage or cannot be read by
+your equipment
+
+1F2 LIMITED WARRANTY DISCLAIMER OF DAMAGES  Except for the Right
+of Replacement or Refund described in paragraph 1F3 the Project
+Gutenberg Literary Archive Foundation the owner of the Project
+Gutenbergtm trademark and any other party distributing a Project
+Gutenbergtm electronic work under this agreement disclaim all
+liability to you for damages costs and expenses including legal
+fees YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE STRICT
+LIABILITY BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1F3 YOU AGREE THAT THE FOUNDATION THE
+TRADEMARK OWNER AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL DIRECT INDIRECT CONSEQUENTIAL PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE
+
+1F3 LIMITED RIGHT OF REPLACEMENT OR REFUND  If you discover a
+defect in this electronic work within 90 days of receiving it you can
+receive a refund of the money if any you paid for it by sending a
+written explanation to the person you received the work from If you
+received the work on a physical medium you must return the medium with
+your written explanation The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund If you received the work electronically the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund If the second copy
+is also defective you may demand a refund in writing without further
+opportunities to fix the problem
+
+1F4 Except for the limited right of replacement or refund set forth
+in paragraph 1F3 this work is provided to you ASIS WITH NO OTHER
+WARRANTIES OF ANY KIND EXPRESS OR IMPLIED INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE
+
+1F5 Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions
+
+1F6 INDEMNITY  You agree to indemnify and hold the Foundation the
+trademark owner any agent or employee of the Foundation anyone
+providing copies of Project Gutenbergtm electronic works in accordance
+with this agreement and any volunteers associated with the production
+promotion and distribution of Project Gutenbergtm electronic works
+harmless from all liability costs and expenses including legal fees
+that arise directly or indirectly from any of the following which you do
+or cause to occur a distribution of this or any Project Gutenbergtm
+work b alteration modification or additions or deletions to any
+Project Gutenbergtm work and c any Defect you cause
+
+
+Section 2 Information about the Mission of Project Gutenbergtm
+
+Project Gutenbergtm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete old middleaged and new computers It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenbergtms
+goals and ensuring that the Project Gutenbergtm collection will
+remain freely available for generations to come In 2001 the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenbergtm and future generations
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help see Sections 3 and 4
+and the Foundation information page at wwwgutenbergorg
+
+
+Section 3 Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501c3 educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service The Foundations EIN or federal tax identification
+number is 646221541 Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by US federal laws and your states laws
+
+The Foundations principal office is located at 4557 Melan Dr S
+Fairbanks AK 99712 but its volunteers and employees are scattered
+throughout numerous locations Its business office is located at 809
+North 1500 West Salt Lake City UT 84116 801 5961887 Email
+contact links and up to date contact information can be found at the
+Foundations web site and official page at wwwgutenbergorgcontact
+
+For additional contact information
+ Dr Gregory B Newby
+ Chief Executive and Director
+ gbnewbypglaforg
+
+Section 4 Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenbergtm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment Many small donations
+1 to 5000 are particularly important to maintaining tax exempt
+status with the IRS
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States Compliance requirements are not uniform and it takes a
+considerable effort much paperwork and many fees to meet and keep up
+with these requirements We do not solicit donations in locations
+where we have not received written confirmation of compliance To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit wwwgutenbergorgdonate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate
+
+International donations are gratefully accepted but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States US laws alone swamp our small staff
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses Donations are accepted in a number of other
+ways including checks online payments and credit card donations
+To donate please visit wwwgutenbergorgdonate
+
+
+Section 5 General Information About Project Gutenbergtm electronic
+works
+
+Professor Michael S Hart was the originator of the Project Gutenbergtm
+concept of a library of electronic works that could be freely shared
+with anyone For forty years he produced and distributed Project
+Gutenbergtm eBooks with only a loose network of volunteer support
+
+Project Gutenbergtm eBooks are often created from several printed
+editions all of which are confirmed as Public Domain in the US
+unless a copyright notice is included Thus we do not necessarily
+keep eBooks in compliance with any particular paper edition
+
+Most people start at our Web site which has the main PG search facility
+
+ wwwgutenbergorg
+
+This Web site includes information about Project Gutenbergtm
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation how to help produce our new eBooks and how to
+subscribe to our email newsletter to hear about new eBooks
+

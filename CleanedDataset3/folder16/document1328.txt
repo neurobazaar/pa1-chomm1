@@ -1,0 +1,1631 @@
+Project Gutenberg Etext of The Tinkers Wedding by J M Synge
+4 in our series by J M Synge
+
+
+Copyright laws are changing all over the world be sure to check
+the copyright laws for your country before posting these files
+
+Please take a look at the important information in this header
+We encourage you to keep this file on your own disk keeping an
+electronic path open for the next readers Do not remove this
+
+
+Welcome To The World of Free Plain Vanilla Electronic Texts
+
+Etexts Readable By Both Humans and By Computers Since 1971
+
+These Etexts Prepared By Hundreds of Volunteers and Donations
+
+Information on contacting Project Gutenberg to get Etexts and
+further information is included below We need your donations
+
+
+The Tinkers Wedding
+
+by J M Synge
+
+May 1998 Etext 1328
+
+
+Project Gutenberg Etext of The Tinkers Wedding by J M Synge
+This file should be named 1328txt or 1328zip
+
+
+This etext was prepared by Judy Boss Omaha NE
+
+Project Gutenberg Etexts are usually created from multiple editions
+all of which are in the Public Domain in the United States unless a
+copyright notice is included Therefore we do NOT keep these books
+in compliance with any particular paper edition usually otherwise
+
+
+We are now trying to release all our books one month in advance
+of the official release dates for time for better editing
+
+Please note neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement
+The official release date of all Project Gutenberg Etexts is at
+Midnight Central Time of the last day of the stated month A
+preliminary version may often be posted for suggestion comment
+and editing by those who wish to do so To be sure you have an
+up to date first edition xxxxx10xxxx please check file sizes
+in the first week of the next month Since our ftp program has
+a bug in it that scrambles the date tried to fix and failed a
+look at the file size will have to do but we will try to see a
+new copy has at least one byte more or less
+
+
+Information about Project Gutenberg one page
+
+We produce about two million dollars for each hour we work The
+fifty hours is one conservative estimate for how long it we take
+to get any etext selected entered proofread edited copyright
+searched and analyzed the copyright letters written etc This
+projected audience is one hundred million readers If our value
+per text is nominally estimated at one dollar then we produce 2
+million dollars per hour this year as we release thirtytwo text
+files per month or 384 more Etexts in 1998 for a total of 1500
+If these reach just 10 of the computerized population then the
+total should reach over 150 billion Etexts given away
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by the December 31 2001 10000 x 100000000Trillion
+This is ten thousand titles each to one hundred million readers
+which is only 10 of the present number of computer users 2001
+should have at least twice as many computer users as that so it
+will require us reaching less than 5 of the users in 2001
+
+
+We need your donations more than ever
+
+
+All donations should be made to Project GutenbergCMU and are
+tax deductible to the extent allowable by law CMU  Carnegie
+Mellon University
+
+For these and other matters please mail to
+
+Project Gutenberg
+P O Box 2782
+Champaign IL 61825
+
+When all other email fails try our Executive Director
+Michael S Hart hartpoboxcom
+
+We would prefer to send you this information by email
+Internet Bitnet Compuserve ATTMAIL or MCImail
+
+
+If you have an FTP program or emulator please
+FTP directly to the Project Gutenberg archives
+Mac users do NOT point and click  type
+
+ftp uiarchivecsouiucedu
+login anonymous
+password yourlogin
+cd etextetext90 through etext96
+or cd etextarticles get suggest gut for more information
+dir to see files
+get or mget to get files  set bin for zip files
+GET INDEX00GUT
+for a list of books
+and
+GET NEW GUT for general information
+and
+MGET GUT for newsletters
+
+Information prepared by the Project Gutenberg legal advisor
+Three Pages
+
+
+STARTTHE SMALL PRINTFOR PUBLIC DOMAIN ETEXTSSTART
+Why is this Small Print statement here You know lawyers
+They tell us you might sue us if there is something wrong with
+your copy of this etext even if you got it for free from
+someone other than us and even if whats wrong is not our
+fault So among other things this Small Print statement
+disclaims most of our liability to you It also tells you how
+you can distribute copies of this etext if you want to
+
+BEFORE YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERGtm
+etext you indicate that you understand agree to and accept
+this Small Print statement If you do not you can receive
+a refund of the money if any you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from If you received this etext on a physical
+medium such as a disk you must return it with your request
+
+ABOUT PROJECT GUTENBERGTM ETEXTS
+This PROJECT GUTENBERGtm etext like most PROJECT GUTENBERG
+tm etexts is a public domain work distributed by Professor
+Michael S Hart through the Project Gutenberg Association at
+CarnegieMellon University the Project Among other
+things this means that no one owns a United States copyright
+on or for this work so the Project and you can copy and
+distribute it in the United States without permission and
+without paying copyright royalties Special rules set forth
+below apply if you wish to copy and distribute this etext
+under the Projects PROJECT GUTENBERG trademark
+
+To create these etexts the Project expends considerable
+efforts to identify transcribe and proofread public domain
+works Despite these efforts the Projects etexts and any
+medium they may be on may contain Defects Among other
+things Defects may take the form of incomplete inaccurate or
+corrupt data transcription errors a copyright or other
+intellectual property infringement a defective or damaged
+disk or other etext medium a computer virus or computer
+codes that damage or cannot be read by your equipment
+
+LIMITED WARRANTY DISCLAIMER OF DAMAGES
+But for the Right of Replacement or Refund described below
+1 the Project and any other party you may receive this
+etext from as a PROJECT GUTENBERGtm etext disclaims all
+liability to you for damages costs and expenses including
+legal fees and 2 YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY OR FOR BREACH OF WARRANTY OR CONTRACT
+INCLUDING BUT NOT LIMITED TO INDIRECT CONSEQUENTIAL PUNITIVE
+OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES
+
+If you discover a Defect in this etext within 90 days of
+receiving it you can receive a refund of the money if any
+you paid for it by sending an explanatory note within that
+time to the person you received it from If you received it
+on a physical medium you must return it with your note and
+such person may choose to alternatively give you a replacement
+copy If you received it electronically such person may
+choose to alternatively give you a second opportunity to
+receive it electronically
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU ASIS NO OTHER
+WARRANTIES OF ANY KIND EXPRESS OR IMPLIED ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages so the
+above disclaimers and exclusions may not apply to you and you
+may have other legal rights
+
+INDEMNITY
+You will indemnify and hold the Project its directors
+officers members and agents harmless from all liability cost
+and expense including legal fees that arise directly or
+indirectly from any of the following that you do or cause
+1 distribution of this etext 2 alteration modification
+or addition to the etext or 3 any Defect
+
+DISTRIBUTION UNDER PROJECT GUTENBERGtm
+You may distribute copies of this etext electronically or by
+disk book or any other medium if you either delete this
+Small Print and all other references to Project Gutenberg
+or
+
+1 Only give exact copies of it Among other things this
+ requires that you do not remove alter or modify the
+ etext or this small print statement You may however
+ if you wish distribute this etext in machine readable
+ binary compressed markup or proprietary form
+ including any form resulting from conversion by word pro
+ cessing or hypertext software but only so long as
+ EITHER
+
+  The etext when displayed is clearly readable and
+ does not contain characters other than those
+ intended by the author of the work although tilde
+  asterisk  and underline _ characters may
+ be used to convey punctuation intended by the
+ author and additional characters may be used to
+ indicate hypertext links OR
+
+  The etext may be readily converted by the reader at
+ no expense into plain ASCII EBCDIC or equivalent
+ form by the program that displays the etext as is
+ the case for instance with most word processors
+ OR
+
+  You provide or agree to also provide on request at
+ no additional cost fee or expense a copy of the
+ etext in its original plain ASCII form or in EBCDIC
+ or other equivalent proprietary form
+
+2 Honor the etext refund and replacement provisions of this
+ Small Print statement
+
+3 Pay a trademark license fee to the Project of 20 of the
+ net profits you derive calculated using the method you
+ already use to calculate your applicable taxes If you
+ dont derive profits no royalty is due Royalties are
+ payable to Project Gutenberg AssociationCarnegieMellon
+ University within the 60 days following each
+ date you prepare or were legally required to prepare
+ your annual or equivalent periodic tax return
+
+WHAT IF YOU WANT TO SEND MONEY EVEN IF YOU DONT HAVE TO
+The Project gratefully accepts contributions in money time
+scanning machines OCR software public domain etexts royalty
+free copyright licenses and every other sort of contribution
+you can think of Money should be paid to Project Gutenberg
+Association  CarnegieMellon University
+
+ENDTHE SMALL PRINT FOR PUBLIC DOMAIN ETEXTSVer042993END
+
+
+
+
+Note I have omitted the running heads and I have marked with  possible typos
+
+bTHE TINKERS WEDDINGb
+
+A COMEDY IN TWO ACTS
+
+BY J M SYNGE
+
+
+JOHN W LUCE AND COMPANY
+BOSTON          1911
+
+
+
+
+
+Copyright 1904
+By J M Synge
+
+
+
+
+
+PREFACE
+
+THE drama is made serious  in the French
+sense of the word  not by the degree in
+which it is taken up with problems that are
+serious in themselves but by the degree in
+which it gives the nourishment not very easy
+to define on which our imaginations live We
+should not go to the theatre as we go to a
+chemists or a dramshop but as we go to
+a dinner where the food we need is taken
+with pleasure and excitement This was
+nearly always so in Spain and England and
+France when the drama was at its richest 
+the infancy and decay of the drama tend to
+be didactic  but in these days the playhouse
+is too often stocked with the drugs of many
+
+
+VI
+
+seedy problems or with the absinthe or ver
+mouth of the last musical comedy
+ The drama like the symphony does not
+teach or prove anything Analysts with their
+problems and teachers with their systems are
+soon as oldfashioned as the pharmacopoeligia of
+Galen  look at Ibsen and the Germans  but
+the best plays of Ben Jonson and Moliegravere can
+no more go out of fashion than the black
+berries on the hedges
+ Of the things which nourish the imagination
+humour is one of the most needful and it is
+dangerous to limit or destroy it Baudelaire
+calls laughter the greatest sign of the Satanic
+element in man and where a country loses
+its humor as some towns in Ireland are doing
+there will be morbidity of mind as Baude
+laires mind was morbid
+ In the greater part of Ireland however
+the whole people from the tinkers to the
+clergy have still a life and view of life that
+
+
+VII
+
+are rich and genial and humorous I do not
+think that these country people who have so
+much humor themselves will mind being
+laughed at without malice as the people in
+every country have been laughed at in their
+own comedies
+
+ J M S
+
+ iDecember 2ndi 1907
+
+
+page intentionally blank
+
+
+PERSONS
+
+MICHAEL BYRNE a tinker
+MARY BYRNE an old woman his mother
+SARAH CASEY a young tinker woman
+A PRIEST
+
+
+page intentionally blank
+
+
+bTHE TINKERS WEDDINGb
+ 
+
+ACT I
+
+ SCENE iA Village roadside after nightfall
+A fire of sticks is burning near the ditch a
+little to the right Michael is working beside
+it In the background on the left a sort of
+tent and ragged clothes drying on the hedge
+On the right a chapelgatei
+
+ SARAH CASEY  icoming in on right
+eagerlyi  Well see his reverence this place
+Michael Byrne and he passing backward to
+his house tonight
+ MICHAEL  igrimlyi  Thatll be a sacred
+and a sainted joy
+ SARAH  isharplyi  Itll be small joy for
+yourself if you arent ready with my wedding
+ring iShe goes over to himi Is it near
+done this time or what way is it at all
+ MICHAEL A poor way only Sarah
+Casey for its the divils job making a ring
+and youll be having my hands destroyed in
+a short while the way Ill not be able to make
+a tin can at all maybe at the dawn of day
+ SARAH  isitting down beside him and
+throwing sticks on the firei  If its the divils
+
+
+14
+
+job let you mind it and leave your speeches
+that would choke a fool
+ MICHAEL  islowly and glumlyi  And
+its youll go talking of fools Sarah Casey
+when no man did ever hear a lying story even
+of your like unto this mortal day You to
+be going beside me a great while and rearing
+a lot of them and then to be setting off with
+your talk of getting married and your driv
+ing me to it and I not asking it at all
+ iSarah turns her back to him and ar
+ ranges something in the ditchi
+ MICHAEL  iangrilyi  Cant you speak
+a word when Im asking what is it ails you
+since the moon did change
+ SARAH  imusinglyi  Im thinking there
+isnt anything ails me Michael Byrne but
+the springtime is a queer time and its queer
+thoughts maybe I do think at whiles
+ MICHAEL Its hard set youd be to think
+queerer than welcome Sarah Casey but what
+will you gain dragging me to the priest this
+night Im saying when its new thoughts
+youll be thinking at the dawn of day
+ SARAH  iteasinglyi  Its at the dawn of
+day I do be thinking Id have a right to be
+going off to the rich tinkers do be travelling
+from Tibradden to the Tara Hill for itd be
+a fine life to be driving with young Jaunting
+
+
+15
+
+Jim where there wouldnt be any big hills
+to break the back of you with walking up and
+walking down
+ MICHAEL  iwith dismayi  Its the like
+of that you do be thinking
+ SARAH The like of that Michael Byrne
+when there is a bit of sun in it and a kind
+air and a great smell coming from the thorn
+trees is above your head
+ MICHAEL  ilooks at her for a moment
+with horror and then hands her the ringi 
+Will that fit you now
+ SARAH  itrying it oni  Its making it
+tight you are and the edges sharp on the tin
+ MICHAEL  ilooking at it carefullyi 
+Its the fat of your own finger Sarah Casey
+and isnt it a mad thing Im saying again
+that youd be asking marriage of me or mak
+ing a talk of going away from me and you
+thriving and getting your good health by the
+grace of the Almighty God
+ SARAH  igiving it back to himi  Fix it
+now and itll do if youre wary you dont
+squeeze it again
+ MICHAEL  imoodily working againi 
+Its easy saying be wary theres many things
+easy said Sarah Casey youd wonder a fool
+even would be saying at all iHe starts vioi
+
+
+16
+
+ilentlyi The divil mend you Im scalded
+again
+ SARAH  iscornfullyi  If you are its a
+clumsy man you are this night Michael Byrne
+iraising her voicei and let you make haste
+now or herself will be coming with the porter
+ MICHAEL  idefiantly raising his voicei
+Let me make haste Ill be making haste
+maybe to hit you a great clout for Im think
+ing on the day I got you above at Rathvanna
+and the way you began crying out and say
+ing Ill go back to my ma and Im thinking
+on the way I came behind you that time and
+hit you a great clout in the lug and how quiet
+and easy it was you came along with me from
+that hour to this present day
+ SARAH  istanding up and throwing all
+her sticks into the firei  And a big fool I was
+too maybe but well be seeing Jaunting Jim
+tomorrow in Ballinaclash and he after get
+ting a great price for his white foal in the
+horsefair of Wicklow the way itll be a great
+sight to see him squandering his share of gold
+and he with a grand eye for a fine horse and
+a grand eye for a woman
+ MICHAEL  iworking again with impai
+
+
+17
+
+itiencei  The divil do him good with the two
+of them
+ SARAH  ikicking up the ashes with her
+footi  Ah hes a great lad Im telling you
+and its proud and happy Ill be to see him
+and he the first one called me the Beauty of
+Ballinacree a fine name for a woman
+ MICHAEL  iwith contempti  Its the
+like of that name they do be putting on the
+horses they have below racing in Arklow Its
+easy pleased you are Sarah Casey easy
+pleased with a big word or the liar speaks it
+ SARAH Liar
+ MICHAEL Liar surely
+ SARAH  iindignantlyi  Liar is it
+Didnt you ever hear tell of the peelers fol
+lowed me ten miles along the Glen Malure
+and they talking love to me in the dark night
+or of the children youll meet coming from
+school and they saying one to the other Its
+this day we seen Sarah Casey the Beauty of
+Ballinacree a great sight surely
+ MICHAEL God help the lot of them
+ SARAH Its yourself youll be calling
+God to help in two weeks or three when
+youll be waking up in the dark night and
+thinking you see me coming with the sun on
+me and I driving a high cart with Jaunting
+
+
+18
+
+Jim going behind Its lonesome and cold
+youll be feeling the ditch where youll be
+lying down that night Im telling you and
+you hearing the old woman making a great
+noise in her sleep and the bats squeaking in
+the trees
+ MICHAEL Whist I hear some one
+coming the road
+ SARAH  ilooking out righti  Its some
+one coming forward from the doctors door
+ MICHAEL Its often his reverence does
+be in there playing cards or drinking a sup or
+singing songs until the dawn of day
+ SARAH Its a big boast of a man with a
+long step on him and a trumpeting voice
+Its his reverence surely and if you have the
+ring done its a great bargain well make now
+and he after drinking his glass
+ MICHAEL  igoing to her and giving her
+the ringi  Theres your ring Sarah Casey
+but Im thinking hell walk by and not stop to
+speak with the like of us at all
+ SARAH  itidying herself in great excite
+menti  Let you be sitting here and keeping
+a great blaze the way he can look on my face
+and let you seem to be working for its great
+love the like of him have to talk of work
+ MICHAEL  imoodily sitting down andi
+
+
+19
+
+ibeginning to work at a tin cani  Great love
+surely
+ SARAH  ieagerlyi  Make a great blaze
+now Michael Byrne
+ iThe priest comes in on right she comes
+ forward in front of himi
+ SARAH  iin a very plausible voicei 
+Good evening your reverence Its a grand
+fine night by the grace of God
+ PRIEST The Lord have mercy on us
+What kind of a living woman is it that you
+are at all
+ SARAH Its Sarah Casey I am your
+reverence the Beauty of Ballinacree and its
+Michael Byrne is below in the ditch
+ PRIEST A holy pair surely Let you
+get out of my way iHe tries to pass byi
+ SARAH  ikeeping in front of himi  We
+are wanting a little word with your reverence
+ PRIEST I havent a halfpenny at all
+Leave the road Im saying
+ SARAH It isnt a halfpenny were ask
+ing holy father but we were thinking maybe
+wed have a right to be getting married and
+we were thinking its yourself would marry
+us for not a halfpenny at all for youre a
+kind man your reverence a kind man with
+the poor
+
+
+20
+
+ PRIEST  iwith astonishmenti  Is it mar
+ry you for nothing at all
+ SARAH It is your reverence and we
+were thinking maybe youd give us a little
+small bit of silver to pay for the ring
+ PRIEST  iloudlyi  Let you hold your
+tongue let you be quiet Sarah Casey Ive
+no silver at all for the like of you and if you
+want to be married let you pay your pound
+Id do it for a pound only and thats making
+it a sight cheaper than Id make it for one
+of my own pairs is living here in the place
+ SARAH Where would the like of us get
+a pound your reverence
+ PRIEST Wouldnt you easy get it with
+your selling asses and making cans and your
+stealing east and west in Wicklow and Wex
+ford and the county Meath iHe tries to
+pass heri Let you leave the road and not
+be plaguing me more
+ SARAH  ipleadingly taking money from
+her pocketi  Wouldnt you have a little mercy
+on us your reverence iHolding out moneyi
+Wouldnt you marry us for a half a sovereign
+and it a nice shiny one with a view on it of
+the living kings mamma
+ PRIEST If its ten shillings you have
+let you get ten more the same way and Ill
+marry you then
+
+
+21
+
+ SARAH  iwhiningi  Its two years we
+are getting that bit your reverence with our
+pence and our halfpence and an odd three
+penny bit and if you dont marry us now
+himself and the old woman who has a great
+drouth will be drinking it tomorrow in the
+fair ishe puts her apron to her eyes half sob
+bingi and then I wont be married any time
+and Ill be saying till Im an old woman
+Its a cruel and a wicked thing to be bred
+poor
+ PRIEST  iturning up towards the firei 
+Let you not be crying Sarah Casey Its a
+queer woman you are to be crying at the like
+of that and you your whole life walking the
+roads
+ SARAH  isobbingi  Its two years we
+are getting the gold your reverence and now
+you wont marry us for that bit and we
+hardworking poor people do be making cans
+in the dark night and blinding our eyes with
+the black smoke from the bits of twigs we
+do be burning
+ iAn old woman is heard singing tipsily
+ on the lefti
+ PRIEST  ilooking at the can Michael is
+makingi  When will you have that can done
+Michael Byrne
+ MICHAEL In a short space only your
+
+
+22
+
+reverence for Im putting the last dab of
+solder on the rim
+ PRIEST Let you get a crown along with
+the ten shillings and the gallon can Sarah
+Casey and I will wed you so
+ MARY  isuddenly shouting behind tip
+silyi  Larry was a fine lad Im saying Larry
+was a fine lad Sarah Casey 
+ MICHAEL Whist now the two of you
+Theres my mother coming and shed have us
+destroyed if she heard the like of that talk
+the time shes been drinking her fill
+ MARY  icomes in singingi 
+ And when we asked him what way hed die
+ And he hanging unrepented
+ Begob says Larry thats all in my eye
+ By the clergy first invented
+ SARAH Give me the jug now or youll
+have it spilt in the ditch
+ MARY  iholding the jug with both her
+hands in a stilted voicei  Let you leave me
+easy Sarah Casey I wont spill it Im saying
+God help you are you thinking its frothing
+full to the brim it is at this hour of the night
+and I after carrying it in my two hands a long
+step from Jemmy Neills
+ MICHAEL  ianxiouslyi  Is there a sup
+left at all
+
+
+23
+
+ SARAH  ilooking into the jugi  A little
+small sup only Im thinking
+ MARY  isees the priest and holds out jug
+towards himi  God save your reverence Im
+after bringing down a smart drop and let
+you drink it up now for its a middling
+drouthy man you are at all times God forgive
+you and this night is cruel dry
+ iShe tries to go towards him Sarah
+ holds her backi
+ PRIEST  iwaving her awayi  Let you
+not be falling to the flames Keep off Im
+saying
+ MARY  ipersuasivelyi  Let you not be
+shy of us your reverence Arent we all
+sinners God help us Drink a sup now Im
+telling you and we wont let on a word about
+it till the Judgment Day
+ iShe takes up a tin mug pours some
+ porter into it and gives it to himi
+ MARY  isinging and holding the jug in
+her handi 
+ A lonesome ditch in Ballygan
+ The day youre beating a tenpenny can
+ A lonesome bank in Ballyduff
+ The time    iShe breaks offi
+Its a bad wicked song Sarah Casey and
+let you put me down now in the ditch and I
+wont sing it till himself will be gone for
+
+
+24
+
+its bad enough he is Im thinking without
+ourselves making him worse
+ SARAH  iputting her down to the priest
+half laughingi  Dont mind her at all your
+reverence Shes no shame the time shes a
+drop taken and if it was the Holy Father
+from Rome was in it shed give him a little
+sup out of her mug and say the same as shed
+say to yourself
+ MARY  ito the priesti  Let you drink it
+up holy father Let you drink it up Im say
+ing and not be letting on you wouldnt do
+the like of it and you with a stack of pint
+bottles above reaching the sky
+ PRIEST  iwith resignationi  Well heres
+to your good health and God forgive us all
+ iHe drinksi
+ MARY Thats right now your reverence
+and the blessing of God be on you Isnt it
+a grand thing to see you sitting down with
+no pride in you and drinking a sup with the
+like of us and we the poorest wretched
+starving creatures youd see any place on the
+earth
+ PRIEST If its starving you are itself
+Im thinking its well for the like of you that
+do be drinking when theres drouth on you
+and lying down to sleep when your legs are
+stiff iHe sighs gloomilyi What would
+
+
+25
+
+you do if it was the like of myself you were
+saying Mass with your mouth dry and run
+ning east and west for a sick call maybe and
+hearing the rural people again and they saying
+their sins
+ MARY  iwith compassioni  Its destroy
+ed you must be hearing the sins of the rural
+people on a fine spring
+ PRIEST  iwith despondencyi  Its a hard
+life Im telling you a hard life Mary Byrne
+and theres the bishop coming in the morning
+and he an old man would have you destroyed
+if he seen a thing at all
+ MARY  iwith great sympathyi  Itd
+break my heart to hear you talking and sigh
+ing the like of that your reverence iShe
+pats him on the kneei Let you rouse up
+now if its a poor single man you are itself
+and Ill be singing you songs unto the dawn
+of day
+ PRIEST  iinterrupting heri  What is it
+I want with your songs when itd be better
+for the like of you thatll soon die to be down
+on your two knees saying prayers to the
+Almighty God
+ MARY If its prayers I want youd have
+a right to say one yourself holy father for
+we dont have them at all and Ive heard tell
+a power of times its that youre for Say
+
+
+26
+
+one now your reverence for Ive heard a
+power of queer things and I walking the
+world but theres one thing I never heard any
+time and thats a real priest saying a prayer
+ PRIEST The Lord protect us
+ MARY Its no lie holy father I often
+heard the rural people making a queer noise
+and they going to rest but whod mind the
+like of them And Im thinking it should be
+great game to hear a scholar the like of you
+speaking Latin to the saints above
+ PRIEST  iscandalizedi  Stop your talk
+ing Mary Byrne youre an old flagrant
+heathen and Ill stay no more with the lot of
+ you iHe risesi
+ MARY  icatching hold of himi  Stop till
+you say a prayer your reverence stop till you
+say a little prayer Im telling you and Ill
+give you my blessing and the last sup from the
+jug
+ PRIEST  ibreaking awayi  Leave me go
+Mary Byrne for I have never met your like
+for hard abominations the score and two years
+Im living in the place
+ MARY  iinnocentlyi  Is that the truth
+ PRIEST  It is then and God have mercy
+on your soul
+ iThe priest goes towards the left and
+ Sarah follows himi
+
+
+27
+
+ SARAH  iin a low voicei  And what
+time will you do the thing Im asking holy
+father for Im thinking youll do it surely
+and not have me growing into an old wicked
+heathen like herself
+ MARY  icalling out shrillyi  Let you be
+walking back here Sarah Casey and not be
+talking whispertalk with the like of him in the
+face of the Almighty God
+ SARAH  ito the priesti  Do you hear her
+now your reverence Isnt it true surely
+shes an old flagrant heathen would destroy
+the world
+ PRIEST  ito Sarah moving offi  Well
+Ill be coming down early to the chapel and let
+you come to me a while after you see me pas
+sing and bring the bit of gold along with you
+and the tin can Ill marry you for them two
+though its a pitiful small sum for I wouldnt
+be easy in my soul if I left you growing into
+an old wicked heathen the like of her
+ SARAH  ifollowing him outi  The bles
+sing of the Almighty God be on you holy
+father and that He may reward and watch
+you from this present day
+ MARY  inudging Michaeli  Did you see
+that Michael Byrne Didnt you hear me
+telling you shes flighty a while back since the
+change of the moon With her fussing for
+
+
+28
+
+marriage and she making whispertalk with
+one man or another man along by the road
+ MICHAEL  Whist now or shell knock
+the head of you the time she comes back
+ MARY  Ah its a bad wicked way the
+world is this night if theres a fine air in it
+itself Youd never have seen me and I a
+young woman making whispertalk with the
+like of him and he the fearfullest old fellow
+youd see any place walking the world
+ iSarah comes back quicklyi
+ MARY  icalling out to heri  What is it
+youre after whispering above with himself
+ SARAH  iexultinglyi  Lie down and
+leave us in peace iShe whispers with Michaeli
+ MARY  ipoking out her pipe with a straw
+singsi 
+ Shed whisper with one and shed whisper
+ with two 
+iShe breaks off coughingi  My singing voice
+is gone for this night Sarah Casey iShe
+lights her pipei But if its flighty you are
+itself youre a grand handsome woman the
+glory of tinkers the pride of Wicklow the
+Beauty of Ballinacree I wouldnt have you
+lying down and you lonesome to sleep this
+night in a dark ditch when the spring is coming
+in the trees so let you sit down there by the
+big bough and Ill be telling you the finest
+
+
+29
+
+story youd hear any place from Dundalk to
+Ballinacree with great queens in it making
+themselves matches from the start to the end
+and they with shiny silks on them the length
+of the day and white shifts for the night
+ MICHAEL  istanding up with the tin can
+in his handi  Let you go asleep and not have
+us destroyed
+ MARY  ilying back sleepilyi  Dont mind
+him Sarah Casey Sit down now and Ill be
+telling you a story would be fit to tell a woman
+the like of you in the springtime of the year
+ SARAH  itaking the can from Michael
+and tying it up in a piece of sackingi  Thatll
+not be rusting now in the dews of night Ill
+put it up in the ditch the way it will be handy
+in the morning and now weve that done
+Michael Byrne Ill go along with you and
+welcome for Tim Flahertys hens
+ iShe puts the can in the ditchi
+ MARY  isleepilyi  Ive a grand story of
+the great queens of Ireland with white necks
+on them the like of Sarah Casey and fine
+arms would hit you a slap the way Sarah
+Casey would hit you
+ SARAH  ibeckoning on the lefti  Come
+along now Michael while shes falling asleep
+
+
+30
+
+ iHe goes towards left Mary sees that
+ they are going starts up suddenly and
+ turns over on her hands and kneesi
+ MARY  ipiteouslyi  Where is it youre
+going Let you walk back here and not be
+leaving me lonesome when the night is fine
+ SARAH Dont be waking the world with
+your talk when were going up through the
+back wood to get two of Tim Flahertys hens
+are roosting in the ashtree above at the well
+ MARY And its leaving me lone you are
+Come back here Sarah Casey Come back
+here Im saying or if its off you must go
+leave me the two little coppers you have the
+way I can walk up in a short while and get
+another pint for my sleep
+ SARAH Its too much you have taken
+Let you stretch yourself out and take a long
+sleep for isnt that the best thing any woman
+can do and she an old drinking heathen like
+yourself
+ iShe and Michael go out lefti
+ MARY  istanding up slowlyi  Its gone
+they are and I with my feet that weak under
+me youd knock me down with a rush and
+my head with a noise in it the like of what
+
+
+31
+
+youd hear in a stream and it running between
+two rocks and rain falling iShe goes over to
+the ditch where the can is tied in sacking and
+takes it downi What good am I this night
+God help me What good are the grand
+stories I have when its few would listen to
+an old woman few but a girl maybe would
+be in great fear the time her hour was come
+or a little child wouldnt be sleeping with the
+hunger on a cold night iShe takes the can
+from the sacking and fits in three empty bottles
+and straw in its place and ties them upi
+Maybe the two of them have a good right to
+be walking out the little short while theyd be
+young but if they have itself theyll not
+keep Mary Byrne from her full pint when
+the nights fine and theres a dry moon in the
+sky iShe takes up the can and puts the
+package back in the ditchi Jemmy Neills a
+decent lad and hell give me a good drop for
+the can and maybe if I keep near the peelers
+tomorrow for the first bit of the fair herself
+wont strike me at all and if she does itself
+whats a little stroke on your head beside
+sitting lonesome on a fine night hearing the
+
+
+32
+
+dogs barking and the bats squeaking and you
+saying over its a short while only till you die
+ iShe goes out singing The night before
+ Larry was stretchedi
+
+CURTAIN
+
+
+33
+
+ACT II
+
+ SCENE iThe same Early morning Sarah
+is washing her face in an old bucket then
+plaits her hair Michael is tidying himself
+also Mary Byrne is asleep against the ditchi
+
+ SARAH  ito Michael with pleased excite
+menti  Go over now to the bundle beyond
+and youll find a kind of a red handkerchief
+to put upon your neck and a green one for
+myself
+ MICHAEL  igetting themi  Youre after
+spending more money on the like of them
+Well its a power were losing this time and
+we not gaining a thing at all iWith the
+handkerchiefi Is it them two
+ SARAH It is Michael iShe takes one
+of themi Let you tackle that one round under
+your chin and let you not forget to take your
+hat from your head when we go up into the
+church I asked Biddy Flynn below thats
+after marrying her second man and she told
+me its the like of that they do
+ iMary yawns and turns over in her
+ sleepi
+ SARAH  iwith anxietyi  There she is
+waking up on us and I thinking wed have the
+job done before shed know of it at all
+
+
+34
+
+ MICHAEL Shell be crying out now and
+making game of us and saying its fools we
+are surely
+ SARAH Ill send her to sleep again or
+get her out of it one way or another for itd
+be a bad case to have a divils scholar the like
+of her turning the priest against us maybe
+with her godless talk
+ MARY  iwaking up and looking at them
+with curiosity blandlyi  Thats fine things
+you have on you Sarah Casey and its a great
+stir youre making this day washing your
+face Im that used to the hammer I wouldnt
+hear it at all but washing is a rare thing and
+youre after waking me up and I having a
+great sleep in the sun
+ iShe looks around cautiously at the
+ bundle in which she has hidden the
+ bottlesi
+ SARAH  icoaxinglyi  Let you stretch
+out again for a sleep Mary Byrne for itll
+be a middling time yet before we go to the
+fair
+ MARY  iwith suspicioni  Thats a sweet
+tongue you have Sarah Casey but if sleeps
+a grand thing its a grand thing to be waking
+up a day the like of this when theres a warm
+sun in it and a kind air and youll hear the
+
+
+35
+
+cuckoos singing and crying out on the top of
+the hills
+ SARAH If its that gay you are youd
+have a right to walk down and see would you
+get a few halfpence from the rich men do be
+driving early to the fair
+ MARY When rich men do be driving
+early its queer tempers they have the Lord
+forgive them the way its little but bad words
+and swearing out youd get from them all
+ SARAH  ilosing her temper and breaking
+out fiercelyi  Then if youll neither beg nor
+sleep let you walk off from this place where
+youre not wanted and not have us waiting
+for you maybe at the turn of day
+ MARY  irather uneasy turning to Mi
+chaeli  God help our spirits Michael there
+she is again rousing cranky from the break
+of dawn Oh isnt she a terror since the
+moon did change ishe gets up slowlyi And
+Id best be going forward to sell the gallon
+can
+ iShe goes over and takes up the bundlei
+ SARAH  icrying out angrilyi  Leave
+that down Mary Byrne Oh arent you the
+scorn of women to think that youd have that
+drouth and roguery on you that youd go
+drinking the can and the dew not dried from
+the grass
+
+
+36
+
+ MARY  iin a feigned tone of pacification
+with the bundle still in her handi  Its not a
+drouth but a heartburn I have this day Sarah
+Casey so Im going down to cool my gullet
+at the blessed well and Ill sell the can to the
+parsons daughter below a harmless poor
+creature would fill your hand with shillings
+for a brace of lies
+ SARAH Leave down the tin can Mary
+Byrne for I hear the drouth upon your tongue
+today
+ MARY Theres not a drinkhouse from
+this place to the fair Sarah Casey the way
+youll find me below with the full price and
+not a farthing gone
+ iShe turns to go off lefti
+ SARAH  ijumping up and picking up the
+hammer threateninglyi  Put down that can
+Im saying
+ MARY  ilooking at her for a moment in
+terror and putting down the bundle in the
+ditchi  Is it raving mad youre going Sarah
+Casey and you the pride of women to destroy
+the world
+ SARAH  igoing up to her and giving her
+a push off lefti  Ill show you if its raving
+mad I am Go on from this place Im saying
+and be wary now
+ MARY  iturning back after heri  If I
+
+
+37
+
+go Ill be telling old and young youre a
+weathered heathen savage Sarah Casey the
+one did put down a head of the parsons cab
+bage to boil in the pot with your clothes ithe
+priest comes in behind her on the left and
+listensi and quenched the flaming candles on
+the throne of God the time your shadow fell
+within the pillars of the chapel door
+ iSarah turns on her and she springs
+ round nearly into the Priests arms
+ When she sees him she claps her shawl
+ over her mouth and goes up towards
+ the ditch laughing to herselfi
+ PRIEST  igoing to Sarah half terrified
+at the language that he has heardi  Well
+arent you a fearful lot Im thinking its only
+humbug you were making at the fall of night
+and you wont need me at all
+ SARAH  iwith anger still in her voicei 
+Humbug is it would you be turning back upon
+your spoken promise in the face of God
+ PRIEST  idubiouslyi  Im thinking you
+were never christened Sarah Casey and it
+would be a queer job to go dealing Christian
+sacraments unto the like of you iPersuasive
+ly feeling in his pocketi So it would be best
+maybe Id give you a shilling for to drink
+my health and let you walk on and not
+trouble me at all
+
+
+38
+
+ SARAH Thats your talking is it If
+you dont stand to your spoken word holy
+father Ill make my own complaint to the
+mitred bishop in the face of all
+ PRIEST Youd do that
+ SARAH I would surely holy father if
+I walked to the city of Dublin with blood and
+blisters on my naked feet
+ PRIEST  iuneasily scratching his eari 
+I wish this day was done Sarah Casey for
+Im thinking its a risky thing getting mixed
+up in any matters with the like of you
+ SARAH Be hasty then and youll have
+us done with before youd think at all
+ PRIEST  igiving ini  Well maybe its
+right you are and let you come up to the chapel
+when you see me looking from the door
+ iHe goes up into the chapeli
+ SARAH  icalling after himi  We will
+and God preserve you holy father
+ MARY  icoming down to them speaking
+with amazement and consternation but with
+out angeri  Going to the chapel Its at mar
+riage youre fooling again maybe iSarah
+turns her back on heri It was for that you
+were washing your face and you after sending
+me for porter at the fall of night the way Id
+drink a good half from the jug iGoingi
+
+
+39
+
+iround in front of Sarahi Is it at marriage
+youre fooling again
+ SARAH  itriumphantlyi  It is Mary
+Byrne Ill be married now in a short while
+and from this day there will no one have a
+right to call me a dirty name and I selling cans
+in Wicklow or Wexford or the city of Dublin
+itself
+ MARY  iturning to Michaeli  And its
+yourself is wedding her Michael Byrne
+ MICHAEL  igloomilyi  It is God spare
+us
+ MARY  ilooks at Sarah for a moment
+and then bursts out into a laugh of derisioni 
+Well shes a tight hardy girl and its no lie
+but I never knew till this day it was a black
+born fool I had for a son Youll breed asses
+Ive heard them say and poaching dogs and
+horsesd go licking the wind but its a hard
+thing God help me to breed sense in a son
+ MICHAEL  igloomilyi  If I didnt mar
+ry her shed be walking off to Jaunting Jim
+maybe at the fall of night and its well your
+self knows there isnt the like of her for getting
+money and selling songs to the men
+ MARY And youre thinking its paying
+gold to his reverence would make a woman
+stop when shes a mind to go
+ SARAH  iangrilyi  Let you not be de
+
+
+40
+
+stroying us with your talk when Ive as good
+a right to a decent marriage as any speckled
+female does be sleeping in the black hovels
+above would choke a mule
+ MARY  isoothinglyi  Its as good a right
+you have surely Sarah Casey but what good
+will it do Is it putting that ring on your
+finger will keep you from getting an aged
+woman and losing the fine face you have or
+be easing your pains when its the grand ladies
+do be married in silk dresses with rings of
+gold that do pass any woman with their share
+of torment in the hour of birth and do be
+paying the doctors in the city of Dublin a great
+price at that time the like of what youd pay
+for a good ass and a cart
+ iShe sits downi
+ SARAH  ipuzzledi  Is that the truth
+ MARY  ipleased with the point she has
+madei  Wouldnt any know its the truth
+Ah its a few short years you are yet in the
+world Sarah Casey and its little or nothing
+at all maybe you know about it
+ SARAH  ivehement but uneasyi  What
+is it yourself knows of the fine ladies when
+they wouldnt let the like of you go near them
+at all
+ MARY If you do be drinking a little sup
+in one town and another town its soon you
+
+
+41
+
+get great knowledge and a great sight into
+the world Youll see men there and women
+there sitting up on the ends of barrels in the
+dark night and they making great talk would
+soon have the like of you Sarah Casey as
+wise as a March hare
+ MICHAEL  ito Sarahi  Thats the truth
+shes saying and maybe if youve sense in you
+at all youd have a right still to leave your
+fooling and not be wasting our gold
+ SARAH  idecisivelyi  If its wise or fool
+I am Ive made a good bargain and Ill stand
+to it now
+ MARY What is it hes making you give
+ MICHAEL The ten shillings in gold and
+the tin can is above tied in the sack
+ MARY  ilooking at the bundle with sur
+prise and dreadi  The bit of gold and the
+tin can is it
+ MICHAEL The half a sovereign and the
+gallon can
+ MARY  iscrambling to her feet quicklyi 
+Well I think Ill be walking off the road to
+the fair the way you wont be destroying me
+going too fast on the hills iShe goes a few
+steps towards the left then turns and speaks
+to Sarah very persuasivelyi  Let you not take
+the can from the sack Sarah Casey for the
+people is coming above would be making game
+
+
+42
+
+of you and pointing their fingers if they seen
+you do the like of that Let you leave it safe
+in the bag Im saying Sarah darling Its
+that way will be best
+ iShe goes towards left and pauses for a
+ moment looking about her with em
+ barrassmenti
+ MICHAEL  iin a low voicei  What ails
+her at all
+ SARAH  ianxiouslyi  Its real wicked
+she does be when you hear her speaking as
+easy as that
+ MARY  ito herselfi  Id be safer in the
+chapel Im thinking for if she caught me
+after on the road maybe she would kill me
+then
+ iShe comes hobbling back towards the
+ righti
+ SARAH Where is it youre going It
+isnt that way well be walking to the fair
+ MARY Im going up into the chapel to
+give you my blessing and hear the priest
+saying his prayers Its a lonesome road is
+running below to Greenane and a woman
+would never know the things might happen
+her and she walking single in a lonesome place
+ iAs she reaches the chapelgate the
+ Priest comes to it in his surplicei
+ PRIEST  icrying outi  Come along now
+
+
+43
+
+It is the whole day youd keep me here saying
+my prayers and I getting my death with not
+a bit in my stomach and my breakfast in ruins
+and the Lord Bishop maybe driving on the
+road today
+ SARAH Were coming now holy father
+ PRIEST Give me the bit of gold into my
+hand
+ SARAH Its here holy father
+ iShe gives it to him Michael takes the
+ bundle from the ditch and brings it
+ over standing a little behind Sarah
+ He feels the bundle and looks at Mary
+ with a meaning looki
+ PRIEST  ilooking at the goldi  Its a
+good one Im thinking wherever you got it
+And where is the can
+ SARAH  itaking the bundlei  We have
+it here in a bit of clean sack your reverence
+We tied it up in the inside of that to keep it
+from rusting in the dews of night and let you
+not open it now or youll have the people
+making game of us and telling the story on
+us east and west to the butt of the hills
+ PRIEST  itaking the bundlei  Give it
+here into my hand Sarah Casey What is it
+any person would think of a tinker making a
+ can iHe begins opening the bundlei
+ SARAH Its a fine can your reverence
+
+
+44
+
+for if its poor simple people we are its fine
+cans we can make and himself God help him
+is a great man surely at the trade
+ iPriest opens the bundle the three empty
+ bottles fall outi
+ SARAH Glory to the saints of joy
+ PRIEST Did ever any man see the like
+of that To think youd be putting deceit
+on me and telling lies to me and I going to
+marry you for a little sum wouldnt marry a
+child
+ SARAH  icrestfallen and astonishedi 
+Its the divil did it your reverence and I
+wouldnt tell you a lie iRaising her handsi
+May the Lord Almighty strike me dead if the
+divil isnt after hooshing the tin can from the
+bag
+ PRIEST  ivehementlyi  Go along now
+and dont be swearing your lies Go along
+now and let you not be thinking Im big fool
+enough to believe the like of that when its
+after selling it you are or making a swap for
+drink of it maybe in the darkness of the night
+ MARY  iin a peacemaking voice putting
+her hand on the Priests left armi  She
+wouldnt do the like of that your reverence
+when she hasnt a decent standing drouth on
+her at all and shes setting great store on her
+marriage the way youd have a right to be
+
+
+45
+
+taking her easy and not minding the can
+What differ would an empty can make with
+a fine rich hardy man the like of you
+ SARAH  iimploringlyi  Marry us your
+reverence for the ten shillings in gold and
+well make you a grand can in the evening 
+a can would be fit to carry water for the holy
+man of God Marry us now and Ill be saying
+fine prayers for you morning and night if
+itd be raining itself and itd be in two black
+pools Id be setting my knees
+ PRIEST  iloudlyi  Its a wicked thiev
+ing lying scheming lot you are the pack of
+you Let you walk off now and take every
+stinking rag you have there from the ditch
+ MARY  iputting her shawl over her headi
+Marry her your reverence for the love of
+God for therell be queer doings below if you
+send her off the like of that and she swearing
+crazy on the road
+ SARAH  iangrilyi  Its the truth shes
+saying for its herself Im thinking is after
+swapping the tin can for a pint the time she
+was raging mad with the drouth and our
+selves above walking the hill
+ MARY  icrying out with indignationi 
+Have you no shame Sarah Casey to tell lies
+unto a holy man
+ SARAH  ito Mary working herself intoi
+
+
+46
+
+ia ragei  Its making game of me youd be
+and putting a fools head on me in the face
+of the world but if you were thinking to be
+mighty cute walking off or going up to hide
+in the church Ive got you this time and
+youll not run from me now
+ iShe seizes up one of the bottlesi
+ MARY  ihiding behind the priesti  Keep
+her off your reverence keep her off for the
+love of the Almighty God What at all would
+the Lord Bishop say if he found me here
+lying with my head broken across or the two
+of yous maybe digging a bloody grave for
+me at the door of the church
+ PRIEST  iwaving Sarah offi  Go along
+Sarah Casey Would you be doing murder at
+my feet Go along from me now and wasnt
+I a big fool to have to do with you when its
+nothing but distraction and torment I get
+from the kindness of my heart
+ SARAH  ishoutingi  Ive bet a power of
+strong lads east and west through the world
+and are you thinking Id turn back from a
+priest Leave the road now or maybe I
+would strike yourself
+ PRIEST You would not Sarah Casey
+Ive no fear for the lot of you but let you
+walk off Im saying and not be coming where
+
+
+47
+
+youve no business and screeching tumult and
+murder at the doorway of the church
+ SARAH Ill not go a step till I have her
+head broke or till Im wed with himself If
+you want to get shut of us let you marry us
+now for Im thinking the ten shillings in gold
+is a good price for the like of you and you
+near burst with the fat
+ PRIEST I wouldnt have you coming in
+on me and soiling my church for theres
+nothing at all Im thinking would keep the
+like of you from hell iHe throws down the
+ten shillings on the groundi Gather up your
+gold now and begone from my sight for if
+ever I set an eye on you again youll hear me
+telling the peelers who it was stole the black
+ass belonging to Philly OCullen and whose
+hay it is the grey ass does be eating
+ SARAH Youd do that
+ PRIEST I would surely
+ SARAH If you do youll be getting all
+the tinkers from Wicklow and Wexford and
+the County Meath to put up block tin in the
+place of glass to shield your windows where
+you do be looking out and blinking at the girls
+Its hard set youll be that time Im telling
+you to fill the depth of your belly the long
+days of Lent for we wouldnt leave a laying
+pullet in your yard at all
+
+
+48
+
+ PRIEST  ilosing his temper finallyi  Go
+on now or Ill send the Lords of Justice a
+dated story of your villainies  burning
+stealing robbing raping to this mortal day
+Go on now Im saying if youd run from
+Kilmainham or the rope itself
+ MICHAEL  itaking off his coati  Is it
+run from the like of you holy father Go up
+to your own shanty or Ill beat you with the
+asss reins till the world would hear you roar
+ing from this place to the coast of Clare
+ PRIEST Is it lift your hand upon myself
+when the Lord would blight your members
+if youd touch me now Go on from this
+ iHe gives him a shovei
+ MICHAEL Blight me is it Take it
+then your reverence and God help you so
+ iHe runs at him with the reinsi
+ PRIEST  iruns up to ditch crying outi 
+There are the peelers passing by the grace of
+God  hey below
+ MARY  iclapping her hand over his
+mouthi  Knock him down on the road they
+didnt hear him at all
+ iMichael pulls him downi
+ SARAH Gag his jaws
+ MARY Stuff the sacking in his teeth
+ iThey gag him with the sack that had
+ the can in iti
+
+
+49
+
+ SARAH Tie the bag around his head
+and if the peelers come well put him head
+first in the boghole is beyond the ditch
+ iThey tie him up in some sackingi
+ MICHAEL  ito Maryi  Keep him quiet
+and the rags tight on him for fear hed
+screech iHe goes back to their campi
+Hurry with the things Sarah Casey The
+peelers arent coming this way and maybe
+well get off from them now
+ iThey bundle the things together in
+ wild haste the priest wriggling and
+ struggling about on the ground with
+ old Mary trying to keep him quieti
+ MARY  ipatting his headi  Be quiet
+your reverence What is it ails you with
+your wrigglings now Is it choking maybe
+iShe puts her hand under the sack and feels
+his mouth patting him on the backi Its
+only letting on you are holy father for your
+nose is blowing back and forward as easy as
+an east wind on an April day iIn a soothing
+voicei There now holy father let you stay
+easy Im telling you and learn a little sense
+and patience the way youll not be so airy
+again going to rob poor sinners of their scraps
+of gold iHe gets quieteri Thats a good
+boy you are now your reverence and let you
+not be uneasy for we wouldnt hurt you at
+
+
+50
+
+all Its sick and sorry we are to tease you
+but what did you want meddling with the
+like of us when its a long time we are going
+our own ways  father and son and his son
+after him or mother and daughter and her
+own daughter again  and its little need we
+ever had of going up into a church and swear
+ing  Im told theres swearing with it  a
+word no man would believe or with drawing
+rings on our fingers would be cutting our
+skins maybe when wed be taking the ass from
+the shafts and pulling the straps the time
+theyd be slippy with going around beneath
+the heavens in rains falling
+ MICHAEL  iwho has finished bundling
+up the things comes over to Sarahi  Were
+fixed now and I have a mind to run him in
+a boghole the way hell not be tattling to the
+peelers of our games today
+ SARAH Youd have a right too Im
+thinking
+ MARY  isoothinglyi  Let you not be
+rough with him Sarah Casey and he after
+drinking his sup of porter with us at the fall
+of night Maybe hed swear a mighty oath
+he wouldnt harm us and then wed safer
+loose him for if we went to drown him
+theyd maybe hang the batch of us man and
+child and woman and the ass itself
+
+
+51
+
+ MICHAEL What would he care for an
+oath
+ MARY Dont you know his like do live
+in terror of the wrath of God iPutting her
+mouth to the Priests ear in the sackingi
+Would you swear an oath holy father to
+leave us in our freedom and not talk at all
+iPriest nods in sackingi Didnt I tell you
+Look at the poor fellow nodding his head off
+in the bias of the sacks Strip them off from
+him and hell be easy now
+ MICHAEL  ias if speaking to a horsei 
+Hold up holy father
+ iHe pulls the sacking off and shows the
+ priest with his hair on end They free
+ his mouthi
+ MARY Hold him till he swears
+ PRIEST  iin a faint voicei  I swear
+surely If you let me go in peace Ill not
+inform against you or say a thing at all and
+may God forgive me for giving heed unto
+your like today
+ SARAH  iputs the ring on his fingeri 
+Theres the ring holy father to keep you
+minding of your oath until the end of time
+for my hearts scalded with your fooling and
+itll be a long day till I go making talk of
+marriage or the like of that
+ MARY  icomplacently standing up slowi
+
+
+52
+
+ilyi  Shes vexed now your reverence and
+let you not mind her at all for shes right
+surely and its little need we ever had of the
+like of you to get us our bit to eat and our
+bit to drink and our time of love when we
+were young men and women and were fine
+to look at
+ MICHAEL Hurry on now Hes a great
+man to have kept us from fooling our gold
+and well have a great time drinking that bit
+with the trampers on the green of Clash
+ iThey gather up their things The priest
+ stands upi
+ PRIEST  ilifting up his handi  Ive
+sworn not to call the hand of man upon your
+crimes today but I havent sworn I wouldnt
+call the fire of heaven from the hand of the
+Almighty God
+ iHe begins saying a Latin malediction in
+ a loud ecclesiastical voicei
+ MARY Theres an old villain
+ All  itogetheri  Run run Run for
+your lives
+ iThey rush out leaving the Priest master
+ of the situationi
+
+CURTAIN
+
+
+
+
+
+End of Project Gutenberg Etext of The Tinkers Wedding by J M Synge
+

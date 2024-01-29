@@ -1,0 +1,5858 @@
+The Project Gutenberg EBook of Census of Population and Housing 1990 by 
+United States Bureau of the Census
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever You may copy it give it away or
+reuse it under the terms of the Project Gutenberg License included
+with this eBook or online at wwwgutenbergnet
+
+
+Title Census of Population and Housing 1990
+
+Author United States Bureau of the Census
+
+Posting Date December 21 2011 EBook 29
+Release Date August 1992
+
+Language English
+
+Character set encoding ASCII
+
+ START OF THIS PROJECT GUTENBERG EBOOK US CENSUS OF POPULATION 1990 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ THE 1990 UNITED STATES CENSUS
+
+
+
+1990 Census of Population and Housing Page 1
+  Alabama
+
+ Total population 4040587
+SEX
+ Male 1936162
+ Female 2104425
+AGE
+ Under 5 years 283295
+ 5 to 17 years 775493
+ 18 to 20 years 205557
+ 21 to 24 years 237778
+ 25 to 44 years 1232067
+ 45 to 54 years 419421
+ 55 to 59 years 183677
+ 60 to 64 years 180310
+ 65 to 74 years 301218
+ 75 to 84 years 173264
+ 85 years and over 48507
+ Median age 330
+Under 18 years 1058788
+ Percent of total population 262
+65 years and over 522989
+ Percent of total population 129
+HOUSEHOLDS BY TYPE
+Total households 1506790
+ Family households families 1103835
+ Marriedcouple families 858327
+ Percent of total households 570
+ Other family male householder 44288
+ Other family female householder 201220
+ Nonfamily households 402955
+ Percent of total households 267
+ Householder living alone 358078
+ Householder 65 years and over 154191
+ Persons living in households 3948185
+ Persons per household 262
+GROUP QUARTERS
+ Persons living in group quarters 92402
+ Institutionalized persons 51583
+ Other persons in group quarters 40819
+RACE AND HISPANIC ORIGIN
+ White 2975797
+ Black 1020705
+ Percent of total population 253
+ American Indian Eskimo or Aleut 16506
+ Percent of total population 04
+ Asian or Pacific Islander 21797
+ Percent of total population 05
+ Other race 5782
+ Hispanic origin of any race 24629
+ Percent of total population 06
+
+
+1990 Census of Population and Housing Page 2
+  Alabama
+
+ Total housing units 1670379
+OCCUPANCY AND TENURE
+ Occupied housing units 1506790
+ Owner occupied 1061897
+ Percent owner occupied 705
+ Renter occupied 444893
+ Vacant housing units 163589
+ For seasonal recreational or occasional use 35609
+ Homeowner vacancy rate percent 18
+ Rental vacancy rate percent 94
+ Persons per owneroccupied unit 270
+ Persons per renteroccupied unit 244
+ Units with over 1 person per room 52927
+UNITS IN STRUCTURE
+ 1unit detached 1133927
+ 1unit attached 31943
+ 2 to 4 units 96104
+ 5 to 9 units 66413
+ 10 or more units 102462
+ Mobile home trailer other 239530
+VALUE
+ Specified owneroccupied units 753827
+ Less than 50000 343854
+ 50000 to 99000 310737
+ 100000 to 149000 62459
+ 150000 to 199999 20129
+ 200000 to 299999 11264
+ 300000 or more 5384
+ Median dollars 53700
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 386179
+ Less than 250 214363
+ 250 to 499 155027
+ 500 to 749 14380
+ 750 to 999 1594
+ 1000 or more 815
+ Median dollars 229
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1506790
+ White 1159263
+ Black 334513
+ Percent of occupied units 222
+ American Indian Eskimo or Aleut 5288
+ Percent of occupied units 04
+ Asian or Pacific Islander 6077
+ Percent of occupied units 04
+ Other race 1649
+ Hispanic origin of any race 7373
+ Percent of occupied units 05
+
+
+
+1990 Census of Population and Housing Page 1
+  Alaska
+
+ Total population 550043
+SEX
+ Male 289867
+ Female 260176
+AGE
+ Under 5 years 54897
+ 5 to 17 years 117447
+ 18 to 20 years 22934
+ 21 to 24 years 32913
+ 25 to 44 years 216062
+ 45 to 54 years 53929
+ 55 to 59 years 16595
+ 60 to 64 years 12897
+ 65 to 74 years 15548
+ 75 to 84 years 5570
+ 85 years and over 1251
+ Median age 294
+Under 18 years 172344
+ Percent of total population 313
+65 years and over 22369
+ Percent of total population 41
+HOUSEHOLDS BY TYPE
+Total households 188915
+ Family households families 132837
+ Marriedcouple families 106079
+ Percent of total households 562
+ Other family male householder 8529
+ Other family female householder 18229
+ Nonfamily households 56078
+ Percent of total households 297
+ Householder living alone 41826
+ Householder 65 years and over 5737
+ Persons living in households 529342
+ Persons per household 280
+GROUP QUARTERS
+ Persons living in group quarters 20701
+ Institutionalized persons 4574
+ Other persons in group quarters 16127
+RACE AND HISPANIC ORIGIN
+ White 415492
+ Black 22451
+ Percent of total population 41
+ American Indian Eskimo or Aleut 85698
+ Percent of total population 156
+ Asian or Pacific Islander 19728
+ Percent of total population 36
+ Other race 6674
+ Hispanic origin of any race 17803
+ Percent of total population 32
+
+
+1990 Census of Population and Housing Page 2
+  Alaska
+
+ Total housing units 232608
+OCCUPANCY AND TENURE
+ Occupied housing units 188915
+ Owner occupied 105989
+ Percent owner occupied 561
+ Renter occupied 82926
+ Vacant housing units 43693
+ For seasonal recreational or occasional use 16991
+ Homeowner vacancy rate percent 45
+ Rental vacancy rate percent 85
+ Persons per owneroccupied unit 297
+ Persons per renteroccupied unit 258
+ Units with over 1 person per room 16201
+UNITS IN STRUCTURE
+ 1unit detached 124185
+ 1unit attached 15963
+ 2 to 4 units 30358
+ 5 to 9 units 16171
+ 10 or more units 21229
+ Mobile home trailer other 24702
+VALUE
+ Specified owneroccupied units 77527
+ Less than 50000 10989
+ 50000 to 99000 31862
+ 100000 to 149000 23012
+ 150000 to 199999 7528
+ 200000 to 299999 3210
+ 300000 or more 926
+ Median dollars 94400
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 70579
+ Less than 250 5785
+ 250 to 499 29167
+ 500 to 749 23750
+ 750 to 999 8455
+ 1000 or more 3422
+ Median dollars 503
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 188915
+ White 153215
+ Black 6927
+ Percent of occupied units 37
+ American Indian Eskimo or Aleut 22305
+ Percent of occupied units 118
+ Asian or Pacific Islander 4674
+ Percent of occupied units 25
+ Other race 1794
+ Hispanic origin of any race 4671
+ Percent of occupied units 25
+
+
+
+1990 Census of Population and Housing Page 1
+  Arizona
+
+ Total population 3665228
+SEX
+ Male 1810691
+ Female 1854537
+AGE
+ Under 5 years 292859
+ 5 to 17 years 688260
+ 18 to 20 years 172063
+ 21 to 24 years 220617
+ 25 to 44 years 1163607
+ 45 to 54 years 349516
+ 55 to 59 years 146658
+ 60 to 64 years 152874
+ 65 to 74 years 290044
+ 75 to 84 years 151013
+ 85 years and over 37717
+ Median age 322
+Under 18 years 981119
+ Percent of total population 268
+65 years and over 478774
+ Percent of total population 131
+HOUSEHOLDS BY TYPE
+Total households 1368843
+ Family households families 940106
+ Marriedcouple families 747806
+ Percent of total households 546
+ Other family male householder 49980
+ Other family female householder 142320
+ Nonfamily households 428737
+ Percent of total households 313
+ Householder living alone 337681
+ Householder 65 years and over 119287
+ Persons living in households 3584545
+ Persons per household 262
+GROUP QUARTERS
+ Persons living in group quarters 80683
+ Institutionalized persons 41508
+ Other persons in group quarters 39175
+RACE AND HISPANIC ORIGIN
+ White 2963186
+ Black 110524
+ Percent of total population 30
+ American Indian Eskimo or Aleut 203527
+ Percent of total population 56
+ Asian or Pacific Islander 55206
+ Percent of total population 15
+ Other race 332785
+ Hispanic origin of any race 688338
+ Percent of total population 188
+
+
+1990 Census of Population and Housing Page 2
+  Arizona
+
+ Total housing units 1659430
+OCCUPANCY AND TENURE
+ Occupied housing units 1368843
+ Owner occupied 878561
+ Percent owner occupied 642
+ Renter occupied 490282
+ Vacant housing units 290587
+ For seasonal recreational or occasional use 96104
+ Homeowner vacancy rate percent 37
+ Rental vacancy rate percent 153
+ Persons per owneroccupied unit 271
+ Persons per renteroccupied unit 246
+ Units with over 1 person per room 101636
+UNITS IN STRUCTURE
+ 1unit detached 867884
+ 1unit attached 109989
+ 2 to 4 units 88371
+ 5 to 9 units 61111
+ 10 or more units 257208
+ Mobile home trailer other 274867
+VALUE
+ Specified owneroccupied units 668718
+ Less than 50000 98705
+ 50000 to 99000 372653
+ 100000 to 149000 118845
+ 150000 to 199999 40638
+ 200000 to 299999 23902
+ 300000 or more 13975
+ Median dollars 80100
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 456937
+ Less than 250 73866
+ 250 to 499 290538
+ 500 to 749 76518
+ 750 to 999 10461
+ 1000 or more 5554
+ Median dollars 370
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1368843
+ White 1177349
+ Black 37140
+ Percent of occupied units 27
+ American Indian Eskimo or Aleut 49894
+ Percent of occupied units 36
+ Asian or Pacific Islander 15934
+ Percent of occupied units 12
+ Other race 88526
+ Hispanic origin of any race 184942
+ Percent of occupied units 135
+
+
+
+1990 Census of Population and Housing Page 1
+  Arkansas
+
+ Total population 2350725
+SEX
+ Male 1133076
+ Female 1217649
+AGE
+ Under 5 years 164667
+ 5 to 17 years 456464
+ 18 to 20 years 109879
+ 21 to 24 years 127177
+ 25 to 44 years 685748
+ 45 to 54 years 243337
+ 55 to 59 years 105811
+ 60 to 64 years 107584
+ 65 to 74 years 195961
+ 75 to 84 years 118881
+ 85 years and over 35216
+ Median age 338
+Under 18 years 621131
+ Percent of total population 264
+65 years and over 350058
+ Percent of total population 149
+HOUSEHOLDS BY TYPE
+Total households 891179
+ Family households families 651555
+ Marriedcouple families 527358
+ Percent of total households 592
+ Other family male householder 25273
+ Other family female householder 98924
+ Nonfamily households 239624
+ Percent of total households 269
+ Householder living alone 213778
+ Householder 65 years and over 103386
+ Persons living in households 2292393
+ Persons per household 257
+GROUP QUARTERS
+ Persons living in group quarters 58332
+ Institutionalized persons 34223
+ Other persons in group quarters 24109
+RACE AND HISPANIC ORIGIN
+ White 1944744
+ Black 373912
+ Percent of total population 159
+ American Indian Eskimo or Aleut 12773
+ Percent of total population 05
+ Asian or Pacific Islander 12530
+ Percent of total population 05
+ Other race 6766
+ Hispanic origin of any race 19876
+ Percent of total population 08
+
+
+1990 Census of Population and Housing Page 2
+  Arkansas
+
+ Total housing units 1000667
+OCCUPANCY AND TENURE
+ Occupied housing units 891179
+ Owner occupied 619938
+ Percent owner occupied 696
+ Renter occupied 271241
+ Vacant housing units 109488
+ For seasonal recreational or occasional use 18224
+ Homeowner vacancy rate percent 24
+ Rental vacancy rate percent 104
+ Persons per owneroccupied unit 261
+ Persons per renteroccupied unit 248
+ Units with over 1 person per room 33197
+UNITS IN STRUCTURE
+ 1unit detached 708751
+ 1unit attached 18175
+ 2 to 4 units 60820
+ 5 to 9 units 27024
+ 10 or more units 44454
+ Mobile home trailer other 141443
+VALUE
+ Specified owneroccupied units 427676
+ Less than 50000 235586
+ 50000 to 99000 156865
+ 100000 to 149000 23328
+ 150000 to 199999 6810
+ 200000 to 299999 3519
+ 300000 or more 1568
+ Median dollars 46300
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 227643
+ Less than 250 129535
+ 250 to 499 90452
+ 500 to 749 6204
+ 750 to 999 895
+ 1000 or more 557
+ Median dollars 230
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 891179
+ White 760287
+ Black 121338
+ Percent of occupied units 136
+ American Indian Eskimo or Aleut 4539
+ Percent of occupied units 05
+ Asian or Pacific Islander 3228
+ Percent of occupied units 04
+ Other race 1787
+ Hispanic origin of any race 5350
+ Percent of occupied units 06
+
+
+
+1990 Census of Population and Housing Page 1
+  California
+
+ Total population 29760021
+SEX
+ Male 14897627
+ Female 14862394
+AGE
+ Under 5 years 2397715
+ 5 to 17 years 5353010
+ 18 to 20 years 1411200
+ 21 to 24 years 2001057
+ 25 to 44 years 10325692
+ 45 to 54 years 2902569
+ 55 to 59 years 1133907
+ 60 to 64 years 1099319
+ 65 to 74 years 1857221
+ 75 to 84 years 979224
+ 85 years and over 299107
+ Median age 315
+Under 18 years 7750725
+ Percent of total population 260
+65 years and over 3135552
+ Percent of total population 105
+HOUSEHOLDS BY TYPE
+Total households 10381206
+ Family households families 7139394
+ Marriedcouple families 5469522
+ Percent of total households 527
+ Other family male householder 477692
+ Other family female householder 1192180
+ Nonfamily households 3241812
+ Percent of total households 312
+ Householder living alone 2429867
+ Householder 65 years and over 818520
+ Persons living in households 29008161
+ Persons per household 279
+GROUP QUARTERS
+ Persons living in group quarters 751860
+ Institutionalized persons 376374
+ Other persons in group quarters 375486
+RACE AND HISPANIC ORIGIN
+ White 20524327
+ Black 2208801
+ Percent of total population 74
+ American Indian Eskimo or Aleut 242164
+ Percent of total population 08
+ Asian or Pacific Islander 2845659
+ Percent of total population 96
+ Other race 3939070
+ Hispanic origin of any race 7687938
+ Percent of total population 258
+
+
+1990 Census of Population and Housing Page 2
+  California
+
+ Total housing units 11182882
+OCCUPANCY AND TENURE
+ Occupied housing units 10381206
+ Owner occupied 5773943
+ Percent owner occupied 556
+ Renter occupied 4607263
+ Vacant housing units 801676
+ For seasonal recreational or occasional use 195385
+ Homeowner vacancy rate percent 20
+ Rental vacancy rate percent 59
+ Persons per owneroccupied unit 284
+ Persons per renteroccupied unit 274
+ Units with over 1 person per room 1275377
+UNITS IN STRUCTURE
+ 1unit detached 6119265
+ 1unit attached 811684
+ 2 to 4 units 966355
+ 5 to 9 units 705704
+ 10 or more units 1899934
+ Mobile home trailer other 679940
+VALUE
+ Specified owneroccupied units 4690264
+ Less than 50000 119023
+ 50000 to 99000 636643
+ 100000 to 149000 812098
+ 150000 to 199999 851540
+ 200000 to 299999 1150992
+ 300000 or more 1119968
+ Median dollars 195500
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 4400105
+ Less than 250 330342
+ 250 to 499 1385013
+ 500 to 749 1692456
+ 750 to 999 668470
+ 1000 or more 323824
+ Median dollars 561
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 10381206
+ White 7871635
+ Black 751563
+ Percent of occupied units 72
+ American Indian Eskimo or Aleut 78848
+ Percent of occupied units 08
+ Asian or Pacific Islander 777913
+ Percent of occupied units 75
+ Other race 901247
+ Hispanic origin of any race 1836989
+ Percent of occupied units 177
+
+
+
+1990 Census of Population and Housing Page 1
+  Colorado
+
+ Total population 3294394
+SEX
+ Male 1631295
+ Female 1663099
+AGE
+ Under 5 years 252893
+ 5 to 17 years 608373
+ 18 to 20 years 148197
+ 21 to 24 years 187328
+ 25 to 44 years 1179936
+ 45 to 54 years 336671
+ 55 to 59 years 130193
+ 60 to 64 years 121360
+ 65 to 74 years 194527
+ 75 to 84 years 101963
+ 85 years and over 32953
+ Median age 325
+Under 18 years 861266
+ Percent of total population 261
+65 years and over 329443
+ Percent of total population 100
+HOUSEHOLDS BY TYPE
+Total households 1282489
+ Family households families 854214
+ Marriedcouple families 690292
+ Percent of total households 538
+ Other family male householder 39353
+ Other family female householder 124569
+ Nonfamily households 428275
+ Percent of total households 334
+ Householder living alone 340962
+ Householder 65 years and over 95849
+ Persons living in households 3214922
+ Persons per household 251
+GROUP QUARTERS
+ Persons living in group quarters 79472
+ Institutionalized persons 35976
+ Other persons in group quarters 43496
+RACE AND HISPANIC ORIGIN
+ White 2905474
+ Black 133146
+ Percent of total population 40
+ American Indian Eskimo or Aleut 27776
+ Percent of total population 08
+ Asian or Pacific Islander 59862
+ Percent of total population 18
+ Other race 168136
+ Hispanic origin of any race 424302
+ Percent of total population 129
+
+
+1990 Census of Population and Housing Page 2
+  Colorado
+
+ Total housing units 1477349
+OCCUPANCY AND TENURE
+ Occupied housing units 1282489
+ Owner occupied 798277
+ Percent owner occupied 622
+ Renter occupied 484212
+ Vacant housing units 194860
+ For seasonal recreational or occasional use 63814
+ Homeowner vacancy rate percent 33
+ Rental vacancy rate percent 114
+ Persons per owneroccupied unit 266
+ Persons per renteroccupied unit 225
+ Units with over 1 person per room 38139
+UNITS IN STRUCTURE
+ 1unit detached 884431
+ 1unit attached 87437
+ 2 to 4 units 89997
+ 5 to 9 units 63855
+ 10 or more units 249360
+ Mobile home trailer other 102269
+VALUE
+ Specified owneroccupied units 637629
+ Less than 50000 84061
+ 50000 to 99000 363091
+ 100000 to 149000 122845
+ 150000 to 199999 37447
+ 200000 to 299999 19930
+ 300000 or more 10255
+ Median dollars 82700
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 452881
+ Less than 250 88745
+ 250 to 499 271347
+ 500 to 749 76533
+ 750 to 999 10937
+ 1000 or more 5319
+ Median dollars 362
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1282489
+ White 1154983
+ Black 49255
+ Percent of occupied units 38
+ American Indian Eskimo or Aleut 8959
+ Percent of occupied units 07
+ Asian or Pacific Islander 17099
+ Percent of occupied units 13
+ Other race 52193
+ Hispanic origin of any race 130704
+ Percent of occupied units 102
+
+
+
+1990 Census of Population and Housing Page 1
+  Connecticut
+
+ Total population 3287116
+SEX
+ Male 1592873
+ Female 1694243
+AGE
+ Under 5 years 228356
+ 5 to 17 years 521225
+ 18 to 20 years 145274
+ 21 to 24 years 200159
+ 25 to 44 years 1094878
+ 45 to 54 years 356042
+ 55 to 59 years 147022
+ 60 to 64 years 148253
+ 65 to 74 years 256237
+ 75 to 84 years 142677
+ 85 years and over 46993
+ Median age 344
+Under 18 years 749581
+ Percent of total population 228
+65 years and over 445907
+ Percent of total population 136
+HOUSEHOLDS BY TYPE
+Total households 1230479
+ Family households families 864493
+ Marriedcouple families 684660
+ Percent of total households 556
+ Other family male householder 39448
+ Other family female householder 140385
+ Nonfamily households 365986
+ Percent of total households 297
+ Householder living alone 297161
+ Householder 65 years and over 121918
+ Persons living in households 3185949
+ Persons per household 259
+GROUP QUARTERS
+ Persons living in group quarters 101167
+ Institutionalized persons 48424
+ Other persons in group quarters 52743
+RACE AND HISPANIC ORIGIN
+ White 2859353
+ Black 274269
+ Percent of total population 83
+ American Indian Eskimo or Aleut 6654
+ Percent of total population 02
+ Asian or Pacific Islander 50698
+ Percent of total population 15
+ Other race 96142
+ Hispanic origin of any race 213116
+ Percent of total population 65
+
+
+1990 Census of Population and Housing Page 2
+  Connecticut
+
+ Total housing units 1320850
+OCCUPANCY AND TENURE
+ Occupied housing units 1230479
+ Owner occupied 807481
+ Percent owner occupied 656
+ Renter occupied 422998
+ Vacant housing units 90371
+ For seasonal recreational or occasional use 20428
+ Homeowner vacancy rate percent 19
+ Rental vacancy rate percent 69
+ Persons per owneroccupied unit 274
+ Persons per renteroccupied unit 230
+ Units with over 1 person per room 28237
+UNITS IN STRUCTURE
+ 1unit detached 748626
+ 1unit attached 66681
+ 2 to 4 units 243600
+ 5 to 9 units 75497
+ 10 or more units 155492
+ Mobile home trailer other 30954
+VALUE
+ Specified owneroccupied units 643500
+ Less than 50000 4582
+ 50000 to 99000 36715
+ 100000 to 149000 165331
+ 150000 to 199999 188019
+ 200000 to 299999 150321
+ 300000 or more 98532
+ Median dollars 177800
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 401254
+ Less than 250 56694
+ 250 to 499 135109
+ 500 to 749 152144
+ 750 to 999 38238
+ 1000 or more 19069
+ Median dollars 510
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1230479
+ White 1096812
+ Black 90882
+ Percent of occupied units 74
+ American Indian Eskimo or Aleut 2383
+ Percent of occupied units 02
+ Asian or Pacific Islander 13558
+ Percent of occupied units 11
+ Other race 26844
+ Hispanic origin of any race 61580
+ Percent of occupied units 50
+
+
+
+1990 Census of Population and Housing Page 1
+  Delaware
+
+ Total population 666168
+SEX
+ Male 322968
+ Female 343200
+AGE
+ Under 5 years 48824
+ 5 to 17 years 114517
+ 18 to 20 years 33586
+ 21 to 24 years 42647
+ 25 to 44 years 217981
+ 45 to 54 years 68114
+ 55 to 59 years 29861
+ 60 to 64 years 29903
+ 65 to 74 years 49596
+ 75 to 84 years 23997
+ 85 years and over 7142
+ Median age 329
+Under 18 years 163341
+ Percent of total population 245
+65 years and over 80735
+ Percent of total population 121
+HOUSEHOLDS BY TYPE
+Total households 247497
+ Family households families 175867
+ Marriedcouple families 137983
+ Percent of total households 558
+ Other family male householder 8565
+ Other family female householder 29319
+ Nonfamily households 71630
+ Percent of total households 289
+ Householder living alone 57451
+ Householder 65 years and over 21566
+ Persons living in households 646097
+ Persons per household 261
+GROUP QUARTERS
+ Persons living in group quarters 20071
+ Institutionalized persons 8662
+ Other persons in group quarters 11409
+RACE AND HISPANIC ORIGIN
+ White 535094
+ Black 112460
+ Percent of total population 169
+ American Indian Eskimo or Aleut 2019
+ Percent of total population 03
+ Asian or Pacific Islander 9057
+ Percent of total population 14
+ Other race 7538
+ Hispanic origin of any race 15820
+ Percent of total population 24
+
+
+1990 Census of Population and Housing Page 2
+  Delaware
+
+ Total housing units 289919
+OCCUPANCY AND TENURE
+ Occupied housing units 247497
+ Owner occupied 173813
+ Percent owner occupied 702
+ Renter occupied 73684
+ Vacant housing units 42422
+ For seasonal recreational or occasional use 19328
+ Homeowner vacancy rate percent 23
+ Rental vacancy rate percent 78
+ Persons per owneroccupied unit 271
+ Persons per renteroccupied unit 238
+ Units with over 1 person per room 5624
+UNITS IN STRUCTURE
+ 1unit detached 156013
+ 1unit attached 40161
+ 2 to 4 units 13919
+ 5 to 9 units 10148
+ 10 or more units 32612
+ Mobile home trailer other 37066
+VALUE
+ Specified owneroccupied units 137526
+ Less than 50000 11847
+ 50000 to 99000 56838
+ 100000 to 149000 38463
+ 150000 to 199999 15640
+ 200000 to 299999 10479
+ 300000 or more 4259
+ Median dollars 100100
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 68249
+ Less than 250 12669
+ 250 to 499 36047
+ 500 to 749 16687
+ 750 to 999 1835
+ 1000 or more 1011
+ Median dollars 425
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 247497
+ White 204968
+ Black 37229
+ Percent of occupied units 150
+ American Indian Eskimo or Aleut 773
+ Percent of occupied units 03
+ Asian or Pacific Islander 2538
+ Percent of occupied units 10
+ Other race 1989
+ Hispanic origin of any race 4497
+ Percent of occupied units 18
+
+
+
+1990 Census of Population and Housing Page 1
+  District of Columbia
+
+ Total population 606900
+SEX
+ Male 282970
+ Female 323930
+AGE
+ Under 5 years 37351
+ 5 to 17 years 79741
+ 18 to 20 years 35291
+ 21 to 24 years 47267
+ 25 to 44 years 216472
+ 45 to 54 years 62031
+ 55 to 59 years 25441
+ 60 to 64 years 25459
+ 65 to 74 years 44553
+ 75 to 84 years 25447
+ 85 years and over 7847
+ Median age 335
+Under 18 years 117092
+ Percent of total population 193
+65 years and over 77847
+ Percent of total population 128
+HOUSEHOLDS BY TYPE
+Total households 249634
+ Family households families 122087
+ Marriedcouple families 63110
+ Percent of total households 253
+ Other family male householder 10402
+ Other family female householder 48575
+ Nonfamily households 127547
+ Percent of total households 511
+ Householder living alone 103626
+ Householder 65 years and over 27237
+ Persons living in households 565183
+ Persons per household 226
+GROUP QUARTERS
+ Persons living in group quarters 41717
+ Institutionalized persons 14070
+ Other persons in group quarters 27647
+RACE AND HISPANIC ORIGIN
+ White 179667
+ Black 399604
+ Percent of total population 658
+ American Indian Eskimo or Aleut 1466
+ Percent of total population 02
+ Asian or Pacific Islander 11214
+ Percent of total population 18
+ Other race 14949
+ Hispanic origin of any race 32710
+ Percent of total population 54
+
+
+1990 Census of Population and Housing Page 2
+  District of Columbia
+
+ Total housing units 278489
+OCCUPANCY AND TENURE
+ Occupied housing units 249634
+ Owner occupied 97108
+ Percent owner occupied 389
+ Renter occupied 152526
+ Vacant housing units 28855
+ For seasonal recreational or occasional use 1575
+ Homeowner vacancy rate percent 32
+ Rental vacancy rate percent 79
+ Persons per owneroccupied unit 250
+ Persons per renteroccupied unit 212
+ Units with over 1 person per room 20587
+UNITS IN STRUCTURE
+ 1unit detached 34602
+ 1unit attached 71321
+ 2 to 4 units 30699
+ 5 to 9 units 20783
+ 10 or more units 118237
+ Mobile home trailer other 2847
+VALUE
+ Specified owneroccupied units 71532
+ Less than 50000 1680
+ 50000 to 99000 25247
+ 100000 to 149000 15000
+ 150000 to 199999 6859
+ 200000 to 299999 8372
+ 300000 or more 14374
+ Median dollars 123900
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 148553
+ Less than 250 23897
+ 250 to 499 65510
+ 500 to 749 37629
+ 750 to 999 12668
+ 1000 or more 8849
+ Median dollars 441
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 249634
+ White 88295
+ Black 152356
+ Percent of occupied units 610
+ American Indian Eskimo or Aleut 612
+ Percent of occupied units 02
+ Asian or Pacific Islander 4070
+ Percent of occupied units 16
+ Other race 4301
+ Hispanic origin of any race 10455
+ Percent of occupied units 42
+
+
+
+1990 Census of Population and Housing Page 1
+  Florida
+
+ Total population 12937926
+SEX
+ Male 6261719
+ Female 6676207
+AGE
+ Under 5 years 849596
+ 5 to 17 years 2016641
+ 18 to 20 years 522755
+ 21 to 24 years 692902
+ 25 to 44 years 3927400
+ 45 to 54 years 1291611
+ 55 to 59 years 588552
+ 60 to 64 years 679038
+ 65 to 74 years 1369652
+ 75 to 84 years 789669
+ 85 years and over 210110
+ Median age 364
+Under 18 years 2866237
+ Percent of total population 222
+65 years and over 2369431
+ Percent of total population 183
+HOUSEHOLDS BY TYPE
+Total households 5134869
+ Family households families 3511825
+ Marriedcouple families 2791734
+ Percent of total households 544
+ Other family male householder 171535
+ Other family female householder 548556
+ Nonfamily households 1623044
+ Percent of total households 316
+ Householder living alone 1309954
+ Householder 65 years and over 591468
+ Persons living in households 12630465
+ Persons per household 246
+GROUP QUARTERS
+ Persons living in group quarters 307461
+ Institutionalized persons 173637
+ Other persons in group quarters 133824
+RACE AND HISPANIC ORIGIN
+ White 10749285
+ Black 1759534
+ Percent of total population 136
+ American Indian Eskimo or Aleut 36335
+ Percent of total population 03
+ Asian or Pacific Islander 154302
+ Percent of total population 12
+ Other race 238470
+ Hispanic origin of any race 1574143
+ Percent of total population 122
+
+
+1990 Census of Population and Housing Page 2
+  Florida
+
+ Total housing units 6100262
+OCCUPANCY AND TENURE
+ Occupied housing units 5134869
+ Owner occupied 3452160
+ Percent owner occupied 672
+ Renter occupied 1682709
+ Vacant housing units 965393
+ For seasonal recreational or occasional use 417670
+ Homeowner vacancy rate percent 35
+ Rental vacancy rate percent 124
+ Persons per owneroccupied unit 249
+ Persons per renteroccupied unit 239
+ Units with over 1 person per room 297557
+UNITS IN STRUCTURE
+ 1unit detached 3032769
+ 1unit attached 335798
+ 2 to 4 units 462438
+ 5 to 9 units 320580
+ 10 or more units 1127629
+ Mobile home trailer other 821048
+VALUE
+ Specified owneroccupied units 2378207
+ Less than 50000 433121
+ 50000 to 99000 1239055
+ 100000 to 149000 381899
+ 150000 to 199999 151452
+ 200000 to 299999 100648
+ 300000 or more 72032
+ Median dollars 77100
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 1591461
+ Less than 250 261349
+ 250 to 499 892383
+ 500 to 749 355636
+ 750 to 999 49428
+ 1000 or more 32665
+ Median dollars 402
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 5134869
+ White 4457493
+ Black 553561
+ Percent of occupied units 108
+ American Indian Eskimo or Aleut 13088
+ Percent of occupied units 03
+ Asian or Pacific Islander 42895
+ Percent of occupied units 08
+ Other race 67832
+ Hispanic origin of any race 510849
+ Percent of occupied units 99
+
+
+
+1990 Census of Population and Housing Page 1
+  Georgia
+
+ Total population 6478216
+SEX
+ Male 3144503
+ Female 3333713
+AGE
+ Under 5 years 495535
+ 5 to 17 years 1231768
+ 18 to 20 years 325159
+ 21 to 24 years 413425
+ 25 to 44 years 2190594
+ 45 to 54 years 668951
+ 55 to 59 years 259735
+ 60 to 64 years 238779
+ 65 to 74 years 388051
+ 75 to 84 years 208975
+ 85 years and over 57244
+ Median age 316
+Under 18 years 1727303
+ Percent of total population 267
+65 years and over 654270
+ Percent of total population 101
+HOUSEHOLDS BY TYPE
+Total households 2366615
+ Family households families 1713072
+ Marriedcouple families 1306756
+ Percent of total households 552
+ Other family male householder 76675
+ Other family female householder 329641
+ Nonfamily households 653543
+ Percent of total households 276
+ Householder living alone 537702
+ Householder 65 years and over 185027
+ Persons living in households 6304583
+ Persons per household 266
+GROUP QUARTERS
+ Persons living in group quarters 173633
+ Institutionalized persons 87266
+ Other persons in group quarters 86367
+RACE AND HISPANIC ORIGIN
+ White 4600148
+ Black 1746565
+ Percent of total population 270
+ American Indian Eskimo or Aleut 13348
+ Percent of total population 02
+ Asian or Pacific Islander 75781
+ Percent of total population 12
+ Other race 42374
+ Hispanic origin of any race 108922
+ Percent of total population 17
+
+
+1990 Census of Population and Housing Page 2
+  Georgia
+
+ Total housing units 2638418
+OCCUPANCY AND TENURE
+ Occupied housing units 2366615
+ Owner occupied 1536759
+ Percent owner occupied 649
+ Renter occupied 829856
+ Vacant housing units 271803
+ For seasonal recreational or occasional use 33637
+ Homeowner vacancy rate percent 25
+ Rental vacancy rate percent 122
+ Persons per owneroccupied unit 276
+ Persons per renteroccupied unit 249
+ Units with over 1 person per room 95828
+UNITS IN STRUCTURE
+ 1unit detached 1638847
+ 1unit attached 73412
+ 2 to 4 units 198036
+ 5 to 9 units 167552
+ 10 or more units 232683
+ Mobile home trailer other 327888
+VALUE
+ Specified owneroccupied units 1138775
+ Less than 50000 314490
+ 50000 to 99000 531167
+ 100000 to 149000 163205
+ 150000 to 199999 66878
+ 200000 to 299999 39949
+ 300000 or more 23086
+ Median dollars 71300
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 759499
+ Less than 250 251826
+ 250 to 499 361984
+ 500 to 749 127415
+ 750 to 999 13143
+ 1000 or more 5131
+ Median dollars 344
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 2366615
+ White 1756916
+ Black 574113
+ Percent of occupied units 243
+ American Indian Eskimo or Aleut 4812
+ Percent of occupied units 02
+ Asian or Pacific Islander 20279
+ Percent of occupied units 09
+ Other race 10495
+ Hispanic origin of any race 29873
+ Percent of occupied units 13
+
+
+
+1990 Census of Population and Housing Page 1
+  Hawaii
+
+ Total population 1108229
+SEX
+ Male 563891
+ Female 544338
+AGE
+ Under 5 years 83223
+ 5 to 17 years 196903
+ 18 to 20 years 48549
+ 21 to 24 years 72636
+ 25 to 44 years 379035
+ 45 to 54 years 108775
+ 55 to 59 years 45375
+ 60 to 64 years 48728
+ 65 to 74 years 78653
+ 75 to 84 years 35955
+ 85 years and over 10397
+ Median age 326
+Under 18 years 280126
+ Percent of total population 253
+65 years and over 125005
+ Percent of total population 113
+HOUSEHOLDS BY TYPE
+Total households 356267
+ Family households families 263456
+ Marriedcouple families 210468
+ Percent of total households 591
+ Other family male householder 15579
+ Other family female householder 37409
+ Nonfamily households 92811
+ Percent of total households 261
+ Householder living alone 68985
+ Householder 65 years and over 20933
+ Persons living in households 1070597
+ Persons per household 301
+GROUP QUARTERS
+ Persons living in group quarters 37632
+ Institutionalized persons 7805
+ Other persons in group quarters 29827
+RACE AND HISPANIC ORIGIN
+ White 369616
+ Black 27195
+ Percent of total population 25
+ American Indian Eskimo or Aleut 5099
+ Percent of total population 05
+ Asian or Pacific Islander 685236
+ Percent of total population 618
+ Other race 21083
+ Hispanic origin of any race 81390
+ Percent of total population 73
+
+
+1990 Census of Population and Housing Page 2
+  Hawaii
+
+ Total housing units 389810
+OCCUPANCY AND TENURE
+ Occupied housing units 356267
+ Owner occupied 191911
+ Percent owner occupied 539
+ Renter occupied 164356
+ Vacant housing units 33543
+ For seasonal recreational or occasional use 12806
+ Homeowner vacancy rate percent 08
+ Rental vacancy rate percent 54
+ Persons per owneroccupied unit 319
+ Persons per renteroccupied unit 278
+ Units with over 1 person per room 56708
+UNITS IN STRUCTURE
+ 1unit detached 202990
+ 1unit attached 34041
+ 2 to 4 units 24182
+ 5 to 9 units 22258
+ 10 or more units 100238
+ Mobile home trailer other 6101
+VALUE
+ Specified owneroccupied units 144431
+ Less than 50000 3339
+ 50000 to 99000 13111
+ 100000 to 149000 16706
+ 150000 to 199999 21119
+ 200000 to 299999 39679
+ 300000 or more 50477
+ Median dollars 245300
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 139266
+ Less than 250 15119
+ 250 to 499 36779
+ 500 to 749 43763
+ 750 to 999 25164
+ 1000 or more 18441
+ Median dollars 599
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 356267
+ White 138425
+ Black 7787
+ Percent of occupied units 22
+ American Indian Eskimo or Aleut 1586
+ Percent of occupied units 04
+ Asian or Pacific Islander 202518
+ Percent of occupied units 568
+ Other race 5951
+ Hispanic origin of any race 20176
+ Percent of occupied units 57
+
+
+
+1990 Census of Population and Housing Page 1
+  Idaho
+
+ Total population 1006749
+SEX
+ Male 500956
+ Female 505793
+AGE
+ Under 5 years 80193
+ 5 to 17 years 228212
+ 18 to 20 years 47064
+ 21 to 24 years 51183
+ 25 to 44 years 301968
+ 45 to 54 years 98907
+ 55 to 59 years 39407
+ 60 to 64 years 38550
+ 65 to 74 years 69755
+ 75 to 84 years 40112
+ 85 years and over 11398
+ Median age 315
+Under 18 years 308405
+ Percent of total population 306
+65 years and over 121265
+ Percent of total population 120
+HOUSEHOLDS BY TYPE
+Total households 360723
+ Family households families 263194
+ Marriedcouple families 224198
+ Percent of total households 622
+ Other family male householder 10113
+ Other family female householder 28883
+ Nonfamily households 97529
+ Percent of total households 270
+ Householder living alone 80800
+ Householder 65 years and over 32939
+ Persons living in households 985259
+ Persons per household 273
+GROUP QUARTERS
+ Persons living in group quarters 21490
+ Institutionalized persons 10478
+ Other persons in group quarters 11012
+RACE AND HISPANIC ORIGIN
+ White 950451
+ Black 3370
+ Percent of total population 03
+ American Indian Eskimo or Aleut 13780
+ Percent of total population 14
+ Asian or Pacific Islander 9365
+ Percent of total population 09
+ Other race 29783
+ Hispanic origin of any race 52927
+ Percent of total population 53
+
+
+1990 Census of Population and Housing Page 2
+  Idaho
+
+ Total housing units 413327
+OCCUPANCY AND TENURE
+ Occupied housing units 360723
+ Owner occupied 252734
+ Percent owner occupied 701
+ Renter occupied 107989
+ Vacant housing units 52604
+ For seasonal recreational or occasional use 24252
+ Homeowner vacancy rate percent 20
+ Rental vacancy rate percent 73
+ Persons per owneroccupied unit 282
+ Persons per renteroccupied unit 251
+ Units with over 1 person per room 15199
+UNITS IN STRUCTURE
+ 1unit detached 285885
+ 1unit attached 9102
+ 2 to 4 units 29151
+ 5 to 9 units 11701
+ 10 or more units 17242
+ Mobile home trailer other 60246
+VALUE
+ Specified owneroccupied units 177333
+ Less than 50000 66830
+ 50000 to 99000 89406
+ 100000 to 149000 14237
+ 150000 to 199999 3739
+ 200000 to 299999 1963
+ 300000 or more 1158
+ Median dollars 58200
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 92907
+ Less than 250 42967
+ 250 to 499 44092
+ 500 to 749 4599
+ 750 to 999 938
+ 1000 or more 311
+ Median dollars 261
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 360723
+ White 345484
+ Black 1095
+ Percent of occupied units 03
+ American Indian Eskimo or Aleut 4082
+ Percent of occupied units 11
+ Asian or Pacific Islander 2602
+ Percent of occupied units 07
+ Other race 7460
+ Hispanic origin of any race 13464
+ Percent of occupied units 37
+
+
+
+1990 Census of Population and Housing Page 1
+  Illinois
+
+ Total population 11430602
+SEX
+ Male 5552233
+ Female 5878369
+AGE
+ Under 5 years 848141
+ 5 to 17 years 2098225
+ 18 to 20 years 531971
+ 21 to 24 years 680979
+ 25 to 44 years 3693329
+ 45 to 54 years 1166727
+ 55 to 59 years 485581
+ 60 to 64 years 489104
+ 65 to 74 years 821940
+ 75 to 84 years 467056
+ 85 years and over 147549
+ Median age 328
+Under 18 years 2946366
+ Percent of total population 258
+65 years and over 1436545
+ Percent of total population 126
+HOUSEHOLDS BY TYPE
+Total households 4202240
+ Family households families 2924880
+ Marriedcouple families 2271962
+ Percent of total households 541
+ Other family male householder 147173
+ Other family female householder 505745
+ Nonfamily households 1277360
+ Percent of total households 304
+ Householder living alone 1081113
+ Householder 65 years and over 423740
+ Persons living in households 11143646
+ Persons per household 265
+GROUP QUARTERS
+ Persons living in group quarters 286956
+ Institutionalized persons 149842
+ Other persons in group quarters 137114
+RACE AND HISPANIC ORIGIN
+ White 8952978
+ Black 1694273
+ Percent of total population 148
+ American Indian Eskimo or Aleut 21836
+ Percent of total population 02
+ Asian or Pacific Islander 285311
+ Percent of total population 25
+ Other race 476204
+ Hispanic origin of any race 904446
+ Percent of total population 79
+
+
+1990 Census of Population and Housing Page 2
+  Illinois
+
+ Total housing units 4506275
+OCCUPANCY AND TENURE
+ Occupied housing units 4202240
+ Owner occupied 2699182
+ Percent owner occupied 642
+ Renter occupied 1503058
+ Vacant housing units 304035
+ For seasonal recreational or occasional use 25056
+ Homeowner vacancy rate percent 15
+ Rental vacancy rate percent 80
+ Persons per owneroccupied unit 281
+ Persons per renteroccupied unit 237
+ Units with over 1 person per room 166805
+UNITS IN STRUCTURE
+ 1unit detached 2557169
+ 1unit attached 157771
+ 2 to 4 units 648275
+ 5 to 9 units 290519
+ 10 or more units 663448
+ Mobile home trailer other 189093
+VALUE
+ Specified owneroccupied units 2084708
+ Less than 50000 525054
+ 50000 to 99000 786610
+ 100000 to 149000 403218
+ 150000 to 199999 183679
+ 200000 to 299999 114529
+ 300000 or more 71618
+ Median dollars 80900
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 1416273
+ Less than 250 352318
+ 250 to 499 703816
+ 500 to 749 283237
+ 750 to 999 53525
+ 1000 or more 23377
+ Median dollars 369
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 4202240
+ White 3447865
+ Black 550311
+ Percent of occupied units 131
+ American Indian Eskimo or Aleut 7438
+ Percent of occupied units 02
+ Asian or Pacific Islander 80671
+ Percent of occupied units 19
+ Other race 115955
+ Hispanic origin of any race 229993
+ Percent of occupied units 55
+
+
+
+1990 Census of Population and Housing Page 1
+  Indiana
+
+ Total population 5544159
+SEX
+ Male 2688281
+ Female 2855878
+AGE
+ Under 5 years 398656
+ 5 to 17 years 1057308
+ 18 to 20 years 279864
+ 21 to 24 years 325018
+ 25 to 44 years 1734270
+ 45 to 54 years 570791
+ 55 to 59 years 239692
+ 60 to 64 years 242364
+ 65 to 74 years 402041
+ 75 to 84 years 222404
+ 85 years and over 71751
+ Median age 328
+Under 18 years 1455964
+ Percent of total population 263
+65 years and over 696196
+ Percent of total population 126
+HOUSEHOLDS BY TYPE
+Total households 2065355
+ Family households families 1480351
+ Marriedcouple families 1202020
+ Percent of total households 582
+ Other family male householder 60703
+ Other family female householder 217628
+ Nonfamily households 585004
+ Percent of total households 283
+ Householder living alone 496841
+ Householder 65 years and over 208437
+ Persons living in households 5382167
+ Persons per household 261
+GROUP QUARTERS
+ Persons living in group quarters 161992
+ Institutionalized persons 81686
+ Other persons in group quarters 80306
+RACE AND HISPANIC ORIGIN
+ White 5020700
+ Black 432092
+ Percent of total population 78
+ American Indian Eskimo or Aleut 12720
+ Percent of total population 02
+ Asian or Pacific Islander 37617
+ Percent of total population 07
+ Other race 41030
+ Hispanic origin of any race 98788
+ Percent of total population 18
+
+
+1990 Census of Population and Housing Page 2
+  Indiana
+
+ Total housing units 2246046
+OCCUPANCY AND TENURE
+ Occupied housing units 2065355
+ Owner occupied 1450898
+ Percent owner occupied 702
+ Renter occupied 614457
+ Vacant housing units 180691
+ For seasonal recreational or occasional use 36945
+ Homeowner vacancy rate percent 15
+ Rental vacancy rate percent 83
+ Persons per owneroccupied unit 273
+ Persons per renteroccupied unit 230
+ Units with over 1 person per room 45376
+UNITS IN STRUCTURE
+ 1unit detached 1574160
+ 1unit attached 57445
+ 2 to 4 units 170801
+ 5 to 9 units 99836
+ 10 or more units 167718
+ Mobile home trailer other 176086
+VALUE
+ Specified owneroccupied units 1137766
+ Less than 50000 514285
+ 50000 to 99000 484025
+ 100000 to 149000 92829
+ 150000 to 199999 26991
+ 200000 to 299999 13675
+ 300000 or more 5961
+ Median dollars 53900
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 554678
+ Less than 250 204414
+ 250 to 499 310071
+ 500 to 749 33448
+ 750 to 999 4434
+ 1000 or more 2311
+ Median dollars 291
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 2065355
+ White 1889853
+ Black 149055
+ Percent of occupied units 72
+ American Indian Eskimo or Aleut 4519
+ Percent of occupied units 02
+ Asian or Pacific Islander 10853
+ Percent of occupied units 05
+ Other race 11075
+ Hispanic origin of any race 27571
+ Percent of occupied units 13
+
+
+
+1990 Census of Population and Housing Page 1
+  Iowa
+
+ Total population 2776755
+SEX
+ Male 1344802
+ Female 1431953
+AGE
+ Under 5 years 193203
+ 5 to 17 years 525677
+ 18 to 20 years 131299
+ 21 to 24 years 152414
+ 25 to 44 years 823940
+ 45 to 54 years 274428
+ 55 to 59 years 122335
+ 60 to 64 years 127353
+ 65 to 74 years 226961
+ 75 to 84 years 143890
+ 85 years and over 55255
+ Median age 340
+Under 18 years 718880
+ Percent of total population 259
+65 years and over 426106
+ Percent of total population 153
+HOUSEHOLDS BY TYPE
+Total households 1064325
+ Family households families 740819
+ Marriedcouple families 629893
+ Percent of total households 592
+ Other family male householder 25785
+ Other family female householder 85141
+ Nonfamily households 323506
+ Percent of total households 304
+ Householder living alone 275466
+ Householder 65 years and over 130964
+ Persons living in households 2677235
+ Persons per household 252
+GROUP QUARTERS
+ Persons living in group quarters 99520
+ Institutionalized persons 47841
+ Other persons in group quarters 51679
+RACE AND HISPANIC ORIGIN
+ White 2683090
+ Black 48090
+ Percent of total population 17
+ American Indian Eskimo or Aleut 7349
+ Percent of total population 03
+ Asian or Pacific Islander 25476
+ Percent of total population 09
+ Other race 12750
+ Hispanic origin of any race 32647
+ Percent of total population 12
+
+
+1990 Census of Population and Housing Page 2
+  Iowa
+
+ Total housing units 1143669
+OCCUPANCY AND TENURE
+ Occupied housing units 1064325
+ Owner occupied 745377
+ Percent owner occupied 700
+ Renter occupied 318948
+ Vacant housing units 79344
+ For seasonal recreational or occasional use 14644
+ Homeowner vacancy rate percent 15
+ Rental vacancy rate percent 64
+ Persons per owneroccupied unit 263
+ Persons per renteroccupied unit 225
+ Units with over 1 person per room 16009
+UNITS IN STRUCTURE
+ 1unit detached 852993
+ 1unit attached 17735
+ 2 to 4 units 86956
+ 5 to 9 units 40745
+ 10 or more units 76761
+ Mobile home trailer other 68479
+VALUE
+ Specified owneroccupied units 566559
+ Less than 50000 317781
+ 50000 to 99000 209703
+ 100000 to 149000 27708
+ 150000 to 199999 6959
+ 200000 to 299999 3338
+ 300000 or more 1070
+ Median dollars 45900
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 268439
+ Less than 250 125112
+ 250 to 499 129124
+ 500 to 749 12343
+ 750 to 999 1287
+ 1000 or more 573
+ Median dollars 261
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1064325
+ White 1036774
+ Black 15741
+ Percent of occupied units 15
+ American Indian Eskimo or Aleut 2157
+ Percent of occupied units 02
+ Asian or Pacific Islander 6287
+ Percent of occupied units 06
+ Other race 3366
+ Hispanic origin of any race 8926
+ Percent of occupied units 08
+
+
+
+1990 Census of Population and Housing Page 1
+  Kansas
+
+ Total population 2477574
+SEX
+ Male 1214645
+ Female 1262929
+AGE
+ Under 5 years 188390
+ 5 to 17 years 473224
+ 18 to 20 years 113717
+ 21 to 24 years 140776
+ 25 to 44 years 774499
+ 45 to 54 years 235388
+ 55 to 59 years 103821
+ 60 to 64 years 105188
+ 65 to 74 years 184664
+ 75 to 84 years 115666
+ 85 years and over 42241
+ Median age 329
+Under 18 years 661614
+ Percent of total population 267
+65 years and over 342571
+ Percent of total population 138
+HOUSEHOLDS BY TYPE
+Total households 944726
+ Family households families 658600
+ Marriedcouple families 552495
+ Percent of total households 585
+ Other family male householder 24672
+ Other family female householder 81433
+ Nonfamily households 286126
+ Percent of total households 303
+ Householder living alone 245156
+ Householder 65 years and over 104297
+ Persons living in households 2394809
+ Persons per household 253
+GROUP QUARTERS
+ Persons living in group quarters 82765
+ Institutionalized persons 42896
+ Other persons in group quarters 39869
+RACE AND HISPANIC ORIGIN
+ White 2231986
+ Black 143076
+ Percent of total population 58
+ American Indian Eskimo or Aleut 21965
+ Percent of total population 09
+ Asian or Pacific Islander 31750
+ Percent of total population 13
+ Other race 48797
+ Hispanic origin of any race 93670
+ Percent of total population 38
+
+
+1990 Census of Population and Housing Page 2
+  Kansas
+
+ Total housing units 1044112
+OCCUPANCY AND TENURE
+ Occupied housing units 944726
+ Owner occupied 641762
+ Percent owner occupied 679
+ Renter occupied 302964
+ Vacant housing units 99386
+ For seasonal recreational or occasional use 7336
+ Homeowner vacancy rate percent 23
+ Rental vacancy rate percent 111
+ Persons per owneroccupied unit 264
+ Persons per renteroccupied unit 231
+ Units with over 1 person per room 23690
+UNITS IN STRUCTURE
+ 1unit detached 747318
+ 1unit attached 34868
+ 2 to 4 units 74100
+ 5 to 9 units 34720
+ 10 or more units 74710
+ Mobile home trailer other 78396
+VALUE
+ Specified owneroccupied units 500628
+ Less than 50000 237988
+ 50000 to 99000 199619
+ 100000 to 149000 41114
+ 150000 to 199999 12348
+ 200000 to 299999 6431
+ 300000 or more 3128
+ Median dollars 52200
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 270761
+ Less than 250 108024
+ 250 to 499 135967
+ 500 to 749 22396
+ 750 to 999 2744
+ 1000 or more 1630
+ Median dollars 285
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 944726
+ White 867644
+ Black 48365
+ Percent of occupied units 51
+ American Indian Eskimo or Aleut 6974
+ Percent of occupied units 07
+ Asian or Pacific Islander 8357
+ Percent of occupied units 09
+ Other race 13386
+ Hispanic origin of any race 25606
+ Percent of occupied units 27
+
+
+
+1990 Census of Population and Housing Page 1
+  Kentucky
+
+ Total population 3685296
+SEX
+ Male 1785235
+ Female 1900061
+AGE
+ Under 5 years 250871
+ 5 to 17 years 703223
+ 18 to 20 years 182178
+ 21 to 24 years 217811
+ 25 to 44 years 1159182
+ 45 to 54 years 382366
+ 55 to 59 years 162821
+ 60 to 64 years 159999
+ 65 to 74 years 268226
+ 75 to 84 years 152252
+ 85 years and over 46367
+ Median age 330
+Under 18 years 954094
+ Percent of total population 259
+65 years and over 466845
+ Percent of total population 127
+HOUSEHOLDS BY TYPE
+Total households 1379782
+ Family households families 1015998
+ Marriedcouple families 816732
+ Percent of total households 592
+ Other family male householder 39606
+ Other family female householder 159660
+ Nonfamily households 363784
+ Percent of total households 264
+ Householder living alone 321247
+ Householder 65 years and over 142045
+ Persons living in households 3584120
+ Persons per household 260
+GROUP QUARTERS
+ Persons living in group quarters 101176
+ Institutionalized persons 47609
+ Other persons in group quarters 53567
+RACE AND HISPANIC ORIGIN
+ White 3391832
+ Black 262907
+ Percent of total population 71
+ American Indian Eskimo or Aleut 5769
+ Percent of total population 02
+ Asian or Pacific Islander 17812
+ Percent of total population 05
+ Other race 6976
+ Hispanic origin of any race 21984
+ Percent of total population 06
+
+
+1990 Census of Population and Housing Page 2
+  Kentucky
+
+ Total housing units 1506845
+OCCUPANCY AND TENURE
+ Occupied housing units 1379782
+ Owner occupied 960469
+ Percent owner occupied 696
+ Renter occupied 419313
+ Vacant housing units 127063
+ For seasonal recreational or occasional use 20962
+ Homeowner vacancy rate percent 16
+ Rental vacancy rate percent 82
+ Persons per owneroccupied unit 269
+ Persons per renteroccupied unit 239
+ Units with over 1 person per room 35873
+UNITS IN STRUCTURE
+ 1unit detached 1010860
+ 1unit attached 25285
+ 2 to 4 units 109291
+ 5 to 9 units 65348
+ 10 or more units 96494
+ Mobile home trailer other 199567
+VALUE
+ Specified owneroccupied units 662174
+ Less than 50000 326862
+ 50000 to 99000 260534
+ 100000 to 149000 47479
+ 150000 to 199999 15851
+ 200000 to 299999 8041
+ 300000 or more 3407
+ Median dollars 50500
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 351165
+ Less than 250 175280
+ 250 to 499 160392
+ 500 to 749 12875
+ 750 to 999 1499
+ 1000 or more 1119
+ Median dollars 250
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1379782
+ White 1278806
+ Black 92639
+ Percent of occupied units 67
+ American Indian Eskimo or Aleut 2108
+ Percent of occupied units 02
+ Asian or Pacific Islander 4634
+ Percent of occupied units 03
+ Other race 1595
+ Hispanic origin of any race 6220
+ Percent of occupied units 05
+
+
+
+1990 Census of Population and Housing Page 1
+  Louisiana
+
+ Total population 4219973
+SEX
+ Male 2031386
+ Female 2188587
+AGE
+ Under 5 years 334650
+ 5 to 17 years 892619
+ 18 to 20 years 210010
+ 21 to 24 years 254501
+ 25 to 44 years 1309858
+ 45 to 54 years 406440
+ 55 to 59 years 171927
+ 60 to 64 years 170977
+ 65 to 74 years 275008
+ 75 to 84 years 150350
+ 85 years and over 43633
+ Median age 310
+Under 18 years 1227269
+ Percent of total population 291
+65 years and over 468991
+ Percent of total population 111
+HOUSEHOLDS BY TYPE
+Total households 1499269
+ Family households families 1089882
+ Marriedcouple families 803282
+ Percent of total households 536
+ Other family male householder 52471
+ Other family female householder 234129
+ Nonfamily households 409387
+ Percent of total households 273
+ Householder living alone 356060
+ Householder 65 years and over 137596
+ Persons living in households 4107395
+ Persons per household 274
+GROUP QUARTERS
+ Persons living in group quarters 112578
+ Institutionalized persons 67276
+ Other persons in group quarters 45302
+RACE AND HISPANIC ORIGIN
+ White 2839138
+ Black 1299281
+ Percent of total population 308
+ American Indian Eskimo or Aleut 18541
+ Percent of total population 04
+ Asian or Pacific Islander 41099
+ Percent of total population 10
+ Other race 21914
+ Hispanic origin of any race 93044
+ Percent of total population 22
+
+
+1990 Census of Population and Housing Page 2
+  Louisiana
+
+ Total housing units 1716241
+OCCUPANCY AND TENURE
+ Occupied housing units 1499269
+ Owner occupied 987919
+ Percent owner occupied 659
+ Renter occupied 511350
+ Vacant housing units 216972
+ For seasonal recreational or occasional use 30333
+ Homeowner vacancy rate percent 27
+ Rental vacancy rate percent 125
+ Persons per owneroccupied unit 283
+ Persons per renteroccupied unit 257
+ Units with over 1 person per room 89268
+UNITS IN STRUCTURE
+ 1unit detached 1083921
+ 1unit attached 79002
+ 2 to 4 units 152060
+ 5 to 9 units 58819
+ 10 or more units 124916
+ Mobile home trailer other 217523
+VALUE
+ Specified owneroccupied units 733914
+ Less than 50000 289121
+ 50000 to 99000 344457
+ 100000 to 149000 62958
+ 150000 to 199999 19800
+ 200000 to 299999 11450
+ 300000 or more 6128
+ Median dollars 58500
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 452077
+ Less than 250 211769
+ 250 to 499 213862
+ 500 to 749 21781
+ 750 to 999 3209
+ 1000 or more 1456
+ Median dollars 260
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1499269
+ White 1069650
+ Black 406880
+ Percent of occupied units 271
+ American Indian Eskimo or Aleut 5686
+ Percent of occupied units 04
+ Asian or Pacific Islander 10404
+ Percent of occupied units 07
+ Other race 6649
+ Hispanic origin of any race 29990
+ Percent of occupied units 20
+
+
+
+
+1990 Census of Population and Housing Page 1
+  Maine
+
+ Total population 1227928
+SEX
+ Male 597850
+ Female 630078
+AGE
+ Under 5 years 85722
+ 5 to 17 years 223280
+ 18 to 20 years 56232
+ 21 to 24 years 67540
+ 25 to 44 years 398580
+ 45 to 54 years 124751
+ 55 to 59 years 54216
+ 60 to 64 years 54234
+ 65 to 74 years 91600
+ 75 to 84 years 53547
+ 85 years and over 18226
+ Median age 339
+Under 18 years 309002
+ Percent of total population 252
+65 years and over 163373
+ Percent of total population 133
+HOUSEHOLDS BY TYPE
+Total households 465312
+ Family households families 328685
+ Marriedcouple families 270565
+ Percent of total households 581
+ Other family male householder 13760
+ Other family female householder 44360
+ Nonfamily households 136627
+ Percent of total households 294
+ Householder living alone 108474
+ Householder 65 years and over 48257
+ Persons living in households 1190759
+ Persons per household 256
+GROUP QUARTERS
+ Persons living in group quarters 37169
+ Institutionalized persons 14136
+ Other persons in group quarters 23033
+RACE AND HISPANIC ORIGIN
+ White 1208360
+ Black 5138
+ Percent of total population 04
+ American Indian Eskimo or Aleut 5998
+ Percent of total population 05
+ Asian or Pacific Islander 6683
+ Percent of total population 05
+ Other race 1749
+ Hispanic origin of any race 6829
+ Percent of total population 06
+
+
+1990 Census of Population and Housing Page 2
+  Maine
+
+ Total housing units 587045
+OCCUPANCY AND TENURE
+ Occupied housing units 465312
+ Owner occupied 327888
+ Percent owner occupied 705
+ Renter occupied 137424
+ Vacant housing units 121733
+ For seasonal recreational or occasional use 88039
+ Homeowner vacancy rate percent 18
+ Rental vacancy rate percent 84
+ Persons per owneroccupied unit 271
+ Persons per renteroccupied unit 220
+ Units with over 1 person per room 7998
+UNITS IN STRUCTURE
+ 1unit detached 378413
+ 1unit attached 11753
+ 2 to 4 units 74077
+ 5 to 9 units 28553
+ 10 or more units 26230
+ Mobile home trailer other 68019
+VALUE
+ Specified owneroccupied units 214663
+ Less than 50000 37489
+ 50000 to 99000 95187
+ 100000 to 149000 49286
+ 150000 to 199999 18040
+ 200000 to 299999 9995
+ 300000 or more 4666
+ Median dollars 87400
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 122972
+ Less than 250 30198
+ 250 to 499 68579
+ 500 to 749 21448
+ 750 to 999 1902
+ 1000 or more 845
+ Median dollars 358
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 465312
+ White 460110
+ Black 1458
+ Percent of occupied units 03
+ American Indian Eskimo or Aleut 1860
+ Percent of occupied units 04
+ Asian or Pacific Islander 1503
+ Percent of occupied units 03
+ Other race 381
+ Hispanic origin of any race 1880
+ Percent of occupied units 04
+
+
+
+1990 Census of Population and Housing Page 1
+  Maryland
+
+ Total population 4781468
+SEX
+ Male 2318671
+ Female 2462797
+AGE
+ Under 5 years 357818
+ 5 to 17 years 804423
+ 18 to 20 years 208411
+ 21 to 24 years 296962
+ 25 to 44 years 1677104
+ 45 to 54 years 521801
+ 55 to 59 years 202170
+ 60 to 64 years 195297
+ 65 to 74 years 314491
+ 75 to 84 years 156495
+ 85 years and over 46496
+ Median age 330
+Under 18 years 1162241
+ Percent of total population 243
+65 years and over 517482
+ Percent of total population 108
+HOUSEHOLDS BY TYPE
+Total households 1748991
+ Family households families 1245814
+ Marriedcouple families 948563
+ Percent of total households 542
+ Other family male householder 65362
+ Other family female householder 231889
+ Nonfamily households 503177
+ Percent of total households 288
+ Householder living alone 394572
+ Householder 65 years and over 135318
+ Persons living in households 4667612
+ Persons per household 267
+GROUP QUARTERS
+ Persons living in group quarters 113856
+ Institutionalized persons 62760
+ Other persons in group quarters 51096
+RACE AND HISPANIC ORIGIN
+ White 3393964
+ Black 1189899
+ Percent of total population 249
+ American Indian Eskimo or Aleut 12972
+ Percent of total population 03
+ Asian or Pacific Islander 139719
+ Percent of total population 29
+ Other race 44914
+ Hispanic origin of any race 125102
+ Percent of total population 26
+
+
+1990 Census of Population and Housing Page 2
+  Maryland
+
+ Total housing units 1891917
+OCCUPANCY AND TENURE
+ Occupied housing units 1748991
+ Owner occupied 1137296
+ Percent owner occupied 650
+ Renter occupied 611695
+ Vacant housing units 142926
+ For seasonal recreational or occasional use 42268
+ Homeowner vacancy rate percent 17
+ Rental vacancy rate percent 68
+ Persons per owneroccupied unit 279
+ Persons per renteroccupied unit 245
+ Units with over 1 person per room 53139
+UNITS IN STRUCTURE
+ 1unit detached 938514
+ 1unit attached 393185
+ 2 to 4 units 104332
+ 5 to 9 units 105530
+ 10 or more units 294364
+ Mobile home trailer other 55992
+VALUE
+ Specified owneroccupied units 970864
+ Less than 50000 87334
+ 50000 to 99000 300852
+ 100000 to 149000 274242
+ 150000 to 199999 139611
+ 200000 to 299999 103274
+ 300000 or more 65551
+ Median dollars 116500
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 574109
+ Less than 250 88093
+ 250 to 499 223038
+ 500 to 749 196835
+ 750 to 999 50950
+ 1000 or more 15193
+ Median dollars 473
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1748991
+ White 1293894
+ Black 401460
+ Percent of occupied units 230
+ American Indian Eskimo or Aleut 4406
+ Percent of occupied units 03
+ Asian or Pacific Islander 38062
+ Percent of occupied units 22
+ Other race 11169
+ Hispanic origin of any race 34404
+ Percent of occupied units 20
+
+
+
+1990 Census of Population and Housing Page 1
+  Massachusetts
+
+ Total population 6016425
+SEX
+ Male 2888745
+ Female 3127680
+AGE
+ Under 5 years 412473
+ 5 to 17 years 940602
+ 18 to 20 years 302128
+ 21 to 24 years 406971
+ 25 to 44 years 2019817
+ 45 to 54 years 600095
+ 55 to 59 years 253458
+ 60 to 64 years 261597
+ 65 to 74 years 459881
+ 75 to 84 years 267194
+ 85 years and over 92209
+ Median age 336
+Under 18 years 1353075
+ Percent of total population 225
+65 years and over 819284
+ Percent of total population 136
+HOUSEHOLDS BY TYPE
+Total households 2247110
+ Family households families 1514746
+ Marriedcouple families 1170275
+ Percent of total households 521
+ Other family male householder 73548
+ Other family female householder 270923
+ Nonfamily households 732364
+ Percent of total households 326
+ Householder living alone 580774
+ Householder 65 years and over 243334
+ Persons living in households 5802118
+ Persons per household 258
+GROUP QUARTERS
+ Persons living in group quarters 214307
+ Institutionalized persons 84345
+ Other persons in group quarters 129962
+RACE AND HISPANIC ORIGIN
+ White 5405374
+ Black 300130
+ Percent of total population 50
+ American Indian Eskimo or Aleut 12241
+ Percent of total population 02
+ Asian or Pacific Islander 143392
+ Percent of total population 24
+ Other race 155288
+ Hispanic origin of any race 287549
+ Percent of total population 48
+
+
+1990 Census of Population and Housing Page 2
+  Massachusetts
+
+ Total housing units 2472711
+OCCUPANCY AND TENURE
+ Occupied housing units 2247110
+ Owner occupied 1331493
+ Percent owner occupied 593
+ Renter occupied 915617
+ Vacant housing units 225601
+ For seasonal recreational or occasional use 90367
+ Homeowner vacancy rate percent 17
+ Rental vacancy rate percent 69
+ Persons per owneroccupied unit 282
+ Persons per renteroccupied unit 224
+ Units with over 1 person per room 56700
+UNITS IN STRUCTURE
+ 1unit detached 1237786
+ 1unit attached 88746
+ 2 to 4 units 597143
+ 5 to 9 units 159332
+ 10 or more units 338585
+ Mobile home trailer other 51119
+VALUE
+ Specified owneroccupied units 1004573
+ Less than 50000 9481
+ 50000 to 99000 93514
+ 100000 to 149000 310792
+ 150000 to 199999 298303
+ 200000 to 299999 196372
+ 300000 or more 96111
+ Median dollars 162800
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 879173
+ Less than 250 164904
+ 250 to 499 265621
+ 500 to 749 308154
+ 750 to 999 98604
+ 1000 or more 41890
+ Median dollars 506
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 2247110
+ White 2061948
+ Black 99402
+ Percent of occupied units 44
+ American Indian Eskimo or Aleut 4208
+ Percent of occupied units 02
+ Asian or Pacific Islander 38728
+ Percent of occupied units 17
+ Other race 42824
+ Hispanic origin of any race 81649
+ Percent of occupied units 36
+
+
+
+1990 Census of Population and Housing Page 1
+  Michigan
+
+ Total population 9295297
+SEX
+ Male 4512781
+ Female 4782516
+AGE
+ Under 5 years 702554
+ 5 to 17 years 1756211
+ 18 to 20 years 449966
+ 21 to 24 years 554561
+ 25 to 44 years 2980702
+ 45 to 54 years 948119
+ 55 to 59 years 392787
+ 60 to 64 years 401936
+ 65 to 74 years 655838
+ 75 to 84 years 345716
+ 85 years and over 106907
+ Median age 326
+Under 18 years 2458765
+ Percent of total population 265
+65 years and over 1108461
+ Percent of total population 119
+HOUSEHOLDS BY TYPE
+Total households 3419331
+ Family households families 2439171
+ Marriedcouple families 1883143
+ Percent of total households 551
+ Other family male householder 113789
+ Other family female householder 442239
+ Nonfamily households 980160
+ Percent of total households 287
+ Householder living alone 809449
+ Householder 65 years and over 317659
+ Persons living in households 9083605
+ Persons per household 266
+GROUP QUARTERS
+ Persons living in group quarters 211692
+ Institutionalized persons 112903
+ Other persons in group quarters 98789
+RACE AND HISPANIC ORIGIN
+ White 7756086
+ Black 1291706
+ Percent of total population 139
+ American Indian Eskimo or Aleut 55638
+ Percent of total population 06
+ Asian or Pacific Islander 104983
+ Percent of total population 11
+ Other race 86884
+ Hispanic origin of any race 201596
+ Percent of total population 22
+
+
+1990 Census of Population and Housing Page 2
+  Michigan
+
+ Total housing units 3847926
+OCCUPANCY AND TENURE
+ Occupied housing units 3419331
+ Owner occupied 2427643
+ Percent owner occupied 710
+ Renter occupied 991688
+ Vacant housing units 428595
+ For seasonal recreational or occasional use 223549
+ Homeowner vacancy rate percent 13
+ Rental vacancy rate percent 72
+ Persons per owneroccupied unit 280
+ Persons per renteroccupied unit 231
+ Units with over 1 person per room 90551
+UNITS IN STRUCTURE
+ 1unit detached 2673184
+ 1unit attached 130583
+ 2 to 4 units 267767
+ 5 to 9 units 150831
+ 10 or more units 336721
+ Mobile home trailer other 288840
+VALUE
+ Specified owneroccupied units 1916143
+ Less than 50000 737217
+ 50000 to 99000 814496
+ 100000 to 149000 219195
+ 150000 to 199999 79313
+ 200000 to 299999 45953
+ 300000 or more 19969
+ Median dollars 60600
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 925304
+ Less than 250 232954
+ 250 to 499 536905
+ 500 to 749 128873
+ 750 to 999 17827
+ 1000 or more 8745
+ Median dollars 343
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 3419331
+ White 2907741
+ Black 441984
+ Percent of occupied units 129
+ American Indian Eskimo or Aleut 17709
+ Percent of occupied units 05
+ Asian or Pacific Islander 28204
+ Percent of occupied units 08
+ Other race 23693
+ Hispanic origin of any race 55798
+ Percent of occupied units 16
+
+
+
+1990 Census of Population and Housing Page 1
+  Minnesota
+
+ Total population 4375099
+SEX
+ Male 2145183
+ Female 2229916
+AGE
+ Under 5 years 336800
+ 5 to 17 years 829983
+ 18 to 20 years 192809
+ 21 to 24 years 250000
+ 25 to 44 years 1445827
+ 45 to 54 years 428460
+ 55 to 59 years 173066
+ 60 to 64 years 171220
+ 65 to 74 years 294522
+ 75 to 84 years 183577
+ 85 years and over 68835
+ Median age 325
+Under 18 years 1166783
+ Percent of total population 267
+65 years and over 546934
+ Percent of total population 125
+HOUSEHOLDS BY TYPE
+Total households 1647853
+ Family households families 1130683
+ Marriedcouple families 942524
+ Percent of total households 572
+ Other family male householder 46605
+ Other family female householder 141554
+ Nonfamily households 517170
+ Percent of total households 314
+ Householder living alone 413531
+ Householder 65 years and over 167001
+ Persons living in households 4257478
+ Persons per household 258
+GROUP QUARTERS
+ Persons living in group quarters 117621
+ Institutionalized persons 63279
+ Other persons in group quarters 54342
+RACE AND HISPANIC ORIGIN
+ White 4130395
+ Black 94944
+ Percent of total population 22
+ American Indian Eskimo or Aleut 49909
+ Percent of total population 11
+ Asian or Pacific Islander 77886
+ Percent of total population 18
+ Other race 21965
+ Hispanic origin of any race 53884
+ Percent of total population 12
+
+
+1990 Census of Population and Housing Page 2
+  Minnesota
+
+ Total housing units 1848445
+OCCUPANCY AND TENURE
+ Occupied housing units 1647853
+ Owner occupied 1183673
+ Percent owner occupied 718
+ Renter occupied 464180
+ Vacant housing units 200592
+ For seasonal recreational or occasional use 105122
+ Homeowner vacancy rate percent 15
+ Rental vacancy rate percent 79
+ Persons per owneroccupied unit 278
+ Persons per renteroccupied unit 208
+ Units with over 1 person per room 34126
+UNITS IN STRUCTURE
+ 1unit detached 1230561
+ 1unit attached 69267
+ 2 to 4 units 115347
+ 5 to 9 units 45190
+ 10 or more units 276475
+ Mobile home trailer other 111605
+VALUE
+ Specified owneroccupied units 894345
+ Less than 50000 204921
+ 50000 to 99000 482307
+ 100000 to 149000 138209
+ 150000 to 199999 38579
+ 200000 to 299999 21091
+ 300000 or more 9238
+ Median dollars 74000
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 431301
+ Less than 250 103986
+ 250 to 499 217401
+ 500 to 749 93630
+ 750 to 999 12804
+ 1000 or more 3480
+ Median dollars 384
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1647853
+ White 1579722
+ Black 31201
+ Percent of occupied units 19
+ American Indian Eskimo or Aleut 14168
+ Percent of occupied units 09
+ Asian or Pacific Islander 17198
+ Percent of occupied units 10
+ Other race 5564
+ Hispanic origin of any race 14039
+ Percent of occupied units 09
+
+
+
+1990 Census of Population and Housing Page 1
+  Mississippi
+
+ Total population 2573216
+SEX
+ Male 1230617
+ Female 1342599
+AGE
+ Under 5 years 195365
+ 5 to 17 years 551396
+ 18 to 20 years 141847
+ 21 to 24 years 151499
+ 25 to 44 years 749584
+ 45 to 54 years 247745
+ 55 to 59 years 107784
+ 60 to 64 years 106712
+ 65 to 74 years 180149
+ 75 to 84 years 108800
+ 85 years and over 32335
+ Median age 312
+Under 18 years 746761
+ Percent of total population 290
+65 years and over 321284
+ Percent of total population 125
+HOUSEHOLDS BY TYPE
+Total households 911374
+ Family households families 674378
+ Marriedcouple families 498240
+ Percent of total households 547
+ Other family male householder 30917
+ Other family female householder 145221
+ Nonfamily households 236996
+ Percent of total households 260
+ Householder living alone 212949
+ Householder 65 years and over 98180
+ Persons living in households 2503499
+ Persons per household 275
+GROUP QUARTERS
+ Persons living in group quarters 69717
+ Institutionalized persons 29733
+ Other persons in group quarters 39984
+RACE AND HISPANIC ORIGIN
+ White 1633461
+ Black 915057
+ Percent of total population 356
+ American Indian Eskimo or Aleut 8525
+ Percent of total population 03
+ Asian or Pacific Islander 13016
+ Percent of total population 05
+ Other race 3157
+ Hispanic origin of any race 15931
+ Percent of total population 06
+
+
+1990 Census of Population and Housing Page 2
+  Mississippi
+
+ Total housing units 1010423
+OCCUPANCY AND TENURE
+ Occupied housing units 911374
+ Owner occupied 651587
+ Percent owner occupied 715
+ Renter occupied 259787
+ Vacant housing units 99049
+ For seasonal recreational or occasional use 16002
+ Homeowner vacancy rate percent 19
+ Rental vacancy rate percent 95
+ Persons per owneroccupied unit 278
+ Persons per renteroccupied unit 265
+ Units with over 1 person per room 52890
+UNITS IN STRUCTURE
+ 1unit detached 710298
+ 1unit attached 17060
+ 2 to 4 units 56813
+ 5 to 9 units 35675
+ 10 or more units 41322
+ Mobile home trailer other 149255
+VALUE
+ Specified owneroccupied units 441821
+ Less than 50000 249302
+ 50000 to 99000 156081
+ 100000 to 149000 24236
+ 150000 to 199999 7041
+ 200000 to 299999 3571
+ 300000 or more 1590
+ Median dollars 45600
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 214289
+ Less than 250 126942
+ 250 to 499 80106
+ 500 to 749 6222
+ 750 to 999 588
+ 1000 or more 431
+ Median dollars 215
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 911374
+ White 623470
+ Black 281515
+ Percent of occupied units 309
+ American Indian Eskimo or Aleut 2329
+ Percent of occupied units 03
+ Asian or Pacific Islander 3203
+ Percent of occupied units 04
+ Other race 857
+ Hispanic origin of any race 4745
+ Percent of occupied units 05
+
+
+
+1990 Census of Population and Housing Page 1
+  Missouri
+
+ Total population 5117073
+SEX
+ Male 2464315
+ Female 2652758
+AGE
+ Under 5 years 369244
+ 5 to 17 years 945582
+ 18 to 20 years 234368
+ 21 to 24 years 282823
+ 25 to 44 years 1586813
+ 45 to 54 years 523177
+ 55 to 59 years 228556
+ 60 to 64 years 228829
+ 65 to 74 years 394202
+ 75 to 84 years 242262
+ 85 years and over 81217
+ Median age 335
+Under 18 years 1314826
+ Percent of total population 257
+65 years and over 717681
+ Percent of total population 140
+HOUSEHOLDS BY TYPE
+Total households 1961206
+ Family households families 1368334
+ Marriedcouple families 1104723
+ Percent of total households 563
+ Other family male householder 55436
+ Other family female householder 208175
+ Nonfamily households 592872
+ Percent of total households 302
+ Householder living alone 510684
+ Householder 65 years and over 221516
+ Persons living in households 4971676
+ Persons per household 254
+GROUP QUARTERS
+ Persons living in group quarters 145397
+ Institutionalized persons 80854
+ Other persons in group quarters 64543
+RACE AND HISPANIC ORIGIN
+ White 4486228
+ Black 548208
+ Percent of total population 107
+ American Indian Eskimo or Aleut 19835
+ Percent of total population 04
+ Asian or Pacific Islander 41277
+ Percent of total population 08
+ Other race 21525
+ Hispanic origin of any race 61702
+ Percent of total population 12
+
+
+1990 Census of Population and Housing Page 2
+  Missouri
+
+ Total housing units 2199129
+OCCUPANCY AND TENURE
+ Occupied housing units 1961206
+ Owner occupied 1348746
+ Percent owner occupied 688
+ Renter occupied 612460
+ Vacant housing units 237923
+ For seasonal recreational or occasional use 55492
+ Homeowner vacancy rate percent 22
+ Rental vacancy rate percent 107
+ Persons per owneroccupied unit 267
+ Persons per renteroccupied unit 224
+ Units with over 1 person per room 48264
+UNITS IN STRUCTURE
+ 1unit detached 1489661
+ 1unit attached 57345
+ 2 to 4 units 212483
+ 5 to 9 units 85323
+ 10 or more units 172360
+ Mobile home trailer other 181957
+VALUE
+ Specified owneroccupied units 1005407
+ Less than 50000 385051
+ 50000 to 99000 452582
+ 100000 to 149000 101957
+ 150000 to 199999 33635
+ 200000 to 299999 20275
+ 300000 or more 11907
+ Median dollars 59800
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 548587
+ Less than 250 223902
+ 250 to 499 275787
+ 500 to 749 40831
+ 750 to 999 5290
+ 1000 or more 2777
+ Median dollars 282
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1961206
+ White 1747422
+ Black 188853
+ Percent of occupied units 96
+ American Indian Eskimo or Aleut 7298
+ Percent of occupied units 04
+ Asian or Pacific Islander 11584
+ Percent of occupied units 06
+ Other race 6049
+ Hispanic origin of any race 18444
+ Percent of occupied units 09
+
+
+
+1990 Census of Population and Housing Page 1
+  Montana
+
+ Total population 799065
+SEX
+ Male 395769
+ Female 403296
+AGE
+ Under 5 years 59257
+ 5 to 17 years 162847
+ 18 to 20 years 32703
+ 21 to 24 years 37308
+ 25 to 44 years 249826
+ 45 to 54 years 82306
+ 55 to 59 years 34005
+ 60 to 64 years 34316
+ 65 to 74 years 60884
+ 75 to 84 years 34937
+ 85 years and over 10676
+ Median age 338
+Under 18 years 222104
+ Percent of total population 278
+65 years and over 106497
+ Percent of total population 133
+HOUSEHOLDS BY TYPE
+Total households 306163
+ Family households families 211666
+ Marriedcouple families 176526
+ Percent of total households 577
+ Other family male householder 8743
+ Other family female householder 26397
+ Nonfamily households 94497
+ Percent of total households 309
+ Householder living alone 80491
+ Householder 65 years and over 32208
+ Persons living in households 775318
+ Persons per household 253
+GROUP QUARTERS
+ Persons living in group quarters 23747
+ Institutionalized persons 11125
+ Other persons in group quarters 12622
+RACE AND HISPANIC ORIGIN
+ White 741111
+ Black 2381
+ Percent of total population 03
+ American Indian Eskimo or Aleut 47679
+ Percent of total population 60
+ Asian or Pacific Islander 4259
+ Percent of total population 05
+ Other race 3635
+ Hispanic origin of any race 12174
+ Percent of total population 15
+
+
+1990 Census of Population and Housing Page 2
+  Montana
+
+ Total housing units 361155
+OCCUPANCY AND TENURE
+ Occupied housing units 306163
+ Owner occupied 205899
+ Percent owner occupied 673
+ Renter occupied 100264
+ Vacant housing units 54992
+ For seasonal recreational or occasional use 20481
+ Homeowner vacancy rate percent 30
+ Rental vacancy rate percent 96
+ Persons per owneroccupied unit 265
+ Persons per renteroccupied unit 228
+ Units with over 1 person per room 8886
+UNITS IN STRUCTURE
+ 1unit detached 237533
+ 1unit attached 8432
+ 2 to 4 units 29327
+ 5 to 9 units 10376
+ 10 or more units 16931
+ Mobile home trailer other 58556
+VALUE
+ Specified owneroccupied units 132419
+ Less than 50000 52306
+ 50000 to 99000 68279
+ 100000 to 149000 8398
+ 150000 to 199999 2142
+ 200000 to 299999 1018
+ 300000 or more 276
+ Median dollars 56600
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 85542
+ Less than 250 42446
+ 250 to 499 40278
+ 500 to 749 2389
+ 750 to 999 199
+ 1000 or more 230
+ Median dollars 251
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 306163
+ White 290030
+ Black 760
+ Percent of occupied units 02
+ American Indian Eskimo or Aleut 13230
+ Percent of occupied units 43
+ Asian or Pacific Islander 1040
+ Percent of occupied units 03
+ Other race 1103
+ Hispanic origin of any race 3374
+ Percent of occupied units 11
+
+
+
+1990 Census of Population and Housing Page 1
+  Nevada
+
+ Total population 1201833
+SEX
+ Male 611880
+ Female 589953
+AGE
+ Under 5 years 92217
+ 5 to 17 years 204731
+ 18 to 20 years 47863
+ 21 to 24 years 71082
+ 25 to 44 years 414292
+ 45 to 54 years 136000
+ 55 to 59 years 54681
+ 60 to 64 years 53336
+ 65 to 74 years 85785
+ 75 to 84 years 34383
+ 85 years and over 7463
+ Median age 333
+Under 18 years 296948
+ Percent of total population 247
+65 years and over 127631
+ Percent of total population 106
+HOUSEHOLDS BY TYPE
+Total households 466297
+ Family households families 307400
+ Marriedcouple families 239573
+ Percent of total households 514
+ Other family male householder 20318
+ Other family female householder 47509
+ Nonfamily households 158897
+ Percent of total households 341
+ Householder living alone 119627
+ Householder 65 years and over 33244
+ Persons living in households 1177633
+ Persons per household 253
+GROUP QUARTERS
+ Persons living in group quarters 24200
+ Institutionalized persons 13550
+ Other persons in group quarters 10650
+RACE AND HISPANIC ORIGIN
+ White 1012695
+ Black 78771
+ Percent of total population 66
+ American Indian Eskimo or Aleut 19637
+ Percent of total population 16
+ Asian or Pacific Islander 38127
+ Percent of total population 32
+ Other race 52603
+ Hispanic origin of any race 124419
+ Percent of total population 104
+
+
+1990 Census of Population and Housing Page 2
+  Nevada
+
+ Total housing units 518858
+OCCUPANCY AND TENURE
+ Occupied housing units 466297
+ Owner occupied 255388
+ Percent owner occupied 548
+ Renter occupied 210909
+ Vacant housing units 52561
+ For seasonal recreational or occasional use 11258
+ Homeowner vacancy rate percent 24
+ Rental vacancy rate percent 91
+ Persons per owneroccupied unit 267
+ Persons per renteroccupied unit 235
+ Units with over 1 person per room 29890
+UNITS IN STRUCTURE
+ 1unit detached 235912
+ 1unit attached 26819
+ 2 to 4 units 49889
+ 5 to 9 units 40757
+ 10 or more units 89864
+ Mobile home trailer other 75617
+VALUE
+ Specified owneroccupied units 183816
+ Less than 50000 8415
+ 50000 to 99000 93325
+ 100000 to 149000 51329
+ 150000 to 199999 16038
+ 200000 to 299999 9115
+ 300000 or more 5594
+ Median dollars 95700
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 202782
+ Less than 250 19063
+ 250 to 499 111139
+ 500 to 749 62940
+ 750 to 999 7587
+ 1000 or more 2053
+ Median dollars 445
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 466297
+ White 407859
+ Black 26485
+ Percent of occupied units 57
+ American Indian Eskimo or Aleut 6564
+ Percent of occupied units 14
+ Asian or Pacific Islander 10875
+ Percent of occupied units 23
+ Other race 14514
+ Hispanic origin of any race 35658
+ Percent of occupied units 76
+
+
+
+1990 Census of Population and Housing Page 1
+  New Hampshire
+
+ Total population 1109252
+SEX
+ Male 543544
+ Female 565708
+AGE
+ Under 5 years 84565
+ 5 to 17 years 194190
+ 18 to 20 years 52399
+ 21 to 24 years 65203
+ 25 to 44 years 387455
+ 45 to 54 years 112215
+ 55 to 59 years 44703
+ 60 to 64 years 43493
+ 65 to 74 years 71471
+ 75 to 84 years 40272
+ 85 years and over 13286
+ Median age 328
+Under 18 years 278755
+ Percent of total population 251
+65 years and over 125029
+ Percent of total population 113
+HOUSEHOLDS BY TYPE
+Total households 411186
+ Family households families 292601
+ Marriedcouple families 245307
+ Percent of total households 597
+ Other family male householder 12517
+ Other family female householder 34777
+ Nonfamily households 118585
+ Percent of total households 288
+ Householder living alone 90364
+ Householder 65 years and over 34522
+ Persons living in households 1077101
+ Persons per household 262
+GROUP QUARTERS
+ Persons living in group quarters 32151
+ Institutionalized persons 11466
+ Other persons in group quarters 20685
+RACE AND HISPANIC ORIGIN
+ White 1087433
+ Black 7198
+ Percent of total population 06
+ American Indian Eskimo or Aleut 2134
+ Percent of total population 02
+ Asian or Pacific Islander 9343
+ Percent of total population 08
+ Other race 3144
+ Hispanic origin of any race 11333
+ Percent of total population 10
+
+
+1990 Census of Population and Housing Page 2
+  New Hampshire
+
+ Total housing units 503904
+OCCUPANCY AND TENURE
+ Occupied housing units 411186
+ Owner occupied 280372
+ Percent owner occupied 682
+ Renter occupied 130814
+ Vacant housing units 92718
+ For seasonal recreational or occasional use 57135
+ Homeowner vacancy rate percent 27
+ Rental vacancy rate percent 118
+ Persons per owneroccupied unit 280
+ Persons per renteroccupied unit 224
+ Units with over 1 person per room 6610
+UNITS IN STRUCTURE
+ 1unit detached 297777
+ 1unit attached 23072
+ 2 to 4 units 68105
+ 5 to 9 units 26985
+ 10 or more units 46022
+ Mobile home trailer other 41943
+VALUE
+ Specified owneroccupied units 199358
+ Less than 50000 6262
+ 50000 to 99000 45594
+ 100000 to 149000 79905
+ 150000 to 199999 39937
+ 200000 to 299999 21088
+ 300000 or more 6572
+ Median dollars 129400
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 121779
+ Less than 250 14724
+ 250 to 499 51960
+ 500 to 749 45058
+ 750 to 999 7804
+ 1000 or more 2233
+ Median dollars 479
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 411186
+ White 404832
+ Black 2322
+ Percent of occupied units 06
+ American Indian Eskimo or Aleut 764
+ Percent of occupied units 02
+ Asian or Pacific Islander 2421
+ Percent of occupied units 06
+ Other race 847
+ Hispanic origin of any race 3255
+ Percent of occupied units 08
+
+
+
+1990 Census of Population and Housing Page 1
+  New Jersey
+
+ Total population 7730188
+SEX
+ Male 3735685
+ Female 3994503
+AGE
+ Under 5 years 532637
+ 5 to 17 years 1266825
+ 18 to 20 years 326079
+ 21 to 24 years 453105
+ 25 to 44 years 2557310
+ 45 to 54 years 843009
+ 55 to 59 years 355677
+ 60 to 64 years 363521
+ 65 to 74 years 610192
+ 75 to 84 years 326286
+ 85 years and over 95547
+ Median age 345
+Under 18 years 1799462
+ Percent of total population 233
+65 years and over 1032025
+ Percent of total population 134
+HOUSEHOLDS BY TYPE
+Total households 2794711
+ Family households families 2021346
+ Marriedcouple families 1578702
+ Percent of total households 565
+ Other family male householder 104189
+ Other family female householder 338455
+ Nonfamily households 773365
+ Percent of total households 277
+ Householder living alone 646171
+ Householder 65 years and over 273736
+ Persons living in households 7558820
+ Persons per household 270
+GROUP QUARTERS
+ Persons living in group quarters 171368
+ Institutionalized persons 92670
+ Other persons in group quarters 78698
+RACE AND HISPANIC ORIGIN
+ White 6130465
+ Black 1036825
+ Percent of total population 134
+ American Indian Eskimo or Aleut 14970
+ Percent of total population 02
+ Asian or Pacific Islander 272521
+ Percent of total population 35
+ Other race 275407
+ Hispanic origin of any race 739861
+ Percent of total population 96
+
+
+1990 Census of Population and Housing Page 2
+  New Jersey
+
+ Total housing units 3075310
+OCCUPANCY AND TENURE
+ Occupied housing units 2794711
+ Owner occupied 1813381
+ Percent owner occupied 649
+ Renter occupied 981330
+ Vacant housing units 280599
+ For seasonal recreational or occasional use 100591
+ Homeowner vacancy rate percent 25
+ Rental vacancy rate percent 74
+ Persons per owneroccupied unit 287
+ Persons per renteroccupied unit 240
+ Units with over 1 person per room 108771
+UNITS IN STRUCTURE
+ 1unit detached 1637129
+ 1unit attached 234829
+ 2 to 4 units 526997
+ 5 to 9 units 146396
+ 10 or more units 453254
+ Mobile home trailer other 76705
+VALUE
+ Specified owneroccupied units 1466270
+ Less than 50000 45471
+ 50000 to 99000 241369
+ 100000 to 149000 348781
+ 150000 to 199999 367285
+ 200000 to 299999 301468
+ 300000 or more 161896
+ Median dollars 162300
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 942141
+ Less than 250 106627
+ 250 to 499 321775
+ 500 to 749 381923
+ 750 to 999 92517
+ 1000 or more 39299
+ Median dollars 521
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 2794711
+ White 2307810
+ Black 333782
+ Percent of occupied units 119
+ American Indian Eskimo or Aleut 5105
+ Percent of occupied units 02
+ Asian or Pacific Islander 73840
+ Percent of occupied units 26
+ Other race 74174
+ Hispanic origin of any race 215526
+ Percent of occupied units 77
+
+
+
+1990 Census of Population and Housing Page 1
+  New Mexico
+
+ Total population 1515069
+SEX
+ Male 745253
+ Female 769816
+AGE
+ Under 5 years 125878
+ 5 to 17 years 320863
+ 18 to 20 years 68168
+ 21 to 24 years 83656
+ 25 to 44 years 484466
+ 45 to 54 years 147448
+ 55 to 59 years 62038
+ 60 to 64 years 59490
+ 65 to 74 years 97607
+ 75 to 84 years 51223
+ 85 years and over 14232
+ Median age 313
+Under 18 years 446741
+ Percent of total population 295
+65 years and over 163062
+ Percent of total population 108
+HOUSEHOLDS BY TYPE
+Total households 542709
+ Family households families 391487
+ Marriedcouple families 303789
+ Percent of total households 560
+ Other family male householder 23143
+ Other family female householder 64555
+ Nonfamily households 151222
+ Percent of total households 279
+ Householder living alone 124883
+ Householder 65 years and over 42964
+ Persons living in households 1486262
+ Persons per household 274
+GROUP QUARTERS
+ Persons living in group quarters 28807
+ Institutionalized persons 14024
+ Other persons in group quarters 14783
+RACE AND HISPANIC ORIGIN
+ White 1146028
+ Black 30210
+ Percent of total population 20
+ American Indian Eskimo or Aleut 134355
+ Percent of total population 89
+ Asian or Pacific Islander 14124
+ Percent of total population 09
+ Other race 190352
+ Hispanic origin of any race 579224
+ Percent of total population 382
+
+
+1990 Census of Population and Housing Page 2
+  New Mexico
+
+ Total housing units 632058
+OCCUPANCY AND TENURE
+ Occupied housing units 542709
+ Owner occupied 365965
+ Percent owner occupied 674
+ Renter occupied 176744
+ Vacant housing units 89349
+ For seasonal recreational or occasional use 21862
+ Homeowner vacancy rate percent 23
+ Rental vacancy rate percent 114
+ Persons per owneroccupied unit 285
+ Persons per renteroccupied unit 252
+ Units with over 1 person per room 42810
+UNITS IN STRUCTURE
+ 1unit detached 387830
+ 1unit attached 28352
+ 2 to 4 units 38833
+ 5 to 9 units 16434
+ 10 or more units 48239
+ Mobile home trailer other 112370
+VALUE
+ Specified owneroccupied units 262309
+ Less than 50000 73491
+ 50000 to 99000 128214
+ 100000 to 149000 37324
+ 150000 to 199999 12822
+ 200000 to 299999 7176
+ 300000 or more 3282
+ Median dollars 70100
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 157095
+ Less than 250 49767
+ 250 to 499 88292
+ 500 to 749 16096
+ 750 to 999 1951
+ 1000 or more 989
+ Median dollars 312
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 542709
+ White 435810
+ Black 10377
+ Percent of occupied units 19
+ American Indian Eskimo or Aleut 33489
+ Percent of occupied units 62
+ Asian or Pacific Islander 3733
+ Percent of occupied units 07
+ Other race 59300
+ Hispanic origin of any race 178709
+ Percent of occupied units 329
+
+
+
+1990 Census of Population and Housing Page 1
+  New York
+
+ Total population 17990455
+SEX
+ Male 8625673
+ Female 9364782
+AGE
+ Under 5 years 1255764
+ 5 to 17 years 3003785
+ 18 to 20 years 839066
+ 21 to 24 years 1114358
+ 25 to 44 years 5862873
+ 45 to 54 years 1913920
+ 55 to 59 years 811857
+ 60 to 64 years 825110
+ 65 to 74 years 1348279
+ 75 to 84 years 767270
+ 85 years and over 248173
+ Median age 339
+Under 18 years 4259549
+ Percent of total population 237
+65 years and over 2363722
+ Percent of total population 131
+HOUSEHOLDS BY TYPE
+Total households 6639322
+ Family households families 4489312
+ Marriedcouple families 3315845
+ Percent of total households 499
+ Other family male householder 254201
+ Other family female householder 919266
+ Nonfamily households 2150010
+ Percent of total households 324
+ Householder living alone 1806263
+ Householder 65 years and over 700016
+ Persons living in households 17445190
+ Persons per household 263
+GROUP QUARTERS
+ Persons living in group quarters 545265
+ Institutionalized persons 267122
+ Other persons in group quarters 278143
+RACE AND HISPANIC ORIGIN
+ White 13385255
+ Black 2859055
+ Percent of total population 159
+ American Indian Eskimo or Aleut 62651
+ Percent of total population 03
+ Asian or Pacific Islander 693760
+ Percent of total population 39
+ Other race 989734
+ Hispanic origin of any race 2214026
+ Percent of total population 123
+
+
+1990 Census of Population and Housing Page 2
+  New York
+
+ Total housing units 7226891
+OCCUPANCY AND TENURE
+ Occupied housing units 6639322
+ Owner occupied 3464436
+ Percent owner occupied 522
+ Renter occupied 3174886
+ Vacant housing units 587569
+ For seasonal recreational or occasional use 212625
+ Homeowner vacancy rate percent 19
+ Rental vacancy rate percent 49
+ Persons per owneroccupied unit 286
+ Persons per renteroccupied unit 238
+ Units with over 1 person per room 431733
+UNITS IN STRUCTURE
+ 1unit detached 2929333
+ 1unit attached 301794
+ 2 to 4 units 1320073
+ 5 to 9 units 374858
+ 10 or more units 1998074
+ Mobile home trailer other 302759
+VALUE
+ Specified owneroccupied units 2387606
+ Less than 50000 243817
+ 50000 to 99000 674377
+ 100000 to 149000 431629
+ 150000 to 199999 438992
+ 200000 to 299999 380997
+ 300000 or more 217794
+ Median dollars 131600
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 3059911
+ Less than 250 529128
+ 250 to 499 1387210
+ 500 to 749 764656
+ 750 to 999 223110
+ 1000 or more 155807
+ Median dollars 428
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 6639322
+ White 5184827
+ Black 947597
+ Percent of occupied units 143
+ American Indian Eskimo or Aleut 20375
+ Percent of occupied units 03
+ Asian or Pacific Islander 201644
+ Percent of occupied units 30
+ Other race 284879
+ Hispanic origin of any race 665079
+ Percent of occupied units 100
+
+
+
+1990 Census of Population and Housing Page 1
+  North Carolina
+
+ Total population 6628637
+SEX
+ Male 3214290
+ Female 3414347
+AGE
+ Under 5 years 458955
+ 5 to 17 years 1147194
+ 18 to 20 years 348346
+ 21 to 24 years 432707
+ 25 to 44 years 2151486
+ 45 to 54 years 698705
+ 55 to 59 years 295739
+ 60 to 64 years 291164
+ 65 to 74 years 483105
+ 75 to 84 years 251267
+ 85 years and over 69969
+ Median age 331
+Under 18 years 1606149
+ Percent of total population 242
+65 years and over 804341
+ Percent of total population 121
+HOUSEHOLDS BY TYPE
+Total households 2517026
+ Family households families 1812053
+ Marriedcouple families 1424206
+ Percent of total households 566
+ Other family male householder 77971
+ Other family female householder 309876
+ Nonfamily households 704973
+ Percent of total households 280
+ Householder living alone 596959
+ Householder 65 years and over 226384
+ Persons living in households 6404167
+ Persons per household 254
+GROUP QUARTERS
+ Persons living in group quarters 224470
+ Institutionalized persons 83400
+ Other persons in group quarters 141070
+RACE AND HISPANIC ORIGIN
+ White 5008491
+ Black 1456323
+ Percent of total population 220
+ American Indian Eskimo or Aleut 80155
+ Percent of total population 12
+ Asian or Pacific Islander 52166
+ Percent of total population 08
+ Other race 31502
+ Hispanic origin of any race 76726
+ Percent of total population 12
+
+
+1990 Census of Population and Housing Page 2
+  North Carolina
+
+ Total housing units 2818193
+OCCUPANCY AND TENURE
+ Occupied housing units 2517026
+ Owner occupied 1711817
+ Percent owner occupied 680
+ Renter occupied 805209
+ Vacant housing units 301167
+ For seasonal recreational or occasional use 98714
+ Homeowner vacancy rate percent 18
+ Rental vacancy rate percent 92
+ Persons per owneroccupied unit 262
+ Persons per renteroccupied unit 239
+ Units with over 1 person per room 72635
+UNITS IN STRUCTURE
+ 1unit detached 1830229
+ 1unit attached 74318
+ 2 to 4 units 177700
+ 5 to 9 units 130801
+ 10 or more units 150986
+ Mobile home trailer other 454159
+VALUE
+ Specified owneroccupied units 1217975
+ Less than 50000 382781
+ 50000 to 99000 575677
+ 100000 to 149000 155158
+ 150000 to 199999 56252
+ 200000 to 299999 33088
+ 300000 or more 15019
+ Median dollars 65800
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 709716
+ Less than 250 288186
+ 250 to 499 360735
+ 500 to 749 52038
+ 750 to 999 4888
+ 1000 or more 3869
+ Median dollars 284
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 2517026
+ White 1977594
+ Black 492214
+ Percent of occupied units 196
+ American Indian Eskimo or Aleut 25528
+ Percent of occupied units 10
+ Asian or Pacific Islander 13706
+ Percent of occupied units 05
+ Other race 7984
+ Hispanic origin of any race 21533
+ Percent of occupied units 09
+
+
+
+1990 Census of Population and Housing Page 1
+  North Dakota
+
+ Total population 638800
+SEX
+ Male 318201
+ Female 320599
+AGE
+ Under 5 years 47845
+ 5 to 17 years 127540
+ 18 to 20 years 30750
+ 21 to 24 years 37103
+ 25 to 44 years 194035
+ 45 to 54 years 57084
+ 55 to 59 years 26268
+ 60 to 64 years 27120
+ 65 to 74 years 47541
+ 75 to 84 years 32274
+ 85 years and over 11240
+ Median age 324
+Under 18 years 175385
+ Percent of total population 275
+65 years and over 91055
+ Percent of total population 143
+HOUSEHOLDS BY TYPE
+Total households 240878
+ Family households families 166270
+ Marriedcouple families 142374
+ Percent of total households 591
+ Other family male householder 6373
+ Other family female householder 17523
+ Nonfamily households 74608
+ Percent of total households 310
+ Householder living alone 63953
+ Householder 65 years and over 28021
+ Persons living in households 614566
+ Persons per household 255
+GROUP QUARTERS
+ Persons living in group quarters 24234
+ Institutionalized persons 10574
+ Other persons in group quarters 13660
+RACE AND HISPANIC ORIGIN
+ White 604142
+ Black 3524
+ Percent of total population 06
+ American Indian Eskimo or Aleut 25917
+ Percent of total population 41
+ Asian or Pacific Islander 3462
+ Percent of total population 05
+ Other race 1755
+ Hispanic origin of any race 4665
+ Percent of total population 07
+
+
+1990 Census of Population and Housing Page 2
+  North Dakota
+
+ Total housing units 276340
+OCCUPANCY AND TENURE
+ Occupied housing units 240878
+ Owner occupied 157950
+ Percent owner occupied 656
+ Renter occupied 82928
+ Vacant housing units 35462
+ For seasonal recreational or occasional use 7236
+ Homeowner vacancy rate percent 29
+ Rental vacancy rate percent 90
+ Persons per owneroccupied unit 274
+ Persons per renteroccupied unit 218
+ Units with over 1 person per room 4762
+UNITS IN STRUCTURE
+ 1unit detached 172938
+ 1unit attached 10286
+ 2 to 4 units 21127
+ 5 to 9 units 12011
+ 10 or more units 30362
+ Mobile home trailer other 29616
+VALUE
+ Specified owneroccupied units 103702
+ Less than 50000 50617
+ 50000 to 99000 46313
+ 100000 to 149000 5057
+ 150000 to 199999 1087
+ 200000 to 299999 522
+ 300000 or more 106
+ Median dollars 50800
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 69800
+ Less than 250 31355
+ 250 to 499 35647
+ 500 to 749 2476
+ 750 to 999 227
+ 1000 or more 95
+ Median dollars 266
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 240878
+ White 231488
+ Black 1077
+ Percent of occupied units 04
+ American Indian Eskimo or Aleut 6998
+ Percent of occupied units 29
+ Asian or Pacific Islander 879
+ Percent of occupied units 04
+ Other race 436
+ Hispanic origin of any race 1138
+ Percent of occupied units 05
+
+
+
+1990 Census of Population and Housing Page 1
+  Ohio
+
+ Total population 10847115
+SEX
+ Male 5226340
+ Female 5620775
+AGE
+ Under 5 years 785149
+ 5 to 17 years 2014595
+ 18 to 20 years 511421
+ 21 to 24 years 624997
+ 25 to 44 years 3411043
+ 45 to 54 years 1113443
+ 55 to 59 years 482526
+ 60 to 64 years 496980
+ 65 to 74 years 828028
+ 75 to 84 years 440903
+ 85 years and over 138030
+ Median age 333
+Under 18 years 2799744
+ Percent of total population 258
+65 years and over 1406961
+ Percent of total population 130
+HOUSEHOLDS BY TYPE
+Total households 4087546
+ Family households families 2895223
+ Marriedcouple families 2294111
+ Percent of total households 561
+ Other family male householder 123042
+ Other family female householder 478070
+ Nonfamily households 1192323
+ Percent of total households 292
+ Householder living alone 1020450
+ Householder 65 years and over 416352
+ Persons living in households 10585664
+ Persons per household 259
+GROUP QUARTERS
+ Persons living in group quarters 261451
+ Institutionalized persons 152331
+ Other persons in group quarters 109120
+RACE AND HISPANIC ORIGIN
+ White 9521756
+ Black 1154826
+ Percent of total population 106
+ American Indian Eskimo or Aleut 20358
+ Percent of total population 02
+ Asian or Pacific Islander 91179
+ Percent of total population 08
+ Other race 58996
+ Hispanic origin of any race 139696
+ Percent of total population 13
+
+
+1990 Census of Population and Housing Page 2
+  Ohio
+
+ Total housing units 4371945
+OCCUPANCY AND TENURE
+ Occupied housing units 4087546
+ Owner occupied 2758149
+ Percent owner occupied 675
+ Renter occupied 1329397
+ Vacant housing units 284399
+ For seasonal recreational or occasional use 37324
+ Homeowner vacancy rate percent 14
+ Rental vacancy rate percent 75
+ Persons per owneroccupied unit 274
+ Persons per renteroccupied unit 227
+ Units with over 1 person per room 71771
+UNITS IN STRUCTURE
+ 1unit detached 2896826
+ 1unit attached 147651
+ 2 to 4 units 461286
+ 5 to 9 units 204074
+ 10 or more units 415589
+ Mobile home trailer other 246519
+VALUE
+ Specified owneroccupied units 2241277
+ Less than 50000 734006
+ 50000 to 99000 1102762
+ 100000 to 149000 260464
+ 150000 to 199999 80808
+ 200000 to 299999 42921
+ 300000 or more 20316
+ Median dollars 63500
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 1231515
+ Less than 250 431181
+ 250 to 499 692202
+ 500 to 749 87843
+ 750 to 999 11495
+ 1000 or more 8794
+ Median dollars 296
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 4087546
+ White 3621244
+ Black 415670
+ Percent of occupied units 102
+ American Indian Eskimo or Aleut 7688
+ Percent of occupied units 02
+ Asian or Pacific Islander 26824
+ Percent of occupied units 07
+ Other race 16120
+ Hispanic origin of any race 41119
+ Percent of occupied units 10
+
+
+
+1990 Census of Population and Housing Page 1
+  Oklahoma
+
+ Total population 3145585
+SEX
+ Male 1530819
+ Female 1614766
+AGE
+ Under 5 years 226523
+ 5 to 17 years 610484
+ 18 to 20 years 148115
+ 21 to 24 years 173274
+ 25 to 44 years 961560
+ 45 to 54 years 322975
+ 55 to 59 years 141214
+ 60 to 64 years 137227
+ 65 to 74 years 235135
+ 75 to 84 years 143230
+ 85 years and over 45848
+ Median age 332
+Under 18 years 837007
+ Percent of total population 266
+65 years and over 424213
+ Percent of total population 135
+HOUSEHOLDS BY TYPE
+Total households 1206135
+ Family households families 855321
+ Marriedcouple families 695961
+ Percent of total households 577
+ Other family male householder 33891
+ Other family female householder 125469
+ Nonfamily households 350814
+ Percent of total households 291
+ Householder living alone 309369
+ Householder 65 years and over 131237
+ Persons living in households 3051908
+ Persons per household 253
+GROUP QUARTERS
+ Persons living in group quarters 93677
+ Institutionalized persons 51211
+ Other persons in group quarters 42466
+RACE AND HISPANIC ORIGIN
+ White 2583512
+ Black 233801
+ Percent of total population 74
+ American Indian Eskimo or Aleut 252420
+ Percent of total population 80
+ Asian or Pacific Islander 33563
+ Percent of total population 11
+ Other race 42289
+ Hispanic origin of any race 86160
+ Percent of total population 27
+
+
+1990 Census of Population and Housing Page 2
+  Oklahoma
+
+ Total housing units 1406499
+OCCUPANCY AND TENURE
+ Occupied housing units 1206135
+ Owner occupied 821188
+ Percent owner occupied 681
+ Renter occupied 384947
+ Vacant housing units 200364
+ For seasonal recreational or occasional use 25169
+ Homeowner vacancy rate percent 37
+ Rental vacancy rate percent 147
+ Persons per owneroccupied unit 259
+ Persons per renteroccupied unit 241
+ Units with over 1 person per room 39941
+UNITS IN STRUCTURE
+ 1unit detached 1005020
+ 1unit attached 32851
+ 2 to 4 units 69010
+ 5 to 9 units 56306
+ 10 or more units 99611
+ Mobile home trailer other 143701
+VALUE
+ Specified owneroccupied units 616290
+ Less than 50000 323678
+ 50000 to 99000 235557
+ 100000 to 149000 36815
+ 150000 to 199999 10934
+ 200000 to 299999 6055
+ 300000 or more 3251
+ Median dollars 48100
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 341131
+ Less than 250 159710
+ 250 to 499 162583
+ 500 to 749 15568
+ 750 to 999 2037
+ 1000 or more 1233
+ Median dollars 259
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1206135
+ White 1027966
+ Black 79203
+ Percent of occupied units 66
+ American Indian Eskimo or Aleut 77846
+ Percent of occupied units 65
+ Asian or Pacific Islander 9439
+ Percent of occupied units 08
+ Other race 11681
+ Hispanic origin of any race 23481
+ Percent of occupied units 19
+
+
+
+1990 Census of Population and Housing Page 1
+  Oregon
+
+ Total population 2842321
+SEX
+ Male 1397073
+ Female 1445248
+AGE
+ Under 5 years 201421
+ 5 to 17 years 522709
+ 18 to 20 years 119327
+ 21 to 24 years 148201
+ 25 to 44 years 926395
+ 45 to 54 years 296595
+ 55 to 59 years 116011
+ 60 to 64 years 120338
+ 65 to 74 years 224438
+ 75 to 84 years 128071
+ 85 years and over 38815
+ Median age 345
+Under 18 years 724130
+ Percent of total population 255
+65 years and over 391324
+ Percent of total population 138
+HOUSEHOLDS BY TYPE
+Total households 1103313
+ Family households families 750844
+ Marriedcouple families 613297
+ Percent of total households 556
+ Other family male householder 35785
+ Other family female householder 101762
+ Nonfamily households 352469
+ Percent of total households 319
+ Householder living alone 278716
+ Householder 65 years and over 108579
+ Persons living in households 2776116
+ Persons per household 252
+GROUP QUARTERS
+ Persons living in group quarters 66205
+ Institutionalized persons 33378
+ Other persons in group quarters 32827
+RACE AND HISPANIC ORIGIN
+ White 2636787
+ Black 46178
+ Percent of total population 16
+ American Indian Eskimo or Aleut 38496
+ Percent of total population 14
+ Asian or Pacific Islander 69269
+ Percent of total population 24
+ Other race 51591
+ Hispanic origin of any race 112707
+ Percent of total population 40
+
+
+1990 Census of Population and Housing Page 2
+  Oregon
+
+ Total housing units 1193567
+OCCUPANCY AND TENURE
+ Occupied housing units 1103313
+ Owner occupied 695957
+ Percent owner occupied 631
+ Renter occupied 407356
+ Vacant housing units 90254
+ For seasonal recreational or occasional use 30200
+ Homeowner vacancy rate percent 14
+ Rental vacancy rate percent 53
+ Persons per owneroccupied unit 262
+ Persons per renteroccupied unit 233
+ Units with over 1 person per room 40135
+UNITS IN STRUCTURE
+ 1unit detached 764258
+ 1unit attached 32355
+ 2 to 4 units 86371
+ 5 to 9 units 46847
+ 10 or more units 118592
+ Mobile home trailer other 145144
+VALUE
+ Specified owneroccupied units 511829
+ Less than 50000 133255
+ 50000 to 99000 281213
+ 100000 to 149000 62663
+ 150000 to 199999 19504
+ 200000 to 299999 10456
+ 300000 or more 4738
+ Median dollars 67100
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 378482
+ Less than 250 82356
+ 250 to 499 241786
+ 500 to 749 44473
+ 750 to 999 6444
+ 1000 or more 3423
+ Median dollars 344
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1103313
+ White 1043711
+ Black 15385
+ Percent of occupied units 14
+ American Indian Eskimo or Aleut 11923
+ Percent of occupied units 11
+ Asian or Pacific Islander 20008
+ Percent of occupied units 18
+ Other race 12286
+ Hispanic origin of any race 28204
+ Percent of occupied units 26
+
+
+
+1990 Census of Population and Housing Page 1
+  Pennsylvania
+
+ Total population 11881643
+SEX
+ Male 5694265
+ Female 6187378
+AGE
+ Under 5 years 797058
+ 5 to 17 years 1997752
+ 18 to 20 years 551216
+ 21 to 24 years 675559
+ 25 to 44 years 3657323
+ 45 to 54 years 1213845
+ 55 to 59 years 552378
+ 60 to 64 years 607406
+ 65 to 74 years 1070021
+ 75 to 84 years 587249
+ 85 years and over 171836
+ Median age 350
+Under 18 years 2794810
+ Percent of total population 235
+65 years and over 1829106
+ Percent of total population 154
+HOUSEHOLDS BY TYPE
+Total households 4495966
+ Family households families 3155989
+ Marriedcouple families 2502072
+ Percent of total households 557
+ Other family male householder 146909
+ Other family female householder 507008
+ Nonfamily households 1339977
+ Percent of total households 298
+ Householder living alone 1150694
+ Householder 65 years and over 526264
+ Persons living in households 11533219
+ Persons per household 257
+GROUP QUARTERS
+ Persons living in group quarters 348424
+ Institutionalized persons 174210
+ Other persons in group quarters 174214
+RACE AND HISPANIC ORIGIN
+ White 10520201
+ Black 1089795
+ Percent of total population 92
+ American Indian Eskimo or Aleut 14733
+ Percent of total population 01
+ Asian or Pacific Islander 137438
+ Percent of total population 12
+ Other race 119476
+ Hispanic origin of any race 232262
+ Percent of total population 20
+
+
+1990 Census of Population and Housing Page 2
+  Pennsylvania
+
+ Total housing units 4938140
+OCCUPANCY AND TENURE
+ Occupied housing units 4495966
+ Owner occupied 3176121
+ Percent owner occupied 706
+ Renter occupied 1319845
+ Vacant housing units 442174
+ For seasonal recreational or occasional use 144359
+ Homeowner vacancy rate percent 15
+ Rental vacancy rate percent 72
+ Persons per owneroccupied unit 272
+ Persons per renteroccupied unit 219
+ Units with over 1 person per room 82518
+UNITS IN STRUCTURE
+ 1unit detached 2636631
+ 1unit attached 909676
+ 2 to 4 units 507488
+ 5 to 9 units 171041
+ 10 or more units 393091
+ Mobile home trailer other 320213
+VALUE
+ Specified owneroccupied units 2581261
+ Less than 50000 829226
+ 50000 to 99000 1017795
+ 100000 to 149000 395881
+ 150000 to 199999 180618
+ 200000 to 299999 109080
+ 300000 or more 48661
+ Median dollars 69700
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 1216440
+ Less than 250 397012
+ 250 to 499 601609
+ 500 to 749 174432
+ 750 to 999 28834
+ 1000 or more 14553
+ Median dollars 322
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 4495966
+ White 4045430
+ Black 376034
+ Percent of occupied units 84
+ American Indian Eskimo or Aleut 5353
+ Percent of occupied units 01
+ Asian or Pacific Islander 37362
+ Percent of occupied units 08
+ Other race 31787
+ Hispanic origin of any race 65338
+ Percent of occupied units 15
+
+
+
+1990 Census of Population and Housing Page 1
+  Rhode Island
+
+ Total population 1003464
+SEX
+ Male 481496
+ Female 521968
+AGE
+ Under 5 years 66969
+ 5 to 17 years 158721
+ 18 to 20 years 54930
+ 21 to 24 years 65428
+ 25 to 44 years 321241
+ 45 to 54 years 96425
+ 55 to 59 years 42077
+ 60 to 64 years 47126
+ 65 to 74 years 85616
+ 75 to 84 years 48915
+ 85 years and over 16016
+ Median age 340
+Under 18 years 225690
+ Percent of total population 225
+65 years and over 150547
+ Percent of total population 150
+HOUSEHOLDS BY TYPE
+Total households 377977
+ Family households families 258886
+ Marriedcouple families 202283
+ Percent of total households 535
+ Other family male householder 12261
+ Other family female householder 44342
+ Nonfamily households 119091
+ Percent of total households 315
+ Householder living alone 99111
+ Householder 65 years and over 44627
+ Persons living in households 964869
+ Persons per household 255
+GROUP QUARTERS
+ Persons living in group quarters 38595
+ Institutionalized persons 14801
+ Other persons in group quarters 23794
+RACE AND HISPANIC ORIGIN
+ White 917375
+ Black 38861
+ Percent of total population 39
+ American Indian Eskimo or Aleut 4071
+ Percent of total population 04
+ Asian or Pacific Islander 18325
+ Percent of total population 18
+ Other race 24832
+ Hispanic origin of any race 45752
+ Percent of total population 46
+
+
+1990 Census of Population and Housing Page 2
+  Rhode Island
+
+ Total housing units 414572
+OCCUPANCY AND TENURE
+ Occupied housing units 377977
+ Owner occupied 224792
+ Percent owner occupied 595
+ Renter occupied 153185
+ Vacant housing units 36595
+ For seasonal recreational or occasional use 12037
+ Homeowner vacancy rate percent 15
+ Rental vacancy rate percent 79
+ Persons per owneroccupied unit 278
+ Persons per renteroccupied unit 223
+ Units with over 1 person per room 8676
+UNITS IN STRUCTURE
+ 1unit detached 218776
+ 1unit attached 11188
+ 2 to 4 units 109460
+ 5 to 9 units 23024
+ 10 or more units 43280
+ Mobile home trailer other 8844
+VALUE
+ Specified owneroccupied units 176494
+ Less than 50000 3037
+ 50000 to 99000 31045
+ 100000 to 149000 78439
+ 150000 to 199999 35562
+ 200000 to 299999 19426
+ 300000 or more 8985
+ Median dollars 133500
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 146347
+ Less than 250 30696
+ 250 to 499 69365
+ 500 to 749 38510
+ 750 to 999 5709
+ 1000 or more 2067
+ Median dollars 416
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 377977
+ White 352749
+ Black 12445
+ Percent of occupied units 33
+ American Indian Eskimo or Aleut 1339
+ Percent of occupied units 04
+ Asian or Pacific Islander 4471
+ Percent of occupied units 12
+ Other race 6973
+ Hispanic origin of any race 13092
+ Percent of occupied units 35
+
+
+
+1990 Census of Population and Housing Page 1
+  South Carolina
+
+ Total population 3486703
+SEX
+ Male 1688510
+ Female 1798193
+AGE
+ Under 5 years 256337
+ 5 to 17 years 663870
+ 18 to 20 years 185514
+ 21 to 24 years 221012
+ 25 to 44 years 1114643
+ 45 to 54 years 355610
+ 55 to 59 years 148762
+ 60 to 64 years 144020
+ 65 to 74 years 246305
+ 75 to 84 years 119881
+ 85 years and over 30749
+ Median age 320
+Under 18 years 920207
+ Percent of total population 264
+65 years and over 396935
+ Percent of total population 114
+HOUSEHOLDS BY TYPE
+Total households 1258044
+ Family households families 928206
+ Marriedcouple families 710089
+ Percent of total households 564
+ Other family male householder 41913
+ Other family female householder 176204
+ Nonfamily households 329838
+ Percent of total households 262
+ Householder living alone 281347
+ Householder 65 years and over 109012
+ Persons living in households 3370160
+ Persons per household 268
+GROUP QUARTERS
+ Persons living in group quarters 116543
+ Institutionalized persons 44134
+ Other persons in group quarters 72409
+RACE AND HISPANIC ORIGIN
+ White 2406974
+ Black 1039884
+ Percent of total population 298
+ American Indian Eskimo or Aleut 8246
+ Percent of total population 02
+ Asian or Pacific Islander 22382
+ Percent of total population 06
+ Other race 9217
+ Hispanic origin of any race 30551
+ Percent of total population 09
+
+
+1990 Census of Population and Housing Page 2
+  South Carolina
+
+ Total housing units 1424155
+OCCUPANCY AND TENURE
+ Occupied housing units 1258044
+ Owner occupied 878704
+ Percent owner occupied 698
+ Renter occupied 379340
+ Vacant housing units 166111
+ For seasonal recreational or occasional use 49843
+ Homeowner vacancy rate percent 17
+ Rental vacancy rate percent 115
+ Persons per owneroccupied unit 275
+ Persons per renteroccupied unit 252
+ Units with over 1 person per room 51061
+UNITS IN STRUCTURE
+ 1unit detached 898161
+ 1unit attached 33891
+ 2 to 4 units 91572
+ 5 to 9 units 67091
+ 10 or more units 80065
+ Mobile home trailer other 253375
+VALUE
+ Specified owneroccupied units 615434
+ Less than 50000 225745
+ 50000 to 99000 280127
+ 100000 to 149000 63463
+ 150000 to 199999 23718
+ 200000 to 299999 14812
+ 300000 or more 7569
+ Median dollars 61100
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 332473
+ Less than 250 145105
+ 250 to 499 161649
+ 500 to 749 21732
+ 750 to 999 2691
+ 1000 or more 1296
+ Median dollars 276
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1258044
+ White 923440
+ Black 323878
+ Percent of occupied units 257
+ American Indian Eskimo or Aleut 2747
+ Percent of occupied units 02
+ Asian or Pacific Islander 5599
+ Percent of occupied units 04
+ Other race 2380
+ Hispanic origin of any race 8586
+ Percent of occupied units 07
+
+
+
+1990 Census of Population and Housing Page 1
+  South Dakota
+
+ Total population 696004
+SEX
+ Male 342498
+ Female 353506
+AGE
+ Under 5 years 54504
+ 5 to 17 years 143958
+ 18 to 20 years 31014
+ 21 to 24 years 37099
+ 25 to 44 years 204629
+ 45 to 54 years 62669
+ 55 to 59 years 29218
+ 60 to 64 years 30582
+ 65 to 74 years 54471
+ 75 to 84 years 34517
+ 85 years and over 13343
+ Median age 325
+Under 18 years 198462
+ Percent of total population 285
+65 years and over 102331
+ Percent of total population 147
+HOUSEHOLDS BY TYPE
+Total households 259034
+ Family households families 180306
+ Marriedcouple families 152519
+ Percent of total households 589
+ Other family male householder 7076
+ Other family female householder 20711
+ Nonfamily households 78728
+ Percent of total households 304
+ Householder living alone 68308
+ Householder 65 years and over 31560
+ Persons living in households 670163
+ Persons per household 259
+GROUP QUARTERS
+ Persons living in group quarters 25841
+ Institutionalized persons 13305
+ Other persons in group quarters 12536
+RACE AND HISPANIC ORIGIN
+ White 637515
+ Black 3258
+ Percent of total population 05
+ American Indian Eskimo or Aleut 50575
+ Percent of total population 73
+ Asian or Pacific Islander 3123
+ Percent of total population 04
+ Other race 1533
+ Hispanic origin of any race 5252
+ Percent of total population 08
+
+
+1990 Census of Population and Housing Page 2
+  South Dakota
+
+ Total housing units 292436
+OCCUPANCY AND TENURE
+ Occupied housing units 259034
+ Owner occupied 171161
+ Percent owner occupied 661
+ Renter occupied 87873
+ Vacant housing units 33402
+ For seasonal recreational or occasional use 8391
+ Homeowner vacancy rate percent 18
+ Rental vacancy rate percent 73
+ Persons per owneroccupied unit 271
+ Persons per renteroccupied unit 234
+ Units with over 1 person per room 7660
+UNITS IN STRUCTURE
+ 1unit detached 202166
+ 1unit attached 5249
+ 2 to 4 units 19166
+ 5 to 9 units 10003
+ 10 or more units 21642
+ Mobile home trailer other 34210
+VALUE
+ Specified owneroccupied units 113057
+ Less than 50000 64245
+ 50000 to 99000 42448
+ 100000 to 149000 4619
+ 150000 to 199999 1034
+ 200000 to 299999 533
+ 300000 or more 178
+ Median dollars 45200
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 72810
+ Less than 250 38086
+ 250 to 499 31425
+ 500 to 749 2955
+ 750 to 999 270
+ 1000 or more 74
+ Median dollars 242
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 259034
+ White 244847
+ Black 987
+ Percent of occupied units 04
+ American Indian Eskimo or Aleut 12053
+ Percent of occupied units 47
+ Asian or Pacific Islander 712
+ Percent of occupied units 03
+ Other race 435
+ Hispanic origin of any race 1321
+ Percent of occupied units 05
+
+
+
+1990 Census of Population and Housing Page 1
+  Tennessee
+
+ Total population 4877185
+SEX
+ Male 2348928
+ Female 2528257
+AGE
+ Under 5 years 333415
+ 5 to 17 years 883189
+ 18 to 20 years 238948
+ 21 to 24 years 288707
+ 25 to 44 years 1553309
+ 45 to 54 years 526210
+ 55 to 59 years 220952
+ 60 to 64 years 213637
+ 65 to 74 years 357423
+ 75 to 84 years 202601
+ 85 years and over 58794
+ Median age 336
+Under 18 years 1216604
+ Percent of total population 249
+65 years and over 618818
+ Percent of total population 127
+HOUSEHOLDS BY TYPE
+Total households 1853725
+ Family households families 1348019
+ Marriedcouple families 1059569
+ Percent of total households 572
+ Other family male householder 55751
+ Other family female householder 232699
+ Nonfamily households 505706
+ Percent of total households 273
+ Householder living alone 442129
+ Householder 65 years and over 178077
+ Persons living in households 4748056
+ Persons per household 256
+GROUP QUARTERS
+ Persons living in group quarters 129129
+ Institutionalized persons 65389
+ Other persons in group quarters 63740
+RACE AND HISPANIC ORIGIN
+ White 4048068
+ Black 778035
+ Percent of total population 160
+ American Indian Eskimo or Aleut 10039
+ Percent of total population 02
+ Asian or Pacific Islander 31839
+ Percent of total population 07
+ Other race 9204
+ Hispanic origin of any race 32741
+ Percent of total population 07
+
+
+1990 Census of Population and Housing Page 2
+  Tennessee
+
+ Total housing units 2026067
+OCCUPANCY AND TENURE
+ Occupied housing units 1853725
+ Owner occupied 1261118
+ Percent owner occupied 680
+ Renter occupied 592607
+ Vacant housing units 172342
+ For seasonal recreational or occasional use 23389
+ Homeowner vacancy rate percent 21
+ Rental vacancy rate percent 96
+ Persons per owneroccupied unit 266
+ Persons per renteroccupied unit 235
+ Units with over 1 person per room 50767
+UNITS IN STRUCTURE
+ 1unit detached 1358124
+ 1unit attached 55399
+ 2 to 4 units 145992
+ 5 to 9 units 92936
+ 10 or more units 166172
+ Mobile home trailer other 207444
+VALUE
+ Specified owneroccupied units 938366
+ Less than 50000 371768
+ 50000 to 99000 416401
+ 100000 to 149000 91498
+ 150000 to 199999 32230
+ 200000 to 299999 17793
+ 300000 or more 8676
+ Median dollars 58400
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 524172
+ Less than 250 228983
+ 250 to 499 260056
+ 500 to 749 29370
+ 750 to 999 3742
+ 1000 or more 2021
+ Median dollars 273
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1853725
+ White 1576161
+ Black 262505
+ Percent of occupied units 142
+ American Indian Eskimo or Aleut 3771
+ Percent of occupied units 02
+ Asian or Pacific Islander 8797
+ Percent of occupied units 05
+ Other race 2491
+ Hispanic origin of any race 9649
+ Percent of occupied units 05
+
+
+
+1990 Census of Population and Housing Page 1
+  Texas
+
+ Total population 16986510
+SEX
+ Male 8365963
+ Female 8620547
+AGE
+ Under 5 years 1390054
+ 5 to 17 years 3445785
+ 18 to 20 years 836698
+ 21 to 24 years 1054146
+ 25 to 44 years 5625196
+ 45 to 54 years 1628634
+ 55 to 59 years 661590
+ 60 to 64 years 627831
+ 65 to 74 years 998239
+ 75 to 84 years 551732
+ 85 years and over 166605
+ Median age 308
+Under 18 years 4835839
+ Percent of total population 285
+65 years and over 1716576
+ Percent of total population 101
+HOUSEHOLDS BY TYPE
+Total households 6070937
+ Family households families 4343878
+ Marriedcouple families 3435540
+ Percent of total households 566
+ Other family male householder 206512
+ Other family female householder 701826
+ Nonfamily households 1727059
+ Percent of total households 284
+ Householder living alone 1452936
+ Householder 65 years and over 472029
+ Persons living in households 16593063
+ Persons per household 273
+GROUP QUARTERS
+ Persons living in group quarters 393447
+ Institutionalized persons 221272
+ Other persons in group quarters 172175
+RACE AND HISPANIC ORIGIN
+ White 12774762
+ Black 2021632
+ Percent of total population 119
+ American Indian Eskimo or Aleut 65877
+ Percent of total population 04
+ Asian or Pacific Islander 319459
+ Percent of total population 19
+ Other race 1804780
+ Hispanic origin of any race 4339905
+ Percent of total population 255
+
+
+1990 Census of Population and Housing Page 2
+  Texas
+
+ Total housing units 7008999
+OCCUPANCY AND TENURE
+ Occupied housing units 6070937
+ Owner occupied 3695115
+ Percent owner occupied 609
+ Renter occupied 2375822
+ Vacant housing units 938062
+ For seasonal recreational or occasional use 151919
+ Homeowner vacancy rate percent 32
+ Rental vacancy rate percent 130
+ Persons per owneroccupied unit 285
+ Persons per renteroccupied unit 255
+ Units with over 1 person per room 494578
+UNITS IN STRUCTURE
+ 1unit detached 4388813
+ 1unit attached 215201
+ 2 to 4 units 390675
+ 5 to 9 units 343049
+ 10 or more units 1040600
+ Mobile home trailer other 630661
+VALUE
+ Specified owneroccupied units 2949089
+ Less than 50000 1151228
+ 50000 to 99000 1261075
+ 100000 to 149000 314811
+ 150000 to 199999 111266
+ 200000 to 299999 66470
+ 300000 or more 44239
+ Median dollars 59600
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 2192550
+ Less than 250 573792
+ 250 to 499 1321160
+ 500 to 749 239984
+ 750 to 999 36426
+ 1000 or more 21188
+ Median dollars 328
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 6070937
+ White 4800925
+ Black 684255
+ Percent of occupied units 113
+ American Indian Eskimo or Aleut 23482
+ Percent of occupied units 04
+ Asian or Pacific Islander 91141
+ Percent of occupied units 15
+ Other race 471134
+ Hispanic origin of any race 1158010
+ Percent of occupied units 191
+
+
+
+1990 Census of Population and Housing Page 1
+  Utah
+
+ Total population 1722850
+SEX
+ Male 855759
+ Female 867091
+AGE
+ Under 5 years 169633
+ 5 to 17 years 457811
+ 18 to 20 years 90245
+ 21 to 24 years 109741
+ 25 to 44 years 499570
+ 45 to 54 years 138481
+ 55 to 59 years 54930
+ 60 to 64 years 52481
+ 65 to 74 years 88187
+ 75 to 84 years 48160
+ 85 years and over 13611
+ Median age 262
+Under 18 years 627444
+ Percent of total population 364
+65 years and over 149958
+ Percent of total population 87
+HOUSEHOLDS BY TYPE
+Total households 537273
+ Family households families 410862
+ Marriedcouple families 348029
+ Percent of total households 648
+ Other family male householder 13756
+ Other family female householder 49077
+ Nonfamily households 126411
+ Percent of total households 235
+ Householder living alone 101640
+ Householder 65 years and over 38320
+ Persons living in households 1693802
+ Persons per household 315
+GROUP QUARTERS
+ Persons living in group quarters 29048
+ Institutionalized persons 12739
+ Other persons in group quarters 16309
+RACE AND HISPANIC ORIGIN
+ White 1615845
+ Black 11576
+ Percent of total population 07
+ American Indian Eskimo or Aleut 24283
+ Percent of total population 14
+ Asian or Pacific Islander 33371
+ Percent of total population 19
+ Other race 37775
+ Hispanic origin of any race 84597
+ Percent of total population 49
+
+
+1990 Census of Population and Housing Page 2
+  Utah
+
+ Total housing units 598388
+OCCUPANCY AND TENURE
+ Occupied housing units 537273
+ Owner occupied 365979
+ Percent owner occupied 681
+ Renter occupied 171294
+ Vacant housing units 61115
+ For seasonal recreational or occasional use 21023
+ Homeowner vacancy rate percent 24
+ Rental vacancy rate percent 86
+ Persons per owneroccupied unit 338
+ Persons per renteroccupied unit 267
+ Units with over 1 person per room 29577
+UNITS IN STRUCTURE
+ 1unit detached 393374
+ 1unit attached 23702
+ 2 to 4 units 57715
+ 5 to 9 units 20503
+ 10 or more units 62050
+ Mobile home trailer other 41044
+VALUE
+ Specified owneroccupied units 303724
+ Less than 50000 61055
+ 50000 to 99000 188574
+ 100000 to 149000 35185
+ 150000 to 199999 10641
+ 200000 to 299999 5727
+ 300000 or more 2542
+ Median dollars 68900
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 161608
+ Less than 250 46261
+ 250 to 499 101235
+ 500 to 749 11278
+ 750 to 999 2144
+ 1000 or more 690
+ Median dollars 300
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 537273
+ White 508404
+ Black 3770
+ Percent of occupied units 07
+ American Indian Eskimo or Aleut 5841
+ Percent of occupied units 11
+ Asian or Pacific Islander 8582
+ Percent of occupied units 16
+ Other race 10676
+ Hispanic origin of any race 22720
+ Percent of occupied units 42
+
+
+
+1990 Census of Population and Housing Page 1
+  Vermont
+ Total population 562758
+SEX
+ Male 275492
+ Female 287266
+AGE
+ Under 5 years 41261
+ 5 to 17 years 101822
+ 18 to 20 years 29671
+ 21 to 24 years 33495
+ 25 to 44 years 187689
+ 45 to 54 years 57389
+ 55 to 59 years 22787
+ 60 to 64 years 22481
+ 65 to 74 years 37072
+ 75 to 84 years 21568
+ 85 years and over 7523
+ Median age 330
+Under 18 years 143083
+ Percent of total population 254
+65 years and over 66163
+ Percent of total population 118
+HOUSEHOLDS BY TYPE
+Total households 210650
+ Family households families 144895
+ Marriedcouple families 118905
+ Percent of total households 564
+ Other family male householder 6630
+ Other family female householder 19360
+ Nonfamily households 65755
+ Percent of total households 312
+ Householder living alone 49366
+ Householder 65 years and over 19648
+ Persons living in households 541116
+ Persons per household 257
+GROUP QUARTERS
+ Persons living in group quarters 21642
+ Institutionalized persons 6161
+ Other persons in group quarters 15481
+RACE AND HISPANIC ORIGIN
+ White 555088
+ Black 1951
+ Percent of total population 03
+ American Indian Eskimo or Aleut 1696
+ Percent of total population 03
+ Asian or Pacific Islander 3215
+ Percent of total population 06
+ Other race 808
+ Hispanic origin of any race 3661
+ Percent of total population 07
+
+
+1990 Census of Population and Housing Page 2
+  Vermont
+ Total housing units 271214
+OCCUPANCY AND TENURE
+ Occupied housing units 210650
+ Owner occupied 145368
+ Percent owner occupied 690
+ Renter occupied 65282
+ Vacant housing units 60564
+ For seasonal recreational or occasional use 45405
+ Homeowner vacancy rate percent 21
+ Rental vacancy rate percent 75
+ Persons per owneroccupied unit 273
+ Persons per renteroccupied unit 222
+ Units with over 1 person per room 3595
+UNITS IN STRUCTURE
+ 1unit detached 168272
+ 1unit attached 9367
+ 2 to 4 units 40864
+ 5 to 9 units 13742
+ 10 or more units 10376
+ Mobile home trailer other 28593
+VALUE
+ Specified owneroccupied units 89157
+ Less than 50000 7850
+ 50000 to 99000 41304
+ 100000 to 149000 25549
+ 150000 to 199999 8361
+ 200000 to 299999 4398
+ 300000 or more 1695
+ Median dollars 95500
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 57846
+ Less than 250 11239
+ 250 to 499 34117
+ 500 to 749 10390
+ 750 to 999 1495
+ 1000 or more 605
+ Median dollars 378
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 210650
+ White 208607
+ Black 557
+ Percent of occupied units 03
+ American Indian Eskimo or Aleut 591
+ Percent of occupied units 03
+ Asian or Pacific Islander 718
+ Percent of occupied units 03
+ Other race 177
+ Hispanic origin of any race 1147
+ Percent of occupied units 05
+
+ Occupied housing units 210650
+
+
+1990 Census of Population and Housing Page 1
+  Virginia
+
+ Total population 6187358
+SEX
+ Male 3033974
+ Female 3153384
+AGE
+ Under 5 years 443155
+ 5 to 17 years 1061583
+ 18 to 20 years 308105
+ 21 to 24 years 411626
+ 25 to 44 years 2132444
+ 45 to 54 years 663332
+ 55 to 59 years 257207
+ 60 to 64 years 245436
+ 65 to 74 years 400622
+ 75 to 84 years 204139
+ 85 years and over 59709
+ Median age 326
+Under 18 years 1504738
+ Percent of total population 243
+65 years and over 664470
+ Percent of total population 107
+HOUSEHOLDS BY TYPE
+Total households 2291830
+ Family households families 1629490
+ Marriedcouple families 1302219
+ Percent of total households 568
+ Other family male householder 72165
+ Other family female householder 255106
+ Nonfamily households 662340
+ Percent of total households 289
+ Householder living alone 523770
+ Householder 65 years and over 178575
+ Persons living in households 5978058
+ Persons per household 261
+GROUP QUARTERS
+ Persons living in group quarters 209300
+ Institutionalized persons 84292
+ Other persons in group quarters 125008
+RACE AND HISPANIC ORIGIN
+ White 4791739
+ Black 1162994
+ Percent of total population 188
+ American Indian Eskimo or Aleut 15282
+ Percent of total population 02
+ Asian or Pacific Islander 159053
+ Percent of total population 26
+ Other race 58290
+ Hispanic origin of any race 160288
+ Percent of total population 26
+
+
+1990 Census of Population and Housing Page 2
+  Virginia
+
+ Total housing units 2496334
+OCCUPANCY AND TENURE
+ Occupied housing units 2291830
+ Owner occupied 1519521
+ Percent owner occupied 663
+ Renter occupied 772309
+ Vacant housing units 204504
+ For seasonal recreational or occasional use 41742
+ Homeowner vacancy rate percent 22
+ Rental vacancy rate percent 81
+ Persons per owneroccupied unit 270
+ Persons per renteroccupied unit 243
+ Units with over 1 person per room 65042
+UNITS IN STRUCTURE
+ 1unit detached 1531857
+ 1unit attached 216199
+ 2 to 4 units 143530
+ 5 to 9 units 135833
+ 10 or more units 286815
+ Mobile home trailer other 182100
+VALUE
+ Specified owneroccupied units 1192077
+ Less than 50000 206663
+ 50000 to 99000 466155
+ 100000 to 149000 203911
+ 150000 to 199999 132759
+ 200000 to 299999 116547
+ 300000 or more 66042
+ Median dollars 91000
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 698751
+ Less than 250 150635
+ 250 to 499 297353
+ 500 to 749 165383
+ 750 to 999 60428
+ 1000 or more 24952
+ Median dollars 411
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 2291830
+ White 1839325
+ Black 391280
+ Percent of occupied units 171
+ American Indian Eskimo or Aleut 5505
+ Percent of occupied units 02
+ Asian or Pacific Islander 41199
+ Percent of occupied units 18
+ Other race 14521
+ Hispanic origin of any race 43756
+ Percent of occupied units 19
+
+
+
+1990 Census of Population and Housing Page 1
+  Washington
+
+ Total population 4866692
+SEX
+ Male 2413747
+ Female 2452945
+AGE
+ Under 5 years 366780
+ 5 to 17 years 894607
+ 18 to 20 years 210809
+ 21 to 24 years 277730
+ 25 to 44 years 1658951
+ 45 to 54 years 501543
+ 55 to 59 years 191602
+ 60 to 64 years 189382
+ 65 to 74 years 336034
+ 75 to 84 years 182953
+ 85 years and over 56301
+ Median age 331
+Under 18 years 1261387
+ Percent of total population 259
+65 years and over 575288
+ Percent of total population 118
+HOUSEHOLDS BY TYPE
+Total households 1872431
+ Family households families 1264934
+ Marriedcouple families 1029267
+ Percent of total households 550
+ Other family male householder 60145
+ Other family female householder 175522
+ Nonfamily households 607497
+ Percent of total households 324
+ Householder living alone 476320
+ Householder 65 years and over 162520
+ Persons living in households 4746161
+ Persons per household 253
+GROUP QUARTERS
+ Persons living in group quarters 120531
+ Institutionalized persons 55313
+ Other persons in group quarters 65218
+RACE AND HISPANIC ORIGIN
+ White 4308937
+ Black 149801
+ Percent of total population 31
+ American Indian Eskimo or Aleut 81483
+ Percent of total population 17
+ Asian or Pacific Islander 210958
+ Percent of total population 43
+ Other race 115513
+ Hispanic origin of any race 214570
+ Percent of total population 44
+
+
+1990 Census of Population and Housing Page 2
+  Washington
+
+ Total housing units 2032378
+OCCUPANCY AND TENURE
+ Occupied housing units 1872431
+ Owner occupied 1171580
+ Percent owner occupied 626
+ Renter occupied 700851
+ Vacant housing units 159947
+ For seasonal recreational or occasional use 55832
+ Homeowner vacancy rate percent 13
+ Rental vacancy rate percent 58
+ Persons per owneroccupied unit 268
+ Persons per renteroccupied unit 230
+ Units with over 1 person per room 72798
+UNITS IN STRUCTURE
+ 1unit detached 1272721
+ 1unit attached 48086
+ 2 to 4 units 138785
+ 5 to 9 units 91003
+ 10 or more units 274586
+ Mobile home trailer other 207197
+VALUE
+ Specified owneroccupied units 896436
+ Less than 50000 123958
+ 50000 to 99000 371298
+ 100000 to 149000 192748
+ 150000 to 199999 101041
+ 200000 to 299999 67790
+ 300000 or more 39601
+ Median dollars 93400
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 655701
+ Less than 250 122103
+ 250 to 499 373552
+ 500 to 749 130901
+ 750 to 999 21321
+ 1000 or more 7824
+ Median dollars 383
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1872431
+ White 1708223
+ Black 51645
+ Percent of occupied units 28
+ American Indian Eskimo or Aleut 24699
+ Percent of occupied units 13
+ Asian or Pacific Islander 59205
+ Percent of occupied units 32
+ Other race 28659
+ Hispanic origin of any race 55706
+ Percent of occupied units 30
+
+
+
+1990 Census of Population and Housing Page 1
+  West Virginia
+
+ Total population 1793477
+SEX
+ Male 861536
+ Female 931941
+AGE
+ Under 5 years 106659
+ 5 to 17 years 336918
+ 18 to 20 years 87263
+ 21 to 24 years 92728
+ 25 to 44 years 532807
+ 45 to 54 years 191318
+ 55 to 59 years 85265
+ 60 to 64 years 91622
+ 65 to 74 years 155743
+ 75 to 84 years 87703
+ 85 years and over 25451
+ Median age 354
+Under 18 years 443577
+ Percent of total population 247
+65 years and over 268897
+ Percent of total population 150
+HOUSEHOLDS BY TYPE
+Total households 688557
+ Family households families 500259
+ Marriedcouple families 406105
+ Percent of total households 590
+ Other family male householder 20627
+ Other family female householder 73527
+ Nonfamily households 188298
+ Percent of total households 273
+ Householder living alone 168735
+ Householder 65 years and over 84405
+ Persons living in households 1756566
+ Persons per household 255
+GROUP QUARTERS
+ Persons living in group quarters 36911
+ Institutionalized persons 19469
+ Other persons in group quarters 17442
+RACE AND HISPANIC ORIGIN
+ White 1725523
+ Black 56295
+ Percent of total population 31
+ American Indian Eskimo or Aleut 2458
+ Percent of total population 01
+ Asian or Pacific Islander 7459
+ Percent of total population 04
+ Other race 1742
+ Hispanic origin of any race 8489
+ Percent of total population 05
+
+
+1990 Census of Population and Housing Page 2
+  West Virginia
+
+ Total housing units 781295
+OCCUPANCY AND TENURE
+ Occupied housing units 688557
+ Owner occupied 510058
+ Percent owner occupied 741
+ Renter occupied 178499
+ Vacant housing units 92738
+ For seasonal recreational or occasional use 22403
+ Homeowner vacancy rate percent 22
+ Rental vacancy rate percent 101
+ Persons per owneroccupied unit 263
+ Persons per renteroccupied unit 233
+ Units with over 1 person per room 13123
+UNITS IN STRUCTURE
+ 1unit detached 546165
+ 1unit attached 11415
+ 2 to 4 units 46445
+ 5 to 9 units 20179
+ 10 or more units 28923
+ Mobile home trailer other 128168
+VALUE
+ Specified owneroccupied units 350059
+ Less than 50000 185276
+ 50000 to 99000 136802
+ 100000 to 149000 18904
+ 150000 to 199999 5391
+ 200000 to 299999 2807
+ 300000 or more 879
+ Median dollars 47900
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 146057
+ Less than 250 88872
+ 250 to 499 53411
+ 500 to 749 3312
+ 750 to 999 267
+ 1000 or more 195
+ Median dollars 221
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 688557
+ White 664100
+ Black 20941
+ Percent of occupied units 30
+ American Indian Eskimo or Aleut 965
+ Percent of occupied units 01
+ Asian or Pacific Islander 2147
+ Percent of occupied units 03
+ Other race 404
+ Hispanic origin of any race 2785
+ Percent of occupied units 04
+
+
+
+1990 Census of Population and Housing Page 1
+  Wisconsin
+
+ Total population 4891769
+SEX
+ Male 2392935
+ Female 2498834
+AGE
+ Under 5 years 360730
+ 5 to 17 years 928252
+ 18 to 20 years 225390
+ 21 to 24 years 286936
+ 25 to 44 years 1546832
+ 45 to 54 years 478882
+ 55 to 59 years 204647
+ 60 to 64 years 208879
+ 65 to 74 years 358419
+ 75 to 84 years 218509
+ 85 years and over 74293
+ Median age 329
+Under 18 years 1288982
+ Percent of total population 264
+65 years and over 651221
+ Percent of total population 133
+HOUSEHOLDS BY TYPE
+Total households 1822118
+ Family households families 1275172
+ Marriedcouple families 1048010
+ Percent of total households 575
+ Other family male householder 52632
+ Other family female householder 174530
+ Nonfamily households 546946
+ Percent of total households 300
+ Householder living alone 443673
+ Householder 65 years and over 192072
+ Persons living in households 4758171
+ Persons per household 261
+GROUP QUARTERS
+ Persons living in group quarters 133598
+ Institutionalized persons 71288
+ Other persons in group quarters 62310
+RACE AND HISPANIC ORIGIN
+ White 4512523
+ Black 244539
+ Percent of total population 50
+ American Indian Eskimo or Aleut 39387
+ Percent of total population 08
+ Asian or Pacific Islander 53583
+ Percent of total population 11
+ Other race 41737
+ Hispanic origin of any race 93194
+ Percent of total population 19
+
+
+1990 Census of Population and Housing Page 2
+  Wisconsin
+
+ Total housing units 2055774
+OCCUPANCY AND TENURE
+ Occupied housing units 1822118
+ Owner occupied 1215350
+ Percent owner occupied 667
+ Renter occupied 606768
+ Vacant housing units 233656
+ For seasonal recreational or occasional use 150601
+ Homeowner vacancy rate percent 12
+ Rental vacancy rate percent 47
+ Persons per owneroccupied unit 279
+ Persons per renteroccupied unit 226
+ Units with over 1 person per room 38340
+UNITS IN STRUCTURE
+ 1unit detached 1342230
+ 1unit attached 50380
+ 2 to 4 units 277221
+ 5 to 9 units 81331
+ 10 or more units 175285
+ Mobile home trailer other 129327
+VALUE
+ Specified owneroccupied units 916708
+ Less than 50000 287197
+ 50000 to 99000 492163
+ 100000 to 149000 95292
+ 150000 to 199999 24660
+ 200000 to 299999 12286
+ 300000 or more 5110
+ Median dollars 62500
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 560465
+ Less than 250 146221
+ 250 to 499 343580
+ 500 to 749 61539
+ 750 to 999 6780
+ 1000 or more 2345
+ Median dollars 331
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 1822118
+ White 1712217
+ Black 75441
+ Percent of occupied units 41
+ American Indian Eskimo or Aleut 11515
+ Percent of occupied units 06
+ Asian or Pacific Islander 12284
+ Percent of occupied units 07
+ Other race 10661
+ Hispanic origin of any race 24165
+ Percent of occupied units 13
+
+
+
+1990 Census of Population and Housing Page 1
+  Wyoming
+
+ Total population 453588
+SEX
+ Male 227007
+ Female 226581
+AGE
+ Under 5 years 34780
+ 5 to 17 years 100745
+ 18 to 20 years 20025
+ 21 to 24 years 21361
+ 25 to 44 years 148495
+ 45 to 54 years 45497
+ 55 to 59 years 17893
+ 60 to 64 years 17597
+ 65 to 74 years 27759
+ 75 to 84 years 14886
+ 85 years and over 4550
+ Median age 320
+Under 18 years 135525
+ Percent of total population 299
+65 years and over 47195
+ Percent of total population 104
+HOUSEHOLDS BY TYPE
+Total households 168839
+ Family households families 119825
+ Marriedcouple families 100800
+ Percent of total households 597
+ Other family male householder 5035
+ Other family female householder 13990
+ Nonfamily households 49014
+ Percent of total households 290
+ Householder living alone 41287
+ Householder 65 years and over 14431
+ Persons living in households 443348
+ Persons per household 263
+GROUP QUARTERS
+ Persons living in group quarters 10240
+ Institutionalized persons 5434
+ Other persons in group quarters 4806
+RACE AND HISPANIC ORIGIN
+ White 427061
+ Black 3606
+ Percent of total population 08
+ American Indian Eskimo or Aleut 9479
+ Percent of total population 21
+ Asian or Pacific Islander 2806
+ Percent of total population 06
+ Other race 10636
+ Hispanic origin of any race 25751
+ Percent of total population 57
+
+
+1990 Census of Population and Housing Page 2
+  Wyoming
+
+ Total housing units 203411
+OCCUPANCY AND TENURE
+ Occupied housing units 168839
+ Owner occupied 114544
+ Percent owner occupied 678
+ Renter occupied 54295
+ Vacant housing units 34572
+ For seasonal recreational or occasional use 9468
+ Homeowner vacancy rate percent 39
+ Rental vacancy rate percent 144
+ Persons per owneroccupied unit 274
+ Persons per renteroccupied unit 239
+ Units with over 1 person per room 4702
+UNITS IN STRUCTURE
+ 1unit detached 129197
+ 1unit attached 6212
+ 2 to 4 units 15645
+ 5 to 9 units 6084
+ 10 or more units 10418
+ Mobile home trailer other 35855
+VALUE
+ Specified owneroccupied units 78414
+ Less than 50000 25854
+ 50000 to 99000 43796
+ 100000 to 149000 6243
+ 150000 to 199999 1473
+ 200000 to 299999 680
+ 300000 or more 368
+ Median dollars 61600
+CONTRACT RENT
+ Specified renteroccupied units paying cash rent 46728
+ Less than 250 20012
+ 250 to 499 24085
+ 500 to 749 2368
+ 750 to 999 165
+ 1000 or more 98
+ Median dollars 270
+RACE AND HISPANIC ORIGIN OF HOUSEHOLDER
+ Occupied housing units 168839
+ White 160879
+ Black 1208
+ Percent of occupied units 07
+ American Indian Eskimo or Aleut 2630
+ Percent of occupied units 16
+ Asian or Pacific Islander 772
+ Percent of occupied units 05
+ Other race 3350
+ Hispanic origin of any race 7662
+ Percent of occupied units 45
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Census of Population and Housing 1990 by 
+United States Bureau of the Census
+
+ END OF THIS PROJECT GUTENBERG EBOOK US CENSUS OF POPULATION 1990 
+
+ This file should be named 29txt or 29zip 
+This and all associated files of various formats will be found in
+ httpwwwgutenbergorg229
+
+
+
+Updated editions will replace the previous onethe old editions
+will be renamed
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works so the Foundation
+and you can copy and distribute it in the United States without
+permission and without paying copyright royalties Special rules
+set forth in the General Terms of Use part of this license apply to
+copying and distributing Project Gutenbergtm electronic works to
+protect the PROJECT GUTENBERGtm concept and trademark Project
+Gutenberg is a registered trademark and may not be used if you
+charge for the eBooks unless you receive specific permission If you
+do not charge anything for copies of this eBook complying with the
+rules is very easy You may use this eBook for nearly any purpose
+such as creation of derivative works reports performances and
+research They may be modified and printed and given awayyou may do
+practically ANYTHING with public domain eBooks Redistribution is
+subject to the trademark license especially commercial
+redistribution
+
+
+
+ START FULL LICENSE 
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenbergtm mission of promoting the free
+distribution of electronic works by using or distributing this work
+or any other work associated in any way with the phrase Project
+Gutenberg you agree to comply with all the terms of the Full Project
+Gutenbergtm License available with this file or online at
+httpgutenbergnetlicense
+
+
+Section 1 General Terms of Use and Redistributing Project Gutenbergtm
+electronic works
+
+1A By reading or using any part of this Project Gutenbergtm
+electronic work you indicate that you have read understand agree to
+and accept all the terms of this license and intellectual property
+trademarkcopyright agreement If you do not agree to abide by all
+the terms of this agreement you must cease using and return or destroy
+all copies of Project Gutenbergtm electronic works in your possession
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenbergtm electronic work and you do not agree to be bound by the
+terms of this agreement you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1E8
+
+1B Project Gutenberg is a registered trademark It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement There are a few
+things that you can do with most Project Gutenbergtm electronic works
+even without complying with the full terms of this agreement See
+paragraph 1C below There are a lot of things you can do with Project
+Gutenbergtm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenbergtm electronic
+works See paragraph 1E below
+
+1C The Project Gutenberg Literary Archive Foundation the Foundation
+or PGLAF owns a compilation copyright in the collection of Project
+Gutenbergtm electronic works Nearly all the individual works in the
+collection are in the public domain in the United States If an
+individual work is in the public domain in the United States and you are
+located in the United States we do not claim a right to prevent you from
+copying distributing performing displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed Of course we hope that you will support the Project
+Gutenbergtm mission of promoting free access to electronic works by
+freely sharing Project Gutenbergtm works in compliance with the terms of
+this agreement for keeping the Project Gutenbergtm name associated with
+the work You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenbergtm License when you share it without charge with others
+
+1D The copyright laws of the place where you are located also govern
+what you can do with this work Copyright laws in most countries are in
+a constant state of change If you are outside the United States check
+the laws of your country in addition to the terms of this agreement
+before downloading copying displaying performing distributing or
+creating derivative works based on this work or any other Project
+Gutenbergtm work The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States
+
+1E Unless you have removed all references to Project Gutenberg
+
+1E1 The following sentence with active links to or other immediate
+access to the full Project Gutenbergtm License must appear prominently
+whenever any copy of a Project Gutenbergtm work any work on which the
+phrase Project Gutenberg appears or with which the phrase Project
+Gutenberg is associated is accessed displayed performed viewed
+copied or distributed
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever You may copy it give it away or
+reuse it under the terms of the Project Gutenberg License included
+with this eBook or online at wwwgutenbergnet
+
+1E2 If an individual Project Gutenbergtm electronic work is derived
+from the public domain does not contain a notice indicating that it is
+posted with permission of the copyright holder the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges If you are redistributing or providing access to a work
+with the phrase Project Gutenberg associated with or appearing on the
+work you must comply either with the requirements of paragraphs 1E1
+through 1E7 or obtain permission for the use of the work and the
+Project Gutenbergtm trademark as set forth in paragraphs 1E8 or
+1E9
+
+1E3 If an individual Project Gutenbergtm electronic work is posted
+with the permission of the copyright holder your use and distribution
+must comply with both paragraphs 1E1 through 1E7 and any additional
+terms imposed by the copyright holder Additional terms will be linked
+to the Project Gutenbergtm License for all works posted with the
+permission of the copyright holder found at the beginning of this work
+
+1E4 Do not unlink or detach or remove the full Project Gutenbergtm
+License terms from this work or any files containing a part of this
+work or any other work associated with Project Gutenbergtm
+
+1E5 Do not copy display perform distribute or redistribute this
+electronic work or any part of this electronic work without
+prominently displaying the sentence set forth in paragraph 1E1 with
+active links or immediate access to the full terms of the Project
+Gutenbergtm License
+
+1E6 You may convert to and distribute this work in any binary
+compressed marked up nonproprietary or proprietary form including any
+word processing or hypertext form However if you provide access to or
+distribute copies of a Project Gutenbergtm work in a format other than
+Plain Vanilla ASCII or other format used in the official version
+posted on the official Project Gutenbergtm web site wwwgutenbergnet
+you must at no additional cost fee or expense to the user provide a
+copy a means of exporting a copy or a means of obtaining a copy upon
+request of the work in its original Plain Vanilla ASCII or other
+form Any alternate format must include the full Project Gutenbergtm
+License as specified in paragraph 1E1
+
+1E7 Do not charge a fee for access to viewing displaying
+performing copying or distributing any Project Gutenbergtm works
+unless you comply with paragraph 1E8 or 1E9
+
+1E8 You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenbergtm electronic works provided
+that
+
+ You pay a royalty fee of 20 of the gross profits you derive from
+ the use of Project Gutenbergtm works calculated using the method
+ you already use to calculate your applicable taxes The fee is
+ owed to the owner of the Project Gutenbergtm trademark but he
+ has agreed to donate royalties under this paragraph to the
+ Project Gutenberg Literary Archive Foundation Royalty payments
+ must be paid within 60 days following each date on which you
+ prepare or are legally required to prepare your periodic tax
+ returns Royalty payments should be clearly marked as such and
+ sent to the Project Gutenberg Literary Archive Foundation at the
+ address specified in Section 4 Information about donations to
+ the Project Gutenberg Literary Archive Foundation
+
+ You provide a full refund of any money paid by a user who notifies
+ you in writing or by email within 30 days of receipt that she
+ does not agree to the terms of the full Project Gutenbergtm
+ License You must require such a user to return or
+ destroy all copies of the works possessed in a physical medium
+ and discontinue all use of and all access to other copies of
+ Project Gutenbergtm works
+
+ You provide in accordance with paragraph 1F3 a full refund of any
+ money paid for a work or a replacement copy if a defect in the
+ electronic work is discovered and reported to you within 90 days
+ of receipt of the work
+
+ You comply with all other terms of this agreement for free
+ distribution of Project Gutenbergtm works
+
+1E9 If you wish to charge a fee or distribute a Project Gutenbergtm
+electronic work or group of works on different terms than are set
+forth in this agreement you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart the owner of the Project Gutenbergtm trademark Contact the
+Foundation as set forth in Section 3 below
+
+1F
+
+1F1 Project Gutenberg volunteers and employees expend considerable
+effort to identify do copyright research on transcribe and proofread
+public domain works in creating the Project Gutenbergtm
+collection Despite these efforts Project Gutenbergtm electronic
+works and the medium on which they may be stored may contain
+Defects such as but not limited to incomplete inaccurate or
+corrupt data transcription errors a copyright or other intellectual
+property infringement a defective or damaged disk or other medium a
+computer virus or computer codes that damage or cannot be read by
+your equipment
+
+1F2 LIMITED WARRANTY DISCLAIMER OF DAMAGES  Except for the Right
+of Replacement or Refund described in paragraph 1F3 the Project
+Gutenberg Literary Archive Foundation the owner of the Project
+Gutenbergtm trademark and any other party distributing a Project
+Gutenbergtm electronic work under this agreement disclaim all
+liability to you for damages costs and expenses including legal
+fees YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE STRICT
+LIABILITY BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1F3 YOU AGREE THAT THE FOUNDATION THE
+TRADEMARK OWNER AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL DIRECT INDIRECT CONSEQUENTIAL PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE
+
+1F3 LIMITED RIGHT OF REPLACEMENT OR REFUND  If you discover a
+defect in this electronic work within 90 days of receiving it you can
+receive a refund of the money if any you paid for it by sending a
+written explanation to the person you received the work from If you
+received the work on a physical medium you must return the medium with
+your written explanation The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund If you received the work electronically the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund If the second copy
+is also defective you may demand a refund in writing without further
+opportunities to fix the problem
+
+1F4 Except for the limited right of replacement or refund set forth
+in paragraph 1F3 this work is provided to you ASIS WITH NO OTHER
+WARRANTIES OF ANY KIND EXPRESS OR IMPLIED INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE
+
+1F5 Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions
+
+1F6 INDEMNITY  You agree to indemnify and hold the Foundation the
+trademark owner any agent or employee of the Foundation anyone
+providing copies of Project Gutenbergtm electronic works in accordance
+with this agreement and any volunteers associated with the production
+promotion and distribution of Project Gutenbergtm electronic works
+harmless from all liability costs and expenses including legal fees
+that arise directly or indirectly from any of the following which you do
+or cause to occur a distribution of this or any Project Gutenbergtm
+work b alteration modification or additions or deletions to any
+Project Gutenbergtm work and c any Defect you cause
+
+
+Section 2 Information about the Mission of Project Gutenbergtm
+
+Project Gutenbergtm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete old middleaged and new computers It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenbergtms
+goals and ensuring that the Project Gutenbergtm collection will
+remain freely available for generations to come In 2001 the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenbergtm and future generations
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help see Sections 3 and 4
+and the Foundation web page at httpwwwpglaforg
+
+
+Section 3 Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501c3 educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service The Foundations EIN or federal tax identification
+number is 646221541 Its 501c3 letter is posted at
+httppglaforgfundraising Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by US federal laws and your states laws
+
+The Foundations principal office is located at 4557 Melan Dr S
+Fairbanks AK 99712 but its volunteers and employees are scattered
+throughout numerous locations Its business office is located at
+809 North 1500 West Salt Lake City UT 84116 801 5961887 email
+businesspglaforg Email contact links and up to date contact
+information can be found at the Foundations web site and official
+page at httppglaforg
+
+For additional contact information
+ Dr Gregory B Newby
+ Chief Executive and Director
+ gbnewbypglaforg
+
+
+Section 4 Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenbergtm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment Many small donations
+1 to 5000 are particularly important to maintaining tax exempt
+status with the IRS
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States Compliance requirements are not uniform and it takes a
+considerable effort much paperwork and many fees to meet and keep up
+with these requirements We do not solicit donations in locations
+where we have not received written confirmation of compliance To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit httppglaforg
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate
+
+International donations are gratefully accepted but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States US laws alone swamp our small staff
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses Donations are accepted in a number of other
+ways including including checks online payments and credit card
+donations To donate please visit httppglaforgdonate
+
+
+Section 5 General Information About Project Gutenbergtm electronic
+works
+
+Professor Michael S Hart is the originator of the Project Gutenbergtm
+concept of a library of electronic works that could be freely shared
+with anyone For thirty years he produced and distributed Project
+Gutenbergtm eBooks with only a loose network of volunteer support
+
+
+Project Gutenbergtm eBooks are often created from several printed
+editions all of which are confirmed as Public Domain in the US
+unless a copyright notice is included Thus we do not necessarily
+keep eBooks in compliance with any particular paper edition
+
+
+Most people start at our Web site which has the main PG search facility
+
+ httpwwwgutenbergnet
+
+This Web site includes information about Project Gutenbergtm
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation how to help produce our new eBooks and how to
+subscribe to our email newsletter to hear about new eBooks
