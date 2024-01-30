@@ -55,7 +55,6 @@ public class CountWords {
             e.printStackTrace();
         }
     }
-
     public void countWordsAndSave(File file, String outputDir, List<Long> datasetSizes, List<Long> countingTimes) throws IOException {
         String fileName = file.getName();
         File outputFile = new File(outputDir, fileName);
@@ -98,7 +97,6 @@ public class CountWords {
             System.err.println("improper number of arguments");
             System.exit(1);
         }
-
         CountWords countWords = new CountWords();
         countWords.count_words(args[0], args[1]);
     }

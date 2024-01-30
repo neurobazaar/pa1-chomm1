@@ -95,3 +95,4 @@ To run the Java sort_words program (after you build the project) use the followi
 ```
 java -cp target/app-java-1.0-SNAPSHOT.jar csc435.app.SortWords <input directory> <output directory>
 ```
+Compiled with javac and run using java "compiledClass". Datasets not included in repo due to file size constraint.

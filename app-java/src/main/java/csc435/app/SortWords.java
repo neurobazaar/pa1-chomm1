@@ -80,8 +80,7 @@ public class SortWords {
         Files.createDirectories(outputPath.getParent());
 
         List<WordFrequency> wordList = new ArrayList<>();
-        long totalWords = 0; // Initialize totalWords
-
+        long totalWords = 0;
         BufferedReader reader = null;
         BufferedWriter writer = null;
 
@@ -94,10 +93,9 @@ public class SortWords {
                     String word = parts[0];
                     int frequency = Integer.parseInt(parts[1]);
                     wordList.add(new WordFrequency(word, frequency));
-                    totalWords += frequency; // Increment totalWords
+                    totalWords += frequency;
                 }
             }
-
             Collections.sort(wordList, Collections.reverseOrder());
 
             writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(outputPath.toFile()), StandardCharsets.UTF_8));
@@ -121,9 +119,8 @@ public class SortWords {
         }
 
         System.out.println("Sorted: " + outputPath);
-        return totalWords; // Return the totalWords count
+        return totalWords; 
     }
-
     static class WordFrequency implements Comparable<WordFrequency> {
         private final String word;
         private final int frequency;
